@@ -105,7 +105,7 @@
 - Stretch
 
 ## Thursday (5/9) Push
-- Warmup
+- Warm-up
   - Push-up 10
   - Bench press (45) 10
 - Bench press (90) 10/10/10/10
@@ -115,8 +115,8 @@
 - Chin-up 10/9/6
 - Stretch
 
-## Friday (5/10) Pull
-- Warmup
+## Friday (5/10) Pull (139 lbs)
+- Warm-up
   - Foam roll (back/sides/arms)
 - Bent over overhand barbell row (120) 6/6/6/6
 - Barbell curl (65) 6/6/4.5
@@ -137,14 +137,84 @@
 ## Sunday (5/12) Rest
 - Bench press (125) 4
 
-## Monday (5/13) Push
-- Warmup (chest/back/arms/shoulders/neck)
-- Smith bench press {(135/145/155) 6/6/5} 155
-- Chin-up {10/9/6}
-- Smith incline bench press {(90) 6/6/5}
-- Fly {(25) 6/5/5}
-- Barbell shoulder press {(30/40/45/50) 10/10/10/5.5}
-- Lateral raise {(20/15/15/) 6weak/6/6}
-- Seated dumbbell shoulder press {(25) 8/6/6}
-- Bent over reverse fly (15)
+## Monday (5/13) Push (142 lbs)
+- Warm-up (chest/back/arms/shoulders/neck)
+- Smith bench press (155) 6/6/5
+- Chin-up 10/6/6
+- Fly (25) 6/6/6
+- Barbell shoulder press (50/60/60) 10/7/5
+- Lateral raise (15) 8/7/5 (not high enough)
+- Seated dumbbell shoulder press (25) 8/8/10
+- Bent over reverse fly (10) 8/8/8 (not high enough)
 - Stretch (chest/back/arms/shoulders/neck)
+
+## Tuesday (5/14) Pull (139.5 lbs)
+- Warm-up (neck/shoulders/back/chest/arms)
+- Bent over underhand barbell row (130) 6/6/6
+- Barbell curl (65) 6/6/5.5 (right shoulder coming up)
+- Upright close grip barbell row (65) 4/4/5 (not high enough)
+- Pull-up 6/5/5
+- Preacher curl (40/50/50) 8/6/5
+- Bent over single dumbbell row (55) 8/8/8 (not high enough)
+- Dumbbell curl (30) 4
+- Stretch (neck/shoulders/back/chest/arms)
+
+## Wednesday (5/15) Legs (138.5 lb)
+- Warm-up (glute/hamstring/quad/calf)
+- Deadlift (120) 8/8/8
+- Smith squat (130) 8/8/8
+- Leg press (190/190/210) 8/8/8
+- Leg extension (110) 8/8/6.5
+- Leg curl (70) 8/8/8
+- Stretch (glute/hamstring/quad/calf/pull-up)
+
+## Thursday (5/16) Push
+- Warmup
+- Bench press (115) 8/7/6
+- Incline bench press (75) 8/8/8
+- BB shoulder press (60) 8/7/5 (using lower back, stop, lower weights and focus on front delts)
+- Bent over reverse fly {(10) 8/8/8} (5/5/10/10) 12/12/12/12
+- DB shoulder press (25/30/30) 12/7/5
+- Reverse seated dip 12/12/12
+- Chin-up close grip 8
+- Stretch
+
+## Friday (5/17) Pull (40min) (139/140 lb)
+- Warmup (back/shoulders/arms)
+- Bent over barbell row (135) 6/5/4 (not bent over enough, lower weight to 120 and bend more)
+- Pull-up 7/7/6
+- Barbell curl (65) 6/5.5/3.5/3
+- Close grip upright row (60) 6/8/8
+- Pull down (115) 8/8/6
+- Preacher curl (50) 8/4/4
+- Stretch (back/shoulders/arms)
+
+## Saturday (5/18) Legs (40min goal)
+- Warmup (bike)
+- Squat (120) 8/8/8 (not low enough) PR
+- Deadlift (125) 8/8/8 PR
+- Leg extension (90/90/100/105) 8/8/8/7
+- Goblet squat (30) 8/8/8
+- Bench press (130) 3 PR
+- Stretch
+
+## Sunday (5/19) Active Rest
+
+## Monday (5/20) Push (143.5/144 lb)
+1:00 leave desk
+1:06 weigh in
+1:07 warm-up
+1:13 start
+- Smith bench press (155) 6/8/6
+- Smith incline bench press (95/115/115) 8/6/5
+- Seated DB shoulder press (30) 6/7/6
+- Incline push-up 10/10/10
+- Dip 4/4/3
+- Bent over reverse fly (10) 10/12/10/12
+- Lateral raise (12) 12/12/10
+- Chin-up 7/5/3
+1:53 end
+- Stretch
+- 1:59 weigh in
+- 2:18 leave gym
+- 2:20 return to desk
