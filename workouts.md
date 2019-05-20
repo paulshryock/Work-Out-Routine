@@ -200,7 +200,8 @@
 
 ## Sunday (5/19) Active Rest
 
-## Monday (5/20) Push (7min walk & locker/6min warmup/40min workout/5min stretch/23min shower & walk) (143.5/144 lb)
+## Monday (5/20) Push (143.5/144 lb)
+### 7min walk & locker/6min warmup/40min workout/5min stretch/23min shower & walk
 - Warmup
 - Smith bench press (155) 6/8/6
 - Smith incline bench press (95/115/115) 8/6/5
