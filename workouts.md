@@ -200,11 +200,8 @@
 
 ## Sunday (5/19) Active Rest
 
-## Monday (5/20) Push (143.5/144 lb)
-1:00 leave desk
-1:06 weigh in
-1:07 warm-up
-1:13 start
+## Monday (5/20) Push (7min walk & locker/6min warmup/40min workout/5min stretch/23min shower & walk) (143.5/144 lb)
+- Warmup
 - Smith bench press (155) 6/8/6
 - Smith incline bench press (95/115/115) 8/6/5
 - Seated DB shoulder press (30) 6/7/6
@@ -213,8 +210,4 @@
 - Bent over reverse fly (10) 10/12/10/12
 - Lateral raise (12) 12/12/10
 - Chin-up 7/5/3
-1:53 end
 - Stretch
-- 1:59 weigh in
-- 2:18 leave gym
-- 2:20 return to desk
