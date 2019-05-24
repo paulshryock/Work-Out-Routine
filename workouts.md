@@ -179,7 +179,7 @@
 - Chin-up close grip 8
 - Stretch
 
-## Friday (5/17) Pull (40min) (139/140 lb)
+## Friday (5/17) Pull (139/140 lb)
 - Warmup (back/shoulders/arms)
 - Bent over barbell row (135) 6/5/4 (not bent over enough, lower weight to 120 and bend more)
 - Pull-up 7/7/6
@@ -189,7 +189,7 @@
 - Preacher curl (50) 8/4/4
 - Stretch (back/shoulders/arms)
 
-## Saturday (5/18) Legs (40min goal)
+## Saturday (5/18) Legs
 - Warmup (bike)
 - Squat (120) 8/8/8 (not low enough) PR
 - Deadlift (125) 8/8/8 PR
@@ -201,7 +201,6 @@
 ## Sunday (5/19) Active Rest
 
 ## Monday (5/20) Push (143.5/144 lb)
-### 7min walk & locker/6min warmup/40min workout/5min stretch/23min shower & walk
 - Warmup
 - Smith bench press (155) 6/8/6
 - Smith incline bench press (95/115/115) 8/6/5
@@ -212,3 +211,22 @@
 - Lateral raise (12) 12/12/10
 - Chin-up 7/5/3
 - Stretch
+
+## Tuesday (5/21) Boot Camp
+
+## Wednesday (5/22) Pull
+- Bent over BB row (135) 6/6/7
+- Fly (25) 8/8/8
+- DB curl (30) 8/6/6
+- EZ bar curl (65) 6/6/5
+- Close grip upright row {(60) 6/8/8} (60/50/50/50) 4/5/8/8 (left forearm/shoulder pain)
+- Preacher single DB curl (20/25/25) 8/8/6
+- Pull-up 7/5/4
+- Stretch shoulders, arms, back
+
+## Thursday (5/23) Legs (139.5/140 lb)
+- Smith squat (2min) (135/140/140) 8/8/8 PR
+- Deadlift (1.5min) (130) 8/8/8 PR
+- Leg press (45sec) (210) 10/10/10 PR
+- Leg extension (110) 8/8/7.5
+- Leg curl (90) 8/8/6 PR
