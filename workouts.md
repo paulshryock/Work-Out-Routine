@@ -173,7 +173,7 @@
 - Bench press (115) 8/7/6
 - Incline bench press (75) 8/8/8
 - BB shoulder press (60) 8/7/5 (using lower back, stop, lower weights and focus on front delts)
-- Bent over reverse fly {(10) 8/8/8} (5/5/10/10) 12/12/12/12
+- Bent over reverse fly (5/5/10/10) 12/12/12/12
 - DB shoulder press (25/30/30) 12/7/5
 - Reverse seated dip 12/12/12
 - Chin-up close grip 8
@@ -230,3 +230,18 @@
 - Leg press (45sec) (210) 10/10/10 PR
 - Leg extension (110) 8/8/7.5
 - Leg curl (90) 8/8/6 PR
+
+## Friday (5/24) Push
+- Warmup
+
+- Bench press {(115) 8/7/6} (115) //
+- Incline bench press (95) //
+- BB shoulder press (focus on front delts) (50) //
+- Seated DB shoulder press {(30) 6/7/6} (30) //
+- Incline push-up {10/10/10} //
+- Reverse bench dip //
+- Bent over reverse fly {(10) 10/12/10/12} (15) //
+- Lateral raise {(12) 12/12/10} (15) //
+- Chin-up {7/5/3} //
+
+- Stretch
