@@ -266,12 +266,12 @@
 - Pull-up 7/25
 - Stretch
 
-## Tuesday (5/28) Legs
+## Tuesday (5/28) Legs (141/141.5 lb)
 - Warmup
-- Smith squat (2min) {(135/140/140) 8/8/8} (145) //
-- Deadlift (1.5min) {(130) 8/8/8} (135) //
-- Leg press (45sec) {(210) 10/10/10} (220)
-- Leg extension (45sec) {(110) 8/8/7.5} (110) //
-- Leg curl (45sec) {(90) 8/8/6} (90) //
-- Face pull (30sec) (40) //
+- Smith squat (1.5min) (145/155/155) 8/8/8
+- Deadlift (1.25min) (135/140/145) 8/8/8
+- Leg press (45sec) (230) 8/8/6
+- Leg extension (45sec) (110) 7.5/6/7.5
+- Leg curl (45sec) (90) 10/7/7
+- Face pull (30sec) (30) 12/12/12
 - Stretch
