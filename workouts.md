@@ -233,15 +233,45 @@
 
 ## Friday (5/24) Push
 - Warmup
+- Bench press {(115) 8/7/6} (115) 8/8/8
+- Incline bench press (95) 6/4/4
+- BB shoulder press (focus on front delts) (50) 8/8/8
+- Seated incline DB shoulder press {(30) 6/7/6} (30) 8/7/5
+- Incline push-up {10/10/10} 10/10/12
+- Reverse bench dip 10/12/15
+- Bent over reverse fly {(10) 10/12/10/12} (15) 10/8/8
+- Stretch
 
-- Bench press {(115) 8/7/6} (115) //
-- Incline bench press (95) //
-- BB shoulder press (focus on front delts) (50) //
-- Seated DB shoulder press {(30) 6/7/6} (30) //
-- Incline push-up {10/10/10} //
-- Reverse bench dip //
-- Bent over reverse fly {(10) 10/12/10/12} (15) //
-- Lateral raise {(12) 12/12/10} (15) //
-- Chin-up {7/5/3} //
+## Saturday (5/25) Rest
 
+## Sunday (5/26) Push (142 lb)
+- Warm-up
+- Incline bench press (95) 8/8/8
+- Seated DB shoulder press (30) 8/7/7
+- Dip 9/7/7
+- Lateral raise (10/15/15) 10/8/8
+- Bent over reverse fly (15) 8/9/9
+- Shrug (45/50/55) 8/8/8
+- Chin-up 8/6/6
+- Face pull (30/30/40) 12/12/12
+- Stretch
+
+## Monday (5/27) Pull
+- Warm-up
+- Bent over BB row (140) 7/5/7
+- Fly (30) 8/4/5
+- DB curl (30) 8/7/7
+- EZ bar curl {(65) 6/6/5} (65) 7/7/5
+- Preacher single DB curl (25) 8/8/8
+- Pull-up 7/25
+- Stretch
+
+## Tuesday (5/28) Legs
+- Warmup
+- Smith squat (2min) {(135/140/140) 8/8/8} (145) //
+- Deadlift (1.5min) {(130) 8/8/8} (135) //
+- Leg press (45sec) {(210) 10/10/10} (220)
+- Leg extension (45sec) {(110) 8/8/7.5} (110) //
+- Leg curl (45sec) {(90) 8/8/6} (90) //
+- Face pull (30sec) (40) //
 - Stretch
