@@ -275,3 +275,15 @@
 - Leg curl (45sec) (90) 10/7/7
 - Face pull (30sec) (30) 12/12/12
 - Stretch
+
+## Wednesday (5/29) Push
+- Warmup
+- Bench press
+- Overhead press
+- Dip
+- Bent over reverse fly
+- Forward raise
+- Lateral raise
+- Chin-up
+- Face pull
+- Stretch
