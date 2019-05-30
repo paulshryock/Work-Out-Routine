@@ -235,11 +235,44 @@
 - Face pull (30sec) (40) 12/12/12
 
 ## Thursday (5/30) Pull
-- Warmup
-- Bent over BB row {(140) 7/5/7} (140)
-- Fly {(30) 8/4/5} (30)
-- DB curl {(30) 8/7/7} (30)
-- EZ bar curl {(65) 7/7/5} (65)
-- Preacher single DB curl {(25) 8/8/8} (30)
-- Australian Pull-up {7/25}
+- Bent over BB row (140/140/135) 8/7/6 (130/135 and improve form)
+- Fly (30) 7/6/5
+- DB curl (30) 8/8/6
+- EZ bar curl (65/65/50/50) 8/4/5/7 (50/55 and improve form)
+- Skull crusher (35) 8
+- Preacher single DB curl (30) 6/5/5
+- Australian Pull-up (lower each time) 25/25/25
+
+## Friday (5/31) Legs
+- Warm-up
+- Smith squat (1.5min) {(145/155/155) 8/8/8} (160)
+- Deadlift (1.25min) {(135/140/145) 8/8/8} (145)
+- Leg press (45sec) {(230) 8/8/6} (230)
+- Leg extension (45sec) {(110) 7.5/6/7.5} (110)
+- Leg curl (45sec) {(90) 10/7/7} (90)
+- Face pull (30sec) {(30) 12/12/12} (45)
+- Bench press {(135) 2} (135)
+- Stretch
+
+## Saturday (6/1) Push
+- Warm-up
+- Incline bench press (95) 8/8/8
+- Seated DB overhead press (30) 8/7/7
+- Dip 9/7/7
+- Lateral raise (10/15/15) 10/8/8
+- Bent over reverse fly (15) 8/9/9
+- Shrug (45/50/55) 8/8/8
+- Chin-up 8/6/6
+- Face pull (30/30/40) 12/12/12
+- Stretch
+
+## Sunday (6/2) Pull
+- Warm-up
+- Bent over BB row {(140/140/135) 8/7/6} (130/135 and improve form) (130)
+- Fly {(30) 7/6/5} (30)
+- DB curl {(30) 8/8/6} (30)
+- EZ bar curl {(65/65/50/50) 8/4/5/7} (50/55 and improve form) (50)
+- Skull crusher {(35) 8} (35)
+- Preacher single DB curl {(30) 6/5/5} (30)
+- Australian Pull-up {25/25/25} (lower each time)
 - Stretch
