@@ -224,14 +224,22 @@
 - Bench press (135) 2
 
 ## Wednesday (5/29) Push
-- Warm-up (5min) (chest, shoulders, back)
-- Smith incline bench press (1min) {(95/115/115) 8/6/5} (115) //
-- Seated incline DB overhead press (1min) {(30) 8/7/5} (30) //
-- Dip (1min) {9/7/7} //
-- Forward raise (45sec) (15) //
-- Lateral raise (45sec) {(10/15/15) 10/8/8} (15) //
-- Bent over reverse fly (45sec) {(15) 8/9/9} (20) //
-- Chin-up (30sec) {8/6/6} //
-- Incline push-up (30sec) {10/10/10} //
-- Face pull (30sec) {(30) 12/12/12} (40) //
-- Stretch (5min) (chest, shoulders, back)
+- Seated incline DB overhead press (1min) (30/30/35) 10/10/12
+- Smith incline bench press (1min) (115) 10/8/6
+- Dip (1min) 8/6/6
+- Forward raise (45sec) (15) 8/8/8 (not high enough)
+- Lateral raise (45sec) (15) 8/8/8
+- Bent over reverse fly (45sec) (20) 8/8/8 (not high enough)
+- Chin-up (30sec) 8/6/5 (not high enough)
+- Incline push-up (30sec) 12/10/7 (sometimes lost form)
+- Face pull (30sec) (40) 12/12/12
+
+## Thursday (5/30) Pull
+- Warmup
+- Bent over BB row {(140) 7/5/7} (140)
+- Fly {(30) 8/4/5} (30)
+- DB curl {(30) 8/7/7} (30)
+- EZ bar curl {(65) 7/7/5} (65)
+- Preacher single DB curl {(25) 8/8/8} (30)
+- Australian Pull-up {7/25}
+- Stretch
