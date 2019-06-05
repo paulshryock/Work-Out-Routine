@@ -294,15 +294,22 @@
 - Pull down (30sec) (115/115/100) 8/8/8
 - Face pull (30sec) (50/50/40) 12/12/12
 
-## Wednesday (6/5) Legs (
-- Warm-up
-- Smith squat (1.5min) {(160) 8/8/8} (160)
-- Deadlift (1.5min) {(145) 8/8/8} (145)
-- Bulgarian split DB squat (30s) 
-- Leg press (45sec) {(245) 8/8/8} (245)
-- Leg extension (45sec) {(110) 8/7.5/7} (110)
-- Leg curl (45sec) {(90) 8/8/7.5} (90)
-- Face pull (30sec) {(50/50/40) 12/12/12} (60)
-- Stretch
+## Wednesday (6/5) Legs (142/143.25 lb)
+- Smith squat (1.5min) (160) 8/10/9.5
+- Deadlift (1.5min) (145) 8/10/8
+- Bulgarian split DB squat (1min) (30) 8/8/6
+- Leg press (45sec) (245) 8/8/8
+- Leg curl (45sec) (90/95/90) 8/8/6
+- Face pull (30sec) (leaning back, correct form) (60/60/50) 12/12/12
 
 ## Thursday (6/6) Push
+- Warm-up
+- Bench press {(65/80/95/100/105/110) 12/12/10/10/8/5} (110)
+- BB overhead press (focus on front delts, straight back) {(45) 10/10/9} (50)
+- Seated DB overhead press (focus on front delts, straight back) {(30) 10/7/5} (30)
+- Reverse bench dip (1min)
+- Incline push-up (45sec) (don't lose form) {7/8/7}
+- Front raise (45sec) {(12) 10/10/10} (15)
+- Lateral raise (45sec) {(12) 10/10/9} (15)
+- Chin-up (45sec) {8/6/5 (not high enough)}
+- Stretch
