@@ -317,21 +317,11 @@ Week 6
 ## Thursday (6/6) Rest
 
 ## Friday (6/7) Push
-- Warm-up
-
 - Smith incline bench press (upper chest, front delts, triceps) (1min) {(115) 10/8/6} (115,35s)
 - Incline push-up (upper chest) (45sec) (don't lose form) {7/8/7}
-
-- BB overhead press (front delts, chest, arms, upper back, straight back) {(45) 10/10/9} (50,10s)
+- BB overhead press (front delts, chest, arms, upper back, straight back) (45sec) {(45) 10/10/9} (50,10s)
 - Dip (front delts, chest, back) (1min) {12/8/7}
-
 - Front raise (front delts) (30sec) {(12) 10/10/10} (12)
-- Lateral raise (side delts) (30sec) {(12) 10/10/9} (12)
-
 - Push down (triceps) (30sec) {(50/60/60/70) 12/12/12/7} (70)
-- Skull crusher (30sec) {(35) 10/8/6} (35,10s)
-
-- Chin-up (back, arms) (45sec) {8/6/5 (not high enough)}
+- Skull crusher (triceps) (30sec) {(35) 10/8/6} (35,10s)
 - Face pull (30sec) (leaning back, correct form) {(60/60/50) 12/12/12} (50)
-
-- Stretch
