@@ -1,5 +1,7 @@
 # Workouts
 
+Week 1
+
 ## Sunday 4/28
 - Bench Press (90) 10/10/10
 - Squat (65/75/85) 10/10/10
@@ -52,6 +54,8 @@
 - Scap pull
 - Pull-up
 
+Week 2
+
 ## Sunday (5/5) Rest
 
 ## Monday (5/6) Push
@@ -102,6 +106,8 @@
 - Bench press (95/105/110/115/120) 8/8/6/6/5
 - Squat (95/105/110/115) 8/8/8/6
 - Leg extension (90/95/100) 8/6/6
+
+Week 3
 
 ## Sunday (5/12) Rest
 - Bench press (125) 4
@@ -155,6 +161,8 @@
 - Goblet squat (30) 8/8/8
 - Bench press (130) 3 PR
 
+Week 4
+
 ## Sunday (5/19) Active Rest
 
 ## Monday (5/20) Push (143.5/144 lb)
@@ -195,6 +203,8 @@
 - Bent over reverse fly (15) 10/8/8
 
 ## Saturday (5/25) Rest
+
+Week 5
 
 ## Sunday (5/26) Push (142 lb)
 - Incline bench press (95) 8/8/8
@@ -264,6 +274,8 @@
 - Bent over simulated seated row (30sec) (10) 10/10/10
 - Stretch
 
+Week 6
+
 ## Sunday (6/2) Pull/Recovery
 - Warm-up
 - Bent over BB row (95) 8/8/8
@@ -302,14 +314,24 @@
 - Leg curl (45sec) (90/95/90) 8/8/6
 - Face pull (30sec) (leaning back, correct form) (60/60/50) 12/12/12
 
-## Thursday (6/6) Push
+## Thursday (6/6) Rest
+
+## Friday (6/7) Push
 - Warm-up
-- Bench press {(65/80/95/100/105/110) 12/12/10/10/8/5} (110)
-- BB overhead press (focus on front delts, straight back) {(45) 10/10/9} (50)
-- Seated DB overhead press (focus on front delts, straight back) {(30) 10/7/5} (30)
-- Reverse bench dip (1min)
-- Incline push-up (45sec) (don't lose form) {7/8/7}
-- Front raise (45sec) {(12) 10/10/10} (15)
-- Lateral raise (45sec) {(12) 10/10/9} (15)
-- Chin-up (45sec) {8/6/5 (not high enough)}
+
+- Smith incline bench press (upper chest, front delts, triceps) (1min) {(115) 10/8/6} (115,35s)
+- Incline push-up (upper chest) (45sec) (don't lose form) {7/8/7}
+
+- BB overhead press (front delts, chest, arms, upper back, straight back) {(45) 10/10/9} (50,10s)
+- Dip (front delts, chest, back) (1min) {12/8/7}
+
+- Front raise (front delts) (30sec) {(12) 10/10/10} (12)
+- Lateral raise (side delts) (30sec) {(12) 10/10/9} (12)
+
+- Push down (triceps) (30sec) {(50/60/60/70) 12/12/12/7} (70)
+- Skull crusher (30sec) {(35) 10/8/6} (35,10s)
+
+- Chin-up (back, arms) (45sec) {8/6/5 (not high enough)}
+- Face pull (30sec) (leaning back, correct form) {(60/60/50) 12/12/12} (50)
+
 - Stretch
