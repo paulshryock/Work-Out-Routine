@@ -212,7 +212,7 @@ Week 5
 - Dip 9/7/7
 - Lateral raise (10/15/15) 10/8/8
 - Bent over reverse fly (15) 8/9/9
-- Shrug (45/50/55) 8/8/8
+- DB shrug (45/50/55) 8/8/8
 - Chin-up 8/6/6
 - Face pull (30/30/40) 12/12/12
 
@@ -254,14 +254,12 @@ Week 5
 - Australian Pull-up (lower each time) 25/25/25
 
 ## Friday (5/31) Legs (141/142 lb)
-- Warm-up
 - Smith squat (1.5min) (160) 8/8/8
 - Deadlift (1.5min) {(135/140/145) 8/8/8} (145) 8/8/8
 - Leg press (45sec) {(230) 8/8/6} (245) 8/8/8
 - Leg extension (45sec) {(110) 7.5/6/7.5} (110) 8/7.5/7
 - Leg curl (45sec) {(90) 10/7/7} (90) 8/8/7.5
 - Face pull (30sec) {(30) 12/12/12} (40) 12/12/12
-- Stretch
 - Bench press {(135) 2} (135)
 
 ## Saturday (6/1) Push
@@ -328,8 +326,10 @@ Week 6
 
 ## Saturday (6/8) Cardio/rest
 
+Week 7
+
 ## Sunday (6/9) Pull
-- Bent over BB row (2min) (130) 8/8/8
+- Bent over BB OH row (2min) (130) 8/8/8
 - DB curl (45sec) (45) 8/8/8
 - Bent over single DB row (45sec) (45) 12/10/8
 - EZ bar curl (45sec) (50) 12/11/10
@@ -337,13 +337,23 @@ Week 6
 - Preacher single DB curl (45sec) (30) 8/7/4
 - Australian Pull-up 25
 
-## Monday (6/10) Push (
-- Smith bench press (chest, biceps, front delts, triceps) {(155) 8/8/5} (160,57.5s)
-- BB overhead press (front delts, upper traps, upper chest) {(45) 10/10/9} (50,10s)
-- Dip (chest, triceps, front delts) (1min) {12/8/7} 
-- Decline push-up (lower chest, back) (30sec) 
-- Skull crusher (triceps) (1min) {(35) 5/7/5} (35,10s)
-- Push down (triceps) (30sec) {(70) 10/10/7} (70)
-- DB front raise (front delts) (30sec) {(12) 10/10/10} (15)
-- DB lateral raise (side delts) (30sec) {(12) 10/10/9} (15)
+## Monday (6/10) Push (141/142 lb)
+- Smith bench press (chest, biceps, front delts, triceps) (1min) (160) 7/6/5
+- BB overhead press (front delts, upper traps, upper chest) (1min) (50) 10/8/7
+- Dip (chest, triceps, front delts) (1min) 10/8/5
+- Decline push-up (lower chest, back) (1min) 10/10/10
+- Skull crusher (triceps) (1min) (35) 7/7/6
+- Push down (triceps) (1min) (70) 8/8/7
+- DB front raise (front delts) (1min) (15) 10/12/10
+- DB lateral raise (side delts) (45sec) (15) 10/10/8
+- Face pull (1min) (50) 12/12/12
+
+## Tuesday (6/4) Pull ()
+- Bent over BB OH row {(130) 8/8/8} (130,50s)
+- DB curl {(25) 10/8/8} (30s)
+- Bent over single DB row {(45) 12/10/8} (50s)
+- EZ bar curl {(50) 8/7/5} (50,17.5s)
+- Pull-up (shoulders, arms, back)
+- DB shrug {(45/50/55) 8/8/8} (60s)
+- Pull down {(115/115/100) 8/8/8 (115)
 - Face pull {(50) 12/12/12} (50)
