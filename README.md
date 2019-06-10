@@ -288,9 +288,9 @@ Week 6
 
 ## Monday (6/3) Push (141/142 lb)
 - Smith bench press (155) 8/8/5
-- BB overhead press (focus on front delts) {(50) 8/8/8} (45) 10/10/9
+- BB overhead press (45) 10/10/9
 - Dip (1min) {8/6/6} 12/8/7
-- Incline push-up (30sec) {12/10/7} (don't lose form) 7/8/7
+- Incline push-up (30sec) 7/8/7
 - Front raise (30sec) (12) 10/10/10
 - Lateral raise (30sec) (12) 10/10/9
 - Push down (30sec) (50/60/60/70) 12/12/12/7
@@ -316,12 +316,34 @@ Week 6
 
 ## Thursday (6/6) Rest
 
-## Friday (6/7) Push
-- Smith incline bench press (upper chest, front delts, triceps) (1min) {(115) 10/8/6} (115,35s)
-- Incline push-up (upper chest) (45sec) (don't lose form) {7/8/7}
-- BB overhead press (front delts, chest, arms, upper back, straight back) (45sec) {(45) 10/10/9} (50,10s)
-- Dip (front delts, chest, back) (1min) {12/8/7}
-- Front raise (front delts) (30sec) {(12) 10/10/10} (12)
-- Push down (triceps) (30sec) {(50/60/60/70) 12/12/12/7} (70)
-- Skull crusher (triceps) (30sec) {(35) 10/8/6} (35,10s)
-- Face pull (30sec) (leaning back, correct form) {(60/60/50) 12/12/12} (50)
+## Friday (6/7) Push (142.25/143.5 lb)
+- Smith incline bench press (upper chest, front delts, triceps) (1min) (115) 10/10/10
+- Incline push-up (upper chest) (45sec) 10/10/10
+- BB overhead press (front delts, chest, arms, upper back, straight back) (45sec) (50,10s) 8/8/7.5
+- Dip (front delts, chest, back) (1min) 9/8/5
+- Front raise (front delts) (30sec) (12) 10/10/10
+- Push down (triceps) (30sec) (70) 10/10/7
+- Skull crusher (triceps) (1min) (35) 5/7/5
+- Face pull (30sec) (50) 12/12/12
+
+## Saturday (6/8) Cardio/rest
+
+## Sunday (6/9) Pull
+- Bent over BB row (2min) (130) 8/8/8
+- DB curl (45sec) (45) 8/8/8
+- Bent over single DB row (45sec) (45) 12/10/8
+- EZ bar curl (45sec) (50) 12/11/10
+- EZ bar shrug (50/65/80) 12/12/12
+- Preacher single DB curl (45sec) (30) 8/7/4
+- Australian Pull-up 25
+
+## Monday (6/10) Push (
+- Smith bench press (chest, biceps, front delts, triceps) {(155) 8/8/5} (160,57.5s)
+- BB overhead press (front delts, upper traps, upper chest) {(45) 10/10/9} (50,10s)
+- Dip (chest, triceps, front delts) (1min) {12/8/7} 
+- Decline push-up (lower chest, back) (30sec) 
+- Skull crusher (triceps) (1min) {(35) 5/7/5} (35,10s)
+- Push down (triceps) (30sec) {(70) 10/10/7} (70)
+- DB front raise (front delts) (30sec) {(12) 10/10/10} (15)
+- DB lateral raise (side delts) (30sec) {(12) 10/10/9} (15)
+- Face pull {(50) 12/12/12} (50)
