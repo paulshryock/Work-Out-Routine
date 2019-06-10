@@ -182,7 +182,7 @@ Week 4
 - Fly (25) 8/8/8
 - DB curl (30) 8/6/6
 - EZ bar curl (65) 6/6/5
-- Close grip upright row {(60) 6/8/8} (60/50/50/50) 4/5/8/8 (left forearm/shoulder pain)
+- Close grip upright row (60/50/50/50) 4/5/8/8 (left forearm/shoulder pain)
 - Preacher single DB curl (20/25/25) 8/8/6
 - Pull-up 7/5/4 shoulders, arms, back
 
@@ -194,7 +194,7 @@ Week 4
 - Leg curl (90) 8/8/6 PR
 
 ## Friday (5/24) Push
-- Bench press {(115) 8/7/6} (115) 8/8/8
+- Bench press (115) 8/8/8
 - Incline bench press (95) 6/4/4
 - BB overhead press (focus on front delts) (50) 8/8/8
 - Seated incline DB overhead press (30) 8/7/5
@@ -220,7 +220,7 @@ Week 5
 - Bent over BB row (140) 7/5/7
 - Fly (30) 8/4/5
 - DB curl (30) 8/7/7
-- EZ bar curl {(65) 6/6/5} (65) 7/7/5
+- EZ bar curl (65) 7/7/5
 - Preacher single DB curl (25) 8/8/8
 - Pull-up 7/25
 
@@ -255,17 +255,17 @@ Week 5
 
 ## Friday (5/31) Legs (141/142 lb)
 - Smith squat (1.5min) (160) 8/8/8
-- Deadlift (1.5min) {(135/140/145) 8/8/8} (145) 8/8/8
-- Leg press (45sec) {(230) 8/8/6} (245) 8/8/8
-- Leg extension (45sec) {(110) 7.5/6/7.5} (110) 8/7.5/7
-- Leg curl (45sec) {(90) 10/7/7} (90) 8/8/7.5
-- Face pull (30sec) {(30) 12/12/12} (40) 12/12/12
-- Bench press {(135) 2} (135)
+- Deadlift (1.5min) (145) 8/8/8
+- Leg press (45sec) (245) 8/8/8
+- Leg extension (45sec) (110) 8/7.5/7
+- Leg curl (45sec) (90) 8/8/7.5
+- Face pull (30sec) (40) 12/12/12
+- Bench press (135)
 
 ## Saturday (6/1) Push
 - Warm-up
 - Bench press (65/80/95/100/105/110) 12/12/10/10/8/5
-- Seated DB overhead press {(30) 8/7/7} (30) 10/7/5
+- Seated DB overhead press (30) 10/7/5
 - Push-up (25/10/5) 4/8/8
 - Front raise (30sec) (15) 8/8/8
 - Lateral raise (30sec) (15/15/10) 8/8/10 (15 is not high enough, do 10)
@@ -287,7 +287,7 @@ Week 6
 ## Monday (6/3) Push (141/142 lb)
 - Smith bench press (155) 8/8/5
 - BB overhead press (45) 10/10/9
-- Dip (1min) {8/6/6} 12/8/7
+- Dip (1min) 12/8/7
 - Incline push-up (30sec) 7/8/7
 - Front raise (30sec) (12) 10/10/10
 - Lateral raise (30sec) (12) 10/10/9
