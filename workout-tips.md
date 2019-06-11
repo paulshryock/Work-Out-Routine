@@ -1,4 +1,4 @@
-# Gym progress 
+# Workout tips
 
 ## Here's what works for me
 
