@@ -348,7 +348,7 @@ Week 7
 - DB lateral raise (side delts) (45sec) (15) 10/10/8
 - Face pull (1min) (50) 12/12/12
 
-## Tuesday (6/11) Pull (141/
+## Tuesday (6/11) Pull (141/143 lb)
 - Bent over BB OH row (130) 8/8/8 (lower back pain, lower the weight to 100)
 - Incline bench DB curl (biceps) (20) 8/8/8 (inner elbow pain)
 - Bent over single DB row (50) 9/9/9
