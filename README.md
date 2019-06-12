@@ -357,3 +357,12 @@ Week 7
 - DB shrug (40/50/60) 12/12/8
 - Pull down (lats) (100/115/115) 12/7/7
 - Face pull (50/50/60) 12/12/12
+
+## Wednesday (6/12) Legs (
+- Smith squat (1.5min) {(160) 8/10/9.5} (165, 60s) 
+- Deadlift (1.5min) {(145) 8/10/8} (150, 60s) 
+- Bulgarian split DB squat (1min) {(30) 8/8/6} (30s) 
+- Leg press (45sec) {(245) 8/8/8} (250) 
+- Leg extension (45sec) {(110) 8/7.5/7} (110) 
+- Leg curl (45sec) {(90/95/90) 8/8/6} (95) 
+- Face pull (45sec) (40) 
