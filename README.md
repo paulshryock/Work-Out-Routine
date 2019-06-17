@@ -28,7 +28,8 @@ Week 1
 - DB curl (25) 6/6/6
 - Pull down (85/100/100) 8/6/5
 
-## Wednesday 5/1 Legs: Run (incline 10.0/speed 7.0) 2min
+## Wednesday 5/1 Legs
+- Run (incline 10.0/speed 7.0) 2min
 - Smith squat (100/115/115/115) 8/6/8/8
 - Deadlift (100) 8/8/8/10
 - Leg press (130/150/170) 8/8/8
@@ -102,7 +103,6 @@ Week 2
 - Pull down (115) 6/5.5/4
 
 ## Saturday (5/11) Chest/Legs
-
 - Bench press (95/105/110/115/120) 8/8/6/6/5
 - Squat (95/105/110/115) 8/8/8/6
 - Leg extension (90/95/100) 8/6/6
@@ -112,30 +112,30 @@ Week 3
 ## Sunday (5/12) Rest
 - Bench press (125) 4
 
-## Monday (5/13) Push (142 lbs) (chest/back/arms/shoulders/neck)
+## Monday (5/13) Push (142 lbs)
 - Smith bench press (155) 6/6/5
 - Chin-up 10/6/6
 - Fly (25) 6/6/6
 - BB overhead press (50/60/60) 10/7/5
 - Lateral raise (15) 8/7/5 (not high enough)
 - Seated DB overhead press (25) 8/8/10
-- Bent over reverse fly (10) 8/8/8 (not high enough) (chest/back/arms/shoulders/neck)
+- Bent over reverse fly (10) 8/8/8 (not high enough)
 
-## Tuesday (5/14) Pull (139.5 lbs) (neck/shoulders/back/chest/arms)
+## Tuesday (5/14) Pull (139.5 lbs)
 - Bent over underhand BB row (130) 6/6/6
 - BB curl (65) 6/6/5.5 (right shoulder coming up)
 - Upright close grip BB row (65) 4/4/5 (not high enough)
 - Pull-up 6/5/5
 - Preacher curl (40/50/50) 8/6/5
 - Bent over single DB row (55) 8/8/8 (not high enough)
-- DB curl (30) 4 (neck/shoulders/back/chest/arms)
+- DB curl (30) 4
 
-## Wednesday (5/15) Legs (138.5 lb) (glute/hamstring/quad/calf)
+## Wednesday (5/15) Legs (138.5 lb)
 - Deadlift (120) 8/8/8
 - Smith squat (130) 8/8/8
 - Leg press (190/190/210) 8/8/8
 - Leg extension (110) 8/8/6.5
-- Leg curl (70) 8/8/8 (glute/hamstring/quad/calf/pull-up)
+- Leg curl (70) 8/8/8
 
 ## Thursday (5/16) Push
 - Bench press (115) 8/7/6
@@ -338,22 +338,22 @@ Week 7
 - Australian Pull-up 25
 
 ## Monday (6/10) Push (141/142 lb)
-- Smith bench press (chest, biceps, front delts, triceps) (1min) (160) 7/6/5
-- BB overhead press (front delts, upper traps, upper chest) (1min) (50) 10/8/7
-- Dip (chest, triceps, front delts) (1min) 10/8/5
-- Decline push-up (lower chest, back) (1min) 10/10/10
-- Skull crusher (triceps) (1min) (35) 7/7/6
-- Push down (triceps) (1min) (70) 8/8/7
-- DB front raise (front delts) (1min) (15) 10/12/10
-- DB lateral raise (side delts) (45sec) (15) 10/10/8
+- Smith bench press (1min) (160) 7/6/5
+- BB overhead press (1min) (50) 10/8/7
+- Dip (1min) 10/8/5
+- Decline push-up (1min) 10/10/10
+- Skull crusher (1min) (35) 7/7/6
+- Push down (1min) (70) 8/8/7
+- DB front raise (1min) (15) 10/12/10
+- DB lateral raise (45sec) (15) 10/10/8
 - Face pull (1min) (50) 12/12/12
 
 ## Tuesday (6/11) Pull (141/143 lb)
 - Bent over BB OH row (130) 8/8/8 (lower back pain, lower the weight to 100)
-- Incline bench DB curl (biceps) (20) 8/8/8 (inner elbow pain)
+- Incline bench DB curl (20) 8/8/8 (inner elbow pain)
 - Bent over single DB row (50) 9/9/9
-- EZ bar curl (biceps) (50) 8/7/6
-- Pull-up (shoulders, arms, back) 5/5
+- EZ bar curl (50) 8/7/6
+- Pull-up 5/5
 - DB shrug (40/50/60) 12/12/8
 - Pull down (lats) (100/115/115) 12/7/7
 - Face pull (50/50/60) 12/12/12
@@ -361,18 +361,18 @@ Week 7
 ## Wednesday (6/12) Legs (141/143 lb)
 - Smith squat (1.5min) (165) 10/8/8
 - Deadlift (1.5min) (150) 8/8/8
-- Bulgarian split DB squat (1min) {(30) 8/8/6} (30) 8/8/8
+- Bulgarian split DB squat (1min) (30) 8/8/8
 - Leg press (45sec) (150) 12/12/12
-- Leg extension (45sec) {(110) 8/7.5/7} (50) 12/12/12
-- Leg curl (hamstrings) (30sec) {(90/95/90) 8/8/6} (40) 12/12/12
+- Leg extension (45sec) (50) 12/12/12
+- Leg curl (hamstrings) (30sec) (40) 12/12/12
 - Face pull (30sec) (30) 12/12/12
 
 ## Thursday (6/13) Push
 - Bench press (1.5min) (140/120/120) 3/7/7
-- BB overhead press (front delts, upper traps, upper chest) (1min) {(50) 10/8/7} (50) 12/10/8
+- BB overhead press (1min) (50) 12/10/8
 - Incline push-up (1min) 12/12/12
-- DB front raise (front delts) (1min) {(15) 10/12/10} (15) 12/12/8
-- DB lateral raise (side delts) (45sec) {(15) 10/10/8} (15) 9/9/5
+- DB front raise (1min) (15) 12/12/8
+- DB lateral raise (45sec) (15) 9/9/5
 
 ## Friday (6/14) Pull (145.5/143 lb)
 - Bent over BB UH row (1min) (100) 12/12/12
@@ -382,24 +382,73 @@ Week 7
 - Pull-up (shoulders, arms, back) 6/5/5
 - DB shrug (60) 8/8/8
 - Pull down (wide, alternate sides) (lats) (100) 10/10/8
-- Face pull {(50/50/60) 12/12/12} (60) 12/12/12
+- Face pull (60) 12/12/12
 
 ## Saturday (6/15) Legs
 - Squat (1.5min) (120/120/105) 8/8/8
-- Deadlift (1.5min) {(150) 8/8/8} (155/135/135/135) 3/8/8/8 PR
+- Deadlift (1.5min) (155/135/135/135) 3/8/8/8 PR
 - Leg extension (1min) (90) 12/10/10
 - Single leg DB calf extension (15) 12/12/12
 - Bench press (145) 
-- Chin-up
+
+Week 8
 
 ## Sunday (6/16) Rest
 
-## Monday (6/17) Push (
-- Smith bench press (chest, biceps, front delts, triceps) (1min) {(160) 7/6/5} (160)
-- BB overhead press (front delts, upper traps, upper chest) (1min) {(50) 12/10/8} (55)
-- Dip (chest, triceps, front delts) (1min) {10/8/5}
-- Skull crusher (triceps) (1min) {(35) 7/7/6} (35)
-- Push down (triceps) (1min) {(70) 8/8/7} (70)
-- DB front raise (front delts) (1min) (15) {12/12/8}
-- DB lateral raise (side delts) (45sec) (15) {10/10/8}
-- Face pull {(60) 12/12/12} (70)
+## Monday (6/17) Push (143.5/145 lb)
+- Smith bench press (1min) (160) 8/8/5
+- BB overhead press (1min) (55) 8/8/6
+- Dip (1min) 12/10/6
+- Skull crusher (1min) (35,10s) 8/4/8
+- Push down (1min) (70) 8/12/9
+- DB front raise (1min) (15) 10/12/10
+- DB lateral (45sec) (15) 10/10/8
+- Face pull (70/60/50) 12/12/12 (wasn't back enough)
+
+## Tuesday (6/18) Pull (
+- Bent over BB UH row (1min) {(100) 12/12/12} (110,40s)
+- Spider DB curl (biceps) (1min) {(20) 8/8/8} (25s)
+- Bent over single DB row (1min) {(60) 8/8/8} (65)
+- EZ bar curl (biceps) (1min) {(50) 12/6/6} (50)
+- Pull-up (shoulders, arms, back) {6/5/5}
+- DB shrug {(60) 8/8/8} (60)
+- Pull down (wide, alternate sides) (lats) {(100) 10/10/8} (110)
+- Face pull (1min) (50/60/70)
+
+## Wednesday (6/19) Legs (
+- Smith squat (1.5min) {(165) 10/8/8} (170,62.5s)
+- Deadlift (1.5min) {(150) 8/8/8} {(155/135/135/135) 3/8/8/8} (155,62.5s/150,60s/150)
+- Bulgarian split DB squat (1min) {(30) 8/8/8} (35s)
+- Leg press (45sec) {(150) 12/12/12} (200)
+- Leg extension (45sec) {(50) 12/12/12} (100)
+- Leg curl (hamstrings) (30sec) {(40) 12/12/12} (100)
+- Single leg DB calf extension {(15) 12/12/12} (20s)
+- Face pull (1min) (40)
+
+## Thursday (6/20) Push (
+- Smith bench press (chest, biceps, front delts, triceps) (1min) {(160) 8/8/5} (160)
+- BB overhead press (front delts, upper traps, upper chest) (1min) {(55) 8/8/6} (55)
+- Dip (chest, triceps, front delts) (1min) {12/10/6}
+- Skull crusher (triceps) (1min) {(35) 8/4/8} (35,10s)
+- Push down (triceps) (1min) {(70) 8/12/9} (70)
+- DB front raise (front delts) (1min) {(15) 10/12/10} (15)
+- DB lateral raise (side delts) (45sec) {(15) 10/10/8} (15)
+- Face pull (1min) (50)
+
+## Friday (6/21) Pull (
+- Bent over BB OH row
+- Pull down
+- Barbell curl
+- Bent over single DB row
+- Pull up
+- Hammer curl
+- Face pull (1min) (60)
+
+## Saturday (6/15) Legs
+- Squat
+- Deadlift
+- Leg extension
+- Reverse leg curl
+- Bulgarian split DB squat
+- Single leg DB calf extension
+- Bench press (150 PR) 
