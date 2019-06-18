@@ -405,15 +405,15 @@ Week 8
 - DB lateral (45sec) (15) 10/10/8
 - Face pull (70/60/50) 12/12/12 (wasn't back enough)
 
-## Tuesday (6/18) Pull (
-- Bent over BB UH row (1min) {(100) 12/12/12} (110,40s)
-- Spider DB curl (biceps) (1min) {(20) 8/8/8} (25s)
-- Bent over single DB row (1min) {(60) 8/8/8} (65)
-- EZ bar curl (biceps) (1min) {(50) 12/6/6} (50)
-- Pull-up (shoulders, arms, back) {6/5/5}
-- DB shrug {(60) 8/8/8} (60)
-- Pull down (wide, alternate sides) (lats) {(100) 10/10/8} (110)
-- Face pull (1min) (50/60/70)
+## Tuesday (6/18) Pull (142/143.5)
+- Bent over BB UH row (1min) (110) 10/10/9
+- Spider DB curl (1min) (25) 8/8/8
+- Bent over single DB row (1min) (65) 8/7/7
+- EZ bar curl (1min) (50) 8/8/7
+- Australian pull-up (1min) 25/15/12
+- DB shrug (60) 10/8/6
+- Pull down (wide, alternate sides) (70) 12/12/12
+- Face pull (1min) (50) 12/12/12
 
 ## Wednesday (6/19) Legs (
 - Smith squat (1.5min) {(165) 10/8/8} (170,62.5s)
@@ -430,8 +430,8 @@ Week 8
 - BB overhead press (front delts, upper traps, upper chest) (1min) {(55) 8/8/6} (55)
 - Dip (chest, triceps, front delts) (1min) {12/10/6}
 - Skull crusher (triceps) (1min) {(35) 8/4/8} (35,10s)
-- Push down (triceps) (1min) {(70) 8/12/9} (70)
 - DB front raise (front delts) (1min) {(15) 10/12/10} (15)
+- Push down (triceps) (1min) {(70) 8/12/9} (70)
 - DB lateral raise (side delts) (45sec) {(15) 10/10/8} (15)
 - Face pull (1min) (50)
 
