@@ -555,17 +555,13 @@ Week 11
 - Pull-up 6/5
 - Single leg calf extension 12
 
-## Monday (7/8) Push (
-- Bench press {(130) 7/7/5} (130)
-- BB overhead press {(60/60/70) 10/9/4} (65)
-- Weighted dip {(10/15/20) 12/12/6} (20)
-- Front raise (15)
-- Fly {(25) 10/8/8} (25)
-- Lateral raise (15)
-- Skull crusher {(40) 10/8/7} (40,12.5s)
-- Bent over reverse fly (15)
-- Push down {(90) 11/8/7} (90)
-- Face pull (70)
+## Monday (7/8) Push (143.5)
+- Smith bench press (170/165/165/165) 5/6/5/4
+- BB overhead press (65) 8/6/5
+- Weighted dip {(10/15/20) 12/12/6} (20) 9/6/8
+- Front raise (15) 12/12/12
+- Push down (90/90/100) 12/12/9
+- Face pull (70) 12/12/12
 
 ## Tuesday (7/9) Pull (
 - Bent over OH BB row (120)
