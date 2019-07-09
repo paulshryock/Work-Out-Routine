@@ -563,15 +563,15 @@ Week 11
 - Push down (90/90/100) 12/12/9
 - Face pull (70) 12/12/12
 
-## Tuesday (7/9) Pull (
-- Bent over OH BB row (120)
-- BB curl {(60/65/70) 12/9/8} (70)
-- Pull-up {7/6/5}
-- Bent over single DB row (50)
-- Hammer curl {(30) 8/6/5} (30)
-- Pull down (wide, alternate sides) {(105) 10/10/10} (105)
-- Preacher curl {(25) 12/9/7} (25)
-- Face pull (70)
+## Tuesday (7/9) Pull (144/145.5 lb)
+- Bent over OH BB row (120) 10/10/8 (not high enough, lower to 100)
+- BB curl (70) 9/6/5
+- Pull-up 8/7/6
+- Bent over single DB row (50) 10/10/10
+- Hammer curl (30) 9/7/7
+- Pull down (wide) (85) 12/12/10
+- Preacher curl (25) 12/12/10
+- Face pull (70/50/50) 12/12/12
 
 ## Wednesday (7/10) Legs (
 - Squat (65)
