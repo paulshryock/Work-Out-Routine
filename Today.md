@@ -1,10 +1,11 @@
-## Wednesday (7/10) Legs (
-- Squat (65)
-- Deadlift (90)
-- Bulgarian split squat (20)
-- Leg press (125)
-- Leg extension (50)
-- Leg curl (50)
-- Single leg DB calf extension (20)
-- Hanging leg raise
-- Top of a push-up
+## Thursday (7/11) Push
+- Bench press {(130) 7/7/5} (150/130/130/130)
+- BB overhead press {(65) 8/6/5} (65)
+- Front raise (15) {12/12/12} (15/15/20)
+- Push-up (great form)
+- DB overhead press {(25) 8/8/8} (25/25/30)
+- Lateral raise {(15) 12/10/9} (15)
+- Reverse bench dip (hands point back)
+- Handstand kick-up
+- Bent over reverse fly {(15) 12/12/8} (15)
+- UH band pull apart high/wide

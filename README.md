@@ -550,7 +550,7 @@ Week 11
 ## Sunday (7/7) Full Body
 - Bench press (135) 5/5/5
 - Squat (65) 12/12/12
-- Overhead press (65) 9/7/5
+- BB Overhead press (65) 9/7/5
 - Deadlift (175) 7/5/4
 - Pull-up 6/5
 - Single leg calf extension 12
@@ -573,23 +573,32 @@ Week 11
 - Preacher curl (25) 12/12/10
 - Face pull (70/50/50) 12/12/12
 
-## Wednesday (7/10) Legs (
-- Squat (65)
-- Deadlift (90)
-- Bulgarian split squat (20)
-- Leg press (125)
-- Leg extension (50)
-- Leg curl (50)
-- Single leg DB calf extension (20)
-- Hanging leg raise
-- Top of a push-up
+## Wednesday (7/10) Legs (143.5/144.5 lb)
+- Smith squat (175) 12/8/8
+- Deadlift (140/160/175) 12/10/7
+- Bulgarian DB split squat (20) 10 (don't lean forward, straighten back)
+- Leg press (250) 7/7/7
+- Leg extension (50/55/60) 12/12/12
+- DB calf extension (12/20/25) 12/12/12
+
+## Thursday (7/11) Push
+- Bench press {(130) 7/7/5} (150/130/130/130)
+- BB overhead press {(65) 8/6/5} (65)
+- Front raise (15) {12/12/12} (15/15/20)
+- Push-up (great form)
+- DB overhead press {(25) 8/8/8} (25/25/30)
+- Lateral raise {(15) 12/10/9} (15)
+- Reverse bench dip (hands point back)
+- Handstand kick-up
+- Bent over reverse fly {(15) 12/12/8} (15)
+- UH band pull apart high/wide
 
 ## Compound lift PR
 - Bench press (145) 1
 - Overhead press (70) 4
 - Bent over row (140) 8
 - Squat (130) 5
-- Smith squat (175) 8
-- Deadlift (175) 6
+- Smith squat (175) 12
+- Deadlift (175) 7
 - Weighted dip (20) 6
 - Weighted chin-up (20) 3
