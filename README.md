@@ -9,27 +9,31 @@
 - Squat (130) 5
 - Smith squat (175) 12
 - Deadlift (180) 6
-- Weighted dip (20) 6
+- Weighted dip (20) 8
 - Weighted chin-up (20) 3
+- Weighted pull-up (20) 6
 
-## Thursday (7/15) Push (
-- Warm-up:
-  - Push-up
-  - DB overhead press (10)
-  - Push-up
-  - DB overhead press (10)
-  - Smith bench press (45)
-  - Smith bench press (80,17.5s)
-- Smith bench press (170,62.5s)
-- BB overhead press (65,17.5s)
-- Weighted dip (20)
-- Weighted chin-up (20)
-- Push down (100)
-- Skull crusher (40,12.5s)
-- Front raise (30sec) (15)
-- Lateral raise (30sec) (15)
-- Bent over reverse fly (30sec) (15)
-- Face pull (30sec) (70)
+## Tuesday (7/16) Pull
+- Bent over BB row (100)
+- BB cheat curl (control the eccentric) (70,20s)
+- Weighted pull-up (20)
+- Bent over single DB row (60)
+- DB curl (30)
+- Pull down (deadlift width, lean back) (70)
+- EZ bar curl (55,20s)
+- Face pull (80)
+
+
+## Monday (7/15) Push (144.5/145 lb)
+- Smith bench press (170) 6/5/4
+- BB overhead press (65) 8/7/5
+- Weighted dip (20) 8/7/7
+- Weighted pull-up (20) 6/5/4
+- Skull crusher (40) 9/8/8
+- Push down (100/90/90) 6/7/7
+- Front raise (15) 12/12/12
+- Lateral raise (15) 10/9/9
+- Bent over reverse fly (15) 12/10/11
 
 ## Sunday (7/14) Legs
 - Deadlift (180/180/180/165/135) 4/6/4/5/8
@@ -38,7 +42,7 @@
 Week 12
 
 ## Saturday (7/13) Pull (142 lb)
-- Bent over OH BB row (100)  8/10/10
+- Bent over OH BB row (100) 8/10/10
 - Deadlift (180) 5/5/3
 - BB curl (65) 12/9/9
 - Bent over single DB row (30) 12/12/12
