@@ -1,27 +1,27 @@
 # Workouts
 
-## Compound lift PR
-- Bench press (150) 2
-- Smith bench press (170) 5
-- Overhead press (70) 4
-- Bent over row (140) 8
-- BB curl (70) 9
-- Squat (130) 5
-- Smith squat (175) 12
-- Deadlift (180) 6
-- Weighted dip (20) 8
-- Weighted chin-up (20) 3
-- Weighted pull-up (20) 6
+## Wednedsay (7/17) Legs (
+- Smith Squat (180,67.5s)
+- Deadlift (180,67.5s)
+- Leg extension (110)
+- Leg curl (110)
+- DB Calf raise (25)
+- DB Bulgarian Split Squat (25)
+- Leg press (250)
+- Single leg extension (55)
+- Single leg curl (55)
+- Single DB calf raise (25)
+- Face pull (60)
 
-## Tuesday (7/16) Pull
-- Bent over BB row (100)
-- BB cheat curl (control the eccentric) (70,20s)
-- Weighted pull-up (20)
-- Bent over single DB row (60)
-- DB curl (30)
-- Pull down (deadlift width, lean back) (70)
-- EZ bar curl (55,20s)
-- Face pull (80)
+## Tuesday (7/16) Pull (145.5/146 lb)
+- Bent over BB row (100) 12/12/8
+- BB cheat curl (ecc) (60) 8/8/5
+- Weighted pull-up (20/20/0) 5/4/6
+- Bent over single DB row (60/50/50) 6/8/8
+- DB curl (30) 12/7/7
+- Pull down (deadlift, lean back) (55) 12/12/12
+- EZ bar curl (55) 12/8/8
+- Face pull (70/60/60/60) 8/8/12/12
 
 
 ## Monday (7/15) Push (144.5/145 lb)
@@ -207,34 +207,34 @@ Week 9
 ## Saturday (6/22) Rest
 
 ## Friday (6/21) Push (142/143.5 lb)
-- Smith bench press (chest, biceps, front delts, triceps) (1min) (160) 8/7/5/3
-- BB overhead press (front delts, upper traps, upper chest) (1min) (55) 8/7/7
-- Dip (chest, triceps, front delts) (1min) 15/8/7
-- Skull crusher (triceps) (1min) (35) 10/10/10
-- DB front raise (front delts) (1min) (20) 9/8/8
-- Push down (triceps) (1min) (70/80/80) 12/10/10
-- DB lateral raise (side delts) (45sec) (15) 12/9/8
-- Face pull (1min) (50) 12/12/12
+- Smith bench press (160) 8/7/5/3
+- BB overhead press (55) 8/7/7
+- Dip 15/8/7
+- Skull crusher (35) 10/10/10
+- DB front raise (20) 9/8/8
+- Push down (70/80/80) 12/10/10
+- Lateral raise (15) 12/9/8
+- Face pull (50) 12/12/12
 
 ## Thursday (6/20) Rest
 
 ## Wednesday (6/19) Legs
 Warm-up: pistol squat, crane deadlift
-- Smith squat (1min) (170) 8/7/6
-- Deadlift (1min) (155) 8/8/8
-- Leg extension (45sec) {(50) 12/12/12} (100/105/110) 12/8/8
-- Leg curl (hamstrings) (30sec) {(40) 12/12/12} (100) 8/6/6
+- Smith squat (170) 8/7/6
+- Deadlift (155) 8/8/8
+- Leg extension (100/105/110) 12/8/8
+- Leg curl (100) 8/6/6
 - Leg press (200) 12/12/12
 
 ## Tuesday (6/18) Pull (142/143.5)
-- Bent over BB UH row (1min) (110) 10/10/9
-- Spider DB curl (1min) (25) 8/8/8
-- Bent over single DB row (1min) (65) 8/7/7
-- EZ bar curl (1min) (50) 8/8/7
-- Australian pull-up (1min) 25/15/12
+- Bent over BB UH row (110) 10/10/9
+- Spider DB curl (25) 8/8/8
+- Bent over single DB row (65) 8/7/7
+- EZ bar curl (50) 8/8/7
+- Australian pull-up 25/15/12
 - DB shrug (60) 10/8/6
 - Pull down (wide, alternate sides) (70) 12/12/12
-- Face pull (1min) (50) 12/12/12
+- Face pull (50) 12/12/12
 
 ## Monday (6/17) Push (143.5/145 lb)
 - Smith bench press (1min) (160) 8/8/5
