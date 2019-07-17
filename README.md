@@ -1,17 +1,37 @@
 # Workouts
 
-## Wednedsay (7/17) Legs (
-- Smith Squat (180,67.5s)
-- Deadlift (180,67.5s)
-- Leg extension (110)
-- Leg curl (110)
-- DB Calf raise (25)
-- DB Bulgarian Split Squat (25)
-- Leg press (250)
+## Saturday (7/20) Legs
+- Squat (110)
+- Deadlift (180) {8/8/6}
+- DB Calf raise (30)
+- DB Bulgarian split squat (5)
 - Single leg extension (55)
-- Single leg curl (55)
+- Single laying leg curl (55)
 - Single DB calf raise (25)
-- Face pull (60)
+- Weighted chin-up (10)
+
+## Friday (7/19) Pull
+
+## Thursday (7/18) Push
+- Incline bench press (95)
+- DB overhead press (20)
+- Tricep kick-back
+- Incline push-up
+- Front raise (15)
+- Tricep pull-over
+- Fly (25)
+- Lateral raise (15)
+- Bent over reverse fly (15)
+
+
+## Wednedsay (7/17) Legs (144/145.5 lb)
+- Smith squat (180) 8/8/8
+- Deadlift (180) 8/8/6
+- Leg extension (110) 12/12/9
+- Leg curl (110/105/90) 8/8/8 (calves taking over, lower weight)
+- DB Calf raise (25) 12/12/12
+- DB Bulgarian split squat (25) 6 (form isn't right, lower weight to 5)
+- Leg press (250) 12/12/12
 
 ## Tuesday (7/16) Pull (145.5/146 lb)
 - Bent over BB row (100) 12/12/8
@@ -22,7 +42,6 @@
 - Pull down (deadlift, lean back) (55) 12/12/12
 - EZ bar curl (55) 12/8/8
 - Face pull (70/60/60/60) 8/8/12/12
-
 
 ## Monday (7/15) Push (144.5/145 lb)
 - Smith bench press (170) 6/5/4
