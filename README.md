@@ -1,5 +1,17 @@
 # Workouts
 
+## Sunday (7/21) Shoulders/Abs
+- Rotation/extension warm-up
+- Bench press (155)
+- Shoulder superset (x3)
+  - Front raise (15)
+  - Lateral raise (15)
+  - Bent over reverse fly (15)
+- Ab superset (x3)
+  - Hanging leg raise
+  - Bicycle situp
+  - Plank
+
 ## Saturday (7/20) Legs
 - Squat (110)
 - Deadlift (180) {8/8/6}
@@ -11,17 +23,23 @@
 - Weighted chin-up (10)
 
 ## Friday (7/19) Pull
+- Bent over BB row (110)
+- Weighted pull-up (20)
+- BB curl (70)
+- Bent over single DB row (50)
+- Pull-down (deadlift, lean back) (70)
+- DB curl (35)
+- Face pull (70)
 
 ## Thursday (7/18) Push
-- Incline bench press (95)
-- DB overhead press (20)
-- Tricep kick-back
-- Incline push-up
-- Front raise (15)
-- Tricep pull-over
-- Fly (25)
-- Lateral raise (15)
-- Bent over reverse fly (15)
+- Bench press (155) 1
+- Incline bench press (95) 8/5/6
+- DB overhead press (20) 10/12/12
+- Tricep kick-back (10) 12/12/12 (try 12.5, 15)
+- Incline push-up 12/12/12
+- Front raise (15) 12/10/10
+- Tricep pull-over (10) 12/12/12
+- Fly (25) 12/12/8
 
 
 ## Wednedsay (7/17) Legs (144/145.5 lb)
