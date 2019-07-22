@@ -33,6 +33,8 @@
 
 ## Sunday (7/21) Rest
 
+Week 13
+
 ## Saturday (7/20) Yardwork
 
 ## Friday (7/19) Pull (145/146.5 lb)
