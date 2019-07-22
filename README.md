@@ -1,18 +1,6 @@
 # Workouts
 
-## Sunday (7/21) Shoulders/Abs
-- Rotation/extension warm-up
-- Bench press (155)
-- Shoulder superset (x3)
-  - Front raise (15)
-  - Lateral raise (15)
-  - Bent over reverse fly (15)
-- Ab superset (x3)
-  - Hanging leg raise
-  - Bicycle situp
-  - Plank
-
-## Saturday (7/20) Legs
+## Wednesday (7/24) Legs
 - Squat (110)
 - Deadlift (180) {8/8/6}
 - DB Calf raise (30)
@@ -22,14 +10,39 @@
 - Single DB calf raise (25)
 - Weighted chin-up (10)
 
-## Friday (7/19) Pull
-- Bent over BB row (110)
-- Weighted pull-up (20)
-- BB curl (70)
-- Bent over single DB row (50)
-- Pull-down (deadlift, lean back) (70)
-- DB curl (35)
+## Tuesday (7/23) Pull
+- Bent over BB row (keep neck straight, head up) (110) {12/10/8}
+- Weighted pull-up (20) {6/5/5}
+- BB curl (70) {7/5/5}
+- Bent over single DB row {(50) 10/10/10} (55)
+- Pull-down (lean back) {(70) 12/12/12} (85)
+- 21 DB curl (25)
 - Face pull (70)
+
+## Monday (7/22) Push
+- Smith bench press PR (175,65s)
+- Smith bench press (170,62.5s) {6/5/4}
+- DB overhead press (bring shoulders down) (20) {10/12/12}
+- Skull crusher (40,12.5s) {9/8/8}
+- Weighted dip (20) {8/7/7}
+- Front raise (bring shoulders down) (15) {12/10/10}
+- Push down {(100/90/90) 6/7/7} (90)
+- Fly (25) {12/12/8}
+- Lateral raise (bring shoulders down) (15) {10/9/9}
+- Face pull {(70/60/60) 10/12/12} (70)
+
+## Sunday (7/21) Rest
+
+## Saturday (7/20) Yardwork
+
+## Friday (7/19) Pull (145/146.5 lb)
+- Bent over BB row (110) 12/10/8 (keep neck straight, head up)
+- Weighted pull-up (20) 6/5/5
+- BB curl (70/70/70/50) 7/5/5/7
+- Bent over single DB row (50) 10/10/10
+- Pull-down (lean back x3, regular) (70) 12/12/12/12
+- DB curl (30) 9/8/6
+- Face pull (70/60/60) 10/12/12
 
 ## Thursday (7/18) Push
 - Bench press (155) 1
@@ -40,7 +53,6 @@
 - Front raise (15) 12/10/10
 - Tricep pull-over (10) 12/12/12
 - Fly (25) 12/12/8
-
 
 ## Wednedsay (7/17) Legs (144/145.5 lb)
 - Smith squat (180) 8/8/8
