@@ -1,39 +1,56 @@
 # Workouts
 
-## Wednesday (7/24) Legs
-- Squat (110)
-- Deadlift (180) {8/8/6}
-- DB Calf raise (30)
-- DB Bulgarian split squat (5)
-- Single leg extension (55)
-- Single laying leg curl (55)
-- Single DB calf raise (25)
-- Weighted chin-up (10)
+## Sunday (7/28) Pull/Legs
 
-## Tuesday (7/23) Pull
-- Bent over BB row (keep neck straight, head up) (110) {12/10/8}
-- Weighted pull-up (20) {6/5/5}
-- BB curl (70) {7/5/5}
-- Bent over single DB row {(50) 10/10/10} (55)
-- Pull-down (lean back) {(70) 12/12/12} (85)
-- 21 DB curl (25)
-- Face pull (70)
+Week 14
 
-## Monday (7/22) Push
-- Smith bench press PR (175,65s)
-- Smith bench press (170,62.5s) {6/5/4}
-- DB overhead press (bring shoulders down) (20) {10/12/12}
-- Skull crusher (40,12.5s) {9/8/8}
-- Weighted dip (20) {8/7/7}
-- Front raise (bring shoulders down) (15) {12/10/10}
-- Push down {(100/90/90) 6/7/7} (90)
-- Fly (25) {12/12/8}
-- Lateral raise (bring shoulders down) (15) {10/9/9}
-- Face pull {(70/60/60) 10/12/12} (70)
+## Saturday (7/27) Push
+- Bench press PR (160)
+- Bench press (130)
+- DB overhead press (20)
+- Tricep kick-back (15)
+- DB bench press (50)
+- Front raise (15)
+- Tricep pull-over (15)
+- Fly (25)
+- Lateral raise (15)
+- Bent over reverse fly (15)
+
+## Friday (7/26) Rest
+
+## Thursday (7/25) Rest
+
+## Wednesday (7/24) Legs (145.5/146 lb)
+- Smith squat (4th rung) (110) 12/12/12
+- Deadlift PR (185) 8/7/6
+- DB Calf raise (30/35/40) 12/12/12
+- DB Bulgarian split squat (10) 10/8/8
+- Single leg extension (55) 8/8/8
+- Single leg curl (30/35/40) 12/12/8
+- Single DB calf raise (25) 12/12/12
+- Weighted chin-up (10/10/0) 10/5/7
+
+## Tuesday (7/23) Pull (144.5/146 lb)
+- Bent over BB row (110) 10/10/7
+- Weighted pull-up (20) 6/5/5
+- BB curl (70) 9/6/4
+- Bent over single DB row (55) 10/8/8
+- Pull-down (lean back) (85) 12/10/10
+- DB curl (20) 21s, 2 short/8/8
+- Face pull (70) 12/12/12
+
+## Monday (7/22) Push (145/146.5 lb)
+- Smith bench press PR (175) 4
+- Smith bench press (170) 6/4/5
+- DB overhead press (20) 12/12/12
+- Skull crusher (40) 10/10/9
+- Weighted dip (20) 8/5/3
+- Front raise (15) 12/12/12
+- Push down (90) 12/11/10
+- Fly (25) 10/10/10
+- Lateral raise (15) 12/12/12
 
 ## Sunday (7/21) Rest
-
-Week 13
 
 ## Saturday (7/20) Yardwork
 
