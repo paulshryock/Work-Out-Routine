@@ -1,20 +1,38 @@
 # Workouts
 
-## Sunday (7/28) Pull/Legs
+## Wednesday (7/31) Pull (
+
+## Tuesday (7/30) Push (
+- Smith bench press (175) {4}
+- Smith bench press (170) {6/4/5}
+- DB overhead press (25)
+- Skull crusher (40) {10/10/9}
+- Weighted dip (20) {8/5/3}
+- Front raise (20)
+- Push down (90) {12/11/10}
+- Fly (25) {10/10/10}
+- Lateral raise (20)
+- Bent over reverse fly (15) {12/10/11}
+
+## Monday (7/29) Rest
+
+## Sunday (7/28) Pull
+- Bent over BB row (110) 10/10/9
+- Deadlift (185) 8/7/7
+- BB curl (70) 11/9/5
+- Bent over single DB row (50) 12/12/8
+- DB curl (20) 12/12/12
+- Australian pull-up 12/15/20
 
 Week 14
 
 ## Saturday (7/27) Push
-- Bench press PR (160)
-- Bench press (130)
-- DB overhead press (20)
-- Tricep kick-back (15)
-- DB bench press (50)
-- Front raise (15)
-- Tricep pull-over (15)
-- Fly (25)
-- Lateral raise (15)
-- Bent over reverse fly (15)
+- Bench press (130) 4/7/6/5
+- DB overhead press (20) 12/12/12 (22.5 next)
+- Tricep kick-back (15) 12/12/12 (17.5 next)
+- DB bench press (30/40/40) 12/12/12
+- Front raise (15) 10
+- Lateral raise (15) 6
 
 ## Friday (7/26) Rest
 
@@ -40,7 +58,7 @@ Week 14
 - Face pull (70) 12/12/12
 
 ## Monday (7/22) Push (145/146.5 lb)
-- Smith bench press PR (175) 4
+- Smith bench press (175) 4
 - Smith bench press (170) 6/4/5
 - DB overhead press (20) 12/12/12
 - Skull crusher (40) 10/10/9
