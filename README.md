@@ -1,6 +1,13 @@
 # Workouts
 
 ## Wednesday (7/31) Pull (
+- Bent over BB row (110) {10/10/7}
+- Weighted pull-up (20) {6/5/5}
+- BB curl (70) {9/6/4}
+- Bent over single DB row (55) {10/8/8}
+- Pull-down (lean back) (85) {12/10/10}
+- DB curl (20) {21s, 2 short/8/8}
+- Face pull {(70) 12/12/12}
 
 ## Tuesday (7/30) Push (
 - Smith bench press (175) {4}
