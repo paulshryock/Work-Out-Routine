@@ -1,25 +1,32 @@
 # Workouts
 
-## Wednesday (7/31) Pull (
-- Bent over BB row (110) {10/10/7}
-- Weighted pull-up (20) {6/5/5}
-- BB curl (70) {9/6/4}
-- Bent over single DB row (55) {10/8/8}
-- Pull-down (lean back) (85) {12/10/10}
-- DB curl (20) {21s, 2 short/8/8}
-- Face pull {(70) 12/12/12}
+## Thursday (8/1) Legs
+- Bench press PR (160,57.5s)
+- Deadlift PR (190,72.5s)
+- Deadlift (185,70s)
+- Squat (130)
+---
+- DB Bulgarian split squat (10)
+- Single leg extension (55)
+- Single leg curl (40)
+---
+- Single DB calf raise (25)
+- Weighted chin-up (25)
 
-## Tuesday (7/30) Push (
-- Smith bench press (175) {4}
-- Smith bench press (170) {6/4/5}
-- DB overhead press (25)
-- Skull crusher (40) {10/10/9}
-- Weighted dip (20) {8/5/3}
-- Front raise (20)
-- Push down (90) {12/11/10}
-- Fly (25) {10/10/10}
-- Lateral raise (20)
-- Bent over reverse fly (15) {12/10/11}
+## Wednesday (7/31) Pull (144/146 lb)
+- Bent over BB row (110) 12/10/10
+- Weighted pull-up (20) 7/6/6
+- BB curl (70) 8/6/4
+- Bent over single DB row (55) 10/10/10
+- Pull-down (lean back) (85) 12/12/12
+- DB curl (20) 12/12/10
+- Face pull (70) 12/12/12
+
+## Tuesday (7/30) Push (143/144 lb)
+- Smith bench press (175) 6 (right abdominal pain on 7th rep; hungry?)
+- Smith bench press (170) 7/4/5
+- DB overhead press (25) 10/8/8
+- Skull crusher (40) {10/10/9} 10/10/10
 
 ## Monday (7/29) Rest
 
@@ -47,7 +54,7 @@ Week 14
 
 ## Wednesday (7/24) Legs (145.5/146 lb)
 - Smith squat (4th rung) (110) 12/12/12
-- Deadlift PR (185) 8/7/6
+- Deadlift (185) 8/7/6
 - DB Calf raise (30/35/40) 12/12/12
 - DB Bulgarian split squat (10) 10/8/8
 - Single leg extension (55) 8/8/8
