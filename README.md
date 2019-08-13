@@ -1,6 +1,10 @@
 # Workouts
 
-## Tuesday (8/13) Push
+## Tuesday (8/13) Push (150 lb)
+- Smith bench press (155/165/175x2) 12/8/6/4
+- Overhead press (50/60x2) 12/8/5
+- Push down (90/100/110) 12x3
+- Weight dip (25) 8/5
 
 ## Monday (8/12) Rest
 
