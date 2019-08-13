@@ -1,17 +1,80 @@
 # Workouts
 
+## Tuesday (8/13) Push
+
+## Monday (8/12) Rest
+
+## Sunday (8/11) Rest
+
+## Saturday (8/10) Rest
+
+## Friday (8/9) Rest
+
+## Thursday (8/8) Rest
+
+## Wednesday (8/7) Pull (151/151.5 lb)
+- Bent over BB row (115) 10/10/7
+- BB curl (65) 8/6/5
+- Weighted pull-up (20-0) 5-3/4-3/3-3
+- Bent over single DB row (50) 12/10/10
+- Hammer curl (30) 10/7/10
+- Pull down (lean-sit) (100) 12-10/8-2/9-4
+- Face pull (70) 12/12/12
+
+## Tuesday (8/6) Push (149/151 lb)
+- Bench press (135) 6/7/6
+- Overhead press (65/55x2) 7/6/6
+- Skull crusher (35/45x2) 10/8/10
+- Incline push-up 12/12/10
+- Front raise (20) 12/12/10
+- Lateral raise (15) 12/10/10
+- Bent over reverse fly (15) 12/10/12
+- Kick back (20) 10/10
+
+## Monday (8/5) Legs (148.5 lb)
+- Squat (55/75) 10/10
+- Deadlift (95/195/185x2/195) 10/3/8/10/4
+- Leg extension (115/130/145) 12/12/8
+- Reverse leg curl (95/115x2) 10/7/6
+- Single calf raise (30/35/40) 12/12/12
+- Chin-up 10/6
+
+## Sunday (8/4) Pull
+- Bent over BB row (115) 10/8/8
+- Bent over single DB row (50) 10/9/8
+- BB curl (65) 10/7/7
+- DB curl 21's (25) 7/7/0
+- DB curl (25) 7/7
+- Pull-up 8/7/6
+- Pull down (85) 12/12/12
+- Face pull (70/60x2) 12/12/12
+
+Week 15
+
+## Saturday (8/3) Push
+- Overhead press (65) 10/6/7
+- Kick back (20) 10/10/10
+- Push-up 12/12/12
+- Front raise (15) 12/12/12
+- Bench press (45/95/125/145/135x4) 12/10/12/1/4/4/4/4 (right hand too high)
+- Lateral raise (15) 12/12/10
+- Weighted pull-up (15) 6
+- Weighted chin (15) 3
+- Weighted neutral pull-up (15) 5
+- Bent over reverse fly (15) 12
+- Face pull (50/60/70) 12/12/7
+
+## Friday (8/2) Rest
+
 ## Thursday (8/1) Legs
-- Bench press PR (160,57.5s)
-- Deadlift PR (190,72.5s)
-- Deadlift (185,70s)
-- Squat (130)
----
-- DB Bulgarian split squat (10)
-- Single leg extension (55)
-- Single leg curl (40)
----
-- Single DB calf raise (25)
-- Weighted chin-up (25)
+- Bench press PR (160) 1
+- Deadlift PR (190) 4
+- Deadlift (185) 6/6
+- DB Bulgarian split squat (10) 12/11/10
+- Single leg extension (55) 10/10/10
+- Reverse leg curl (40) 12/12/12
+- Single calf raise (25) 12/12/12
+- Weighted chin-up (25) 6
 
 ## Wednesday (7/31) Pull (144/146 lb)
 - Bent over BB row (110) 12/10/10
