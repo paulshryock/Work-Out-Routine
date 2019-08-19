@@ -1,14 +1,39 @@
 # Workouts
 
+## Monday (8/19) Push (
+- Smith bench press (65/85/155/175x3)
+- Overhead press (30/40/60x3)
+- Push down (60/70/110x3)
+- Weighted dip (30)
+- Front raise (20)
+- Lateral raise (15)
+- Bent over reverse fly (15)
+- Skull crusher (45)
+- Face pull (70)
+
+## Sunday (8/18) Rest
+
+Week 17
+
+## Saturday (8/17) Rest
+
+## Friday (8/16) Rest
+
+## Thursday (8/15) Rest
+
+## Wednesday (8/14) Rest
+
 ## Tuesday (8/13) Push (150 lb)
 - Smith bench press (155/165/175x2) 12/8/6/4
 - Overhead press (50/60x2) 12/8/5
 - Push down (90/100/110) 12x3
-- Weight dip (25) 8/5
+- Weighted dip (25) 8/5
 
 ## Monday (8/12) Rest
 
 ## Sunday (8/11) Rest
+
+Week 16
 
 ## Saturday (8/10) Rest
 
