@@ -19,7 +19,7 @@
 - Smith bench press (65/85/155/175x3) 10x3/8/6/4
 - Overhead press (30/40/50x3) 10x2/8/6x2
 - Push down (60/70/110x3) 12x2/10/9x2
-- Weighted dip (30) 5x2/3
+- Weighted dip (30) 5/5/3
 - Front raise (20) 10
 - Lateral raise (15) 10
 - Bent over reverse fly (15) 10
@@ -132,7 +132,7 @@ Week 15
 - Smith bench press (175) 6 (right abdominal pain on 7th rep; hungry?)
 - Smith bench press (170) 7/4/5
 - DB overhead press (25) 10/8/8
-- Skull crusher (40) {10/10/9} 10/10/10
+- Skull crusher (40) 10/10/10
 
 ## Monday (7/29) Rest
 
@@ -263,7 +263,7 @@ Week 12
 - Front raise (15/15/20) 12/12/10
 - Push-up (remember form) 12/12/8
 - Seated DB overhead press (25/20/20) 5/8/10
-- Lateral raise {(15) 12/10/9} (15) 5
+- Lateral raise (15) 5
 - Pull-up 10/7/6
 
 ## Wednesday (7/10) Legs (143.5/144.5 lb)
@@ -287,7 +287,7 @@ Week 12
 ## Monday (7/8) Push (143.5)
 - Smith bench press (170/165/165/165) 5/6/5/4
 - BB overhead press (65) 8/6/5
-- Weighted dip {(10/15/20) 12/12/6} (20) 9/6/8
+- Weighted dip (20) 9/6/8
 - Front raise (15) 12/12/12
 - Push down (90/90/100) 12/12/9
 - Face pull (70) 12/12/12
@@ -570,7 +570,7 @@ Week 7
 - DB curl (10) 8/8
 - EZ bar curl (15) 10/10
 - Preacher single DB curl (10) 25/20/12
-- Australian Pull-up (lower each time) 25/25/20
+- Australian Pull-up 25/25/20
 - Stretch
 
 Week 6
@@ -580,18 +580,18 @@ Week 6
 - Bench press (65/80/95/100/105/110) 12/12/10/10/8/5
 - Seated DB overhead press (30) 10/7/5
 - Push-up (25/10/5) 4/8/8
-- Front raise (30sec) (15) 8/8/8
-- Lateral raise (30sec) (15/15/10) 8/8/10 (15 is not high enough, do 10)
-- Bent over DB row (30sec) (10) 10/10/10
+- Front raise (15) 8/8/8
+- Lateral raise (15/15/10) 8/8/10 (15 is not high enough, do 10)
+- Bent over DB row (10) 10/10/10
 - Stretch
 
 ## Friday (5/31) Legs (141/142 lb)
-- Smith squat (1.5min) (160) 8/8/8
-- Deadlift (1.5min) (145) 8/8/8
-- Leg press (45sec) (245) 8/8/8
-- Leg extension (45sec) (110) 8/7.5/7
-- Leg curl (45sec) (90) 8/8/7.5
-- Face pull (30sec) (40) 12/12/12
+- Smith squat (160) 8/8/8
+- Deadlift (145) 8/8/8
+- Leg press (245) 8/8/8
+- Leg extension (110) 8/7.5/7
+- Leg curl (90) 8/8/7.5
+- Face pull (40) 12/12/12
 - Bench press (135)
 
 ## Thursday (5/30) Pull
@@ -604,23 +604,23 @@ Week 6
 - Australian Pull-up (lower each time) 25/25/25
 
 ## Wednesday (5/29) Push
-- Seated incline DB overhead press (1min) (30/30/35) 10/10/12
-- Smith incline bench press (1min) (115) 10/8/6
-- Dip (1min) 8/6/6
-- Forward raise (45sec) (15) 8/8/8 (not high enough)
-- Lateral raise (45sec) (15) 8/8/8
-- Bent over reverse fly (45sec) (20) 8/8/8 (not high enough)
-- Chin-up (30sec) 8/6/5 (not high enough)
-- Incline push-up (30sec) 12/10/7 (sometimes lost form)
-- Face pull (30sec) (40) 12/12/12
+- Seated incline DB overhead press (30/30/35) 10/10/12
+- Smith incline bench press (115) 10/8/6
+- Dip 8/6/6
+- Forward raise (15) 8/8/8 (not high enough)
+- Lateral raise (15) 8/8/8
+- Bent over reverse fly (20) 8/8/8 (not high enough)
+- Chin-up 8/6/5 (not high enough)
+- Incline push-up 12/10/7 (sometimes lost form)
+- Face pull (40) 12/12/12
 
 ## Tuesday (5/28) Legs (141/141.5 lb)
-- Smith squat (1.5min) (145/155/155) 8/8/8
-- Deadlift (1.25min) (135/140/145) 8/8/8
-- Leg press (45sec) (230) 8/8/6
-- Leg extension (45sec) (110) 7.5/6/7.5
-- Leg curl (45sec) (90) 10/7/7
-- Face pull (30sec) (30) 12/12/12
+- Smith squat (145/155/155) 8/8/8
+- Deadlift (135/140/145) 8/8/8
+- Leg press (230) 8/8/6
+- Leg extension (110) 7.5/6/7.5
+- Leg curl (90) 10/7/7
+- Face pull (30) 12/12/12
 - Bench press (135) 2
 
 ## Monday (5/27) Pull
