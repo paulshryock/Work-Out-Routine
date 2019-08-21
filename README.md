@@ -1,5 +1,20 @@
 # Workouts
 
+## Wednesday (8/21) Legs (
+- Smith squat (4th rung) (180)
+- Deadlift (200)
+- Calf raise (45)
+- Leg extension (145)
+- Leg press (255)
+- Single calf raise (45)
+- Leg curl (100)
+- Face pull (60)
+
+## Tuesday (8/20) Pull
+- Bent over BB row (115) 10/10/8
+- BB curl (65) 10/8/6
+- Bent over single DB row (62.5) 8
+
 ## Monday (8/19) Push (145.5/147 lb)
 - Smith bench press (65/85/155/175x3) 10x3/8/6/4
 - Overhead press (30/40/50x3) 10x2/8/6x2
@@ -95,8 +110,8 @@ Week 15
 ## Friday (8/2) Rest
 
 ## Thursday (8/1) Legs
-- Bench press PR (160) 1
-- Deadlift PR (190) 4
+- Bench press (160) 1
+- Deadlift (190) 4
 - Deadlift (185) 6/6
 - DB Bulgarian split squat (10) 12/11/10
 - Single leg extension (55) 10/10/10
@@ -359,11 +374,11 @@ Week 10
 - Bent over reverse fly (10) 12/12/12
 
 ## Wednesday (6/26) Legs (142/143 lb)
-- Smith squat (anterior) (175) 8/8/8
-- Deadlift (posterior) (160) 8/8/5
-- Leg press (quads/glutes) (250) 12/10/10
-- Leg extension (quads) (100) 8/8/8
-- Leg curl (hamstrings) (100) 8/7/5
+- Smith squat (175) 8/8/8
+- Deadlift (160) 8/8/5
+- Leg press (250) 12/10/10
+- Leg extension (100) 8/8/8
+- Leg curl (100) 8/7/5
 - Face pull (40) 12/12/12
 
 ## Tuesday (6/25) Pull (143/144 lb)
@@ -442,9 +457,9 @@ Warm-up: pistol squat, crane deadlift
 Week 8
 
 ## Saturday (6/15) Legs
-- Squat (1.5min) (120/120/105) 8/8/8
-- Deadlift (1.5min) (155/135/135/135) 3/8/8/8 PR
-- Leg extension (1min) (90) 12/10/10
+- Squat (120/120/105) 8/8/8
+- Deadlift (155/135/135/135) 3/8/8/8 PR
+- Leg extension (90) 12/10/10
 - Single leg DB calf extension (15) 12/12/12
 - Bench press (145) 1
 
@@ -756,7 +771,7 @@ Week 3
 - Deadlift (110) 8/8/8
 - Leg press (170/170/190) 8/8/8
 - Leg extension (90) 7/6.5/7
-- Seated leg curl (50/70/70) 6/6/6
+- Leg curl (50/70/70) 6/6/6
 
 ## Tuesday (5/7) Pull
 - DB curl (12) 10
