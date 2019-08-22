@@ -1,14 +1,21 @@
 # Workouts
 
-## Wednesday (8/21) Legs (
-- Smith squat (4th rung) (180)
-- Deadlift (200)
-- Calf raise (45)
-- Leg extension (145)
-- Leg press (255)
-- Single calf raise (45)
-- Leg curl (100)
-- Face pull (60)
+## Thursday (8/22) Push (
+- Smith bench press (65/85/155/175x3) {10x3/8/6/4}
+- Overhead press (30/40/50x3) {10x2/8/6x2}
+- Push down (60/70/110x3) {12x2/10/9x2}
+- Weighted dip (30) {5/5/3}
+- Front raise (20)
+- Lateral raise (15)
+- Bent over reverse fly (15)
+- Face pull (50)
+
+## Wednesday (8/21) Legs (146/147 lb)
+- Smith squat (4th rung) (180) 7/7/7
+- Deadlift (185/200/200/200) 8/6/6/5
+- Leg extension (145) 8/8/7
+- Leg press (255) 12/10/8
+- Face pull (60) 12/12/12 (lower weight to stand without leaning back)
 
 ## Tuesday (8/20) Pull
 - Bent over BB row (115) 10/10/8
