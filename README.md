@@ -1,14 +1,33 @@
 # Workouts
 
-## Thursday (8/22) Push (
-- Smith bench press (65/85/155/175x3) {10x3/8/6/4}
-- Overhead press (30/40/50x3) {10x2/8/6x2}
-- Push down (60/70/110x3) {12x2/10/9x2}
-- Weighted dip (30) {5/5/3}
-- Front raise (20)
-- Lateral raise (15)
-- Bent over reverse fly (15)
-- Face pull (50)
+## Saturday (8/24) Legs
+- Squat (130)
+- Deadlift (200/205)
+- Leg extension (145)
+- Calf extension (40)
+- Bulgarian split squat (10)
+- Crane deadlift
+- Single leg extension (55)
+- Single calf extension (40)
+
+## Friday (8/23) Pull (
+- Bent over BB row (115)
+- BB curl (65)
+- Pull-up
+- Bent over single DB row (65)
+- Hammer curl (30)
+- Pull down (100)
+- Face pull (70)
+
+## Thursday (8/22) Push (147/149 lb)
+- Smith bench press (65/85/155/175/175/175) 10/10/10/6/5/4
+- Overhead press (30/40/50/50/50) 10/10/7/8/7 (focus on form)
+- Push down (40/60/80/100) 10/10/10/10
+- Weighted dip (30/0/0) 5/10/8
+- Front raise (20) 10/10/10
+- Bent over reverse fly (15) 10/10/10
+- Fly (20/25/30) 12/10/6
+- Lateral raise (15) 10/10/10
 
 ## Wednesday (8/21) Legs (146/147 lb)
 - Smith squat (4th rung) (180) 7/7/7
@@ -120,7 +139,7 @@ Week 15
 - Bench press (160) 1
 - Deadlift (190) 4
 - Deadlift (185) 6/6
-- DB Bulgarian split squat (10) 12/11/10
+- Bulgarian split squat (10) 12/11/10
 - Single leg extension (55) 10/10/10
 - Reverse leg curl (40) 12/12/12
 - Single calf raise (25) 12/12/12
@@ -169,7 +188,7 @@ Week 14
 - Smith squat (4th rung) (110) 12/12/12
 - Deadlift (185) 8/7/6
 - DB Calf raise (30/35/40) 12/12/12
-- DB Bulgarian split squat (10) 10/8/8
+- Bulgarian split squat (10) 10/8/8
 - Single leg extension (55) 8/8/8
 - Single leg curl (30/35/40) 12/12/8
 - Single DB calf raise (25) 12/12/12
@@ -276,7 +295,7 @@ Week 12
 ## Wednesday (7/10) Legs (143.5/144.5 lb)
 - Smith squat (175) 12/8/8
 - Deadlift (140/160/175) 12/10/7
-- Bulgarian DB split squat (20) 10 (don't lean forward, straighten back)
+- Bulgarian split squat (20) 10 (don't lean forward, straighten back)
 - Leg press (250) 7/7/7
 - Leg extension (50/55/60) 12/12/12
 - DB calf extension (12/20/25) 12/12/12
