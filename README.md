@@ -11,8 +11,8 @@
 - Single calf extension (40)
 
 ## Friday (8/23) Pull (
-- Bent over BB row (115)
-- BB curl (65)
+- Bent over BB row (115,35s)
+- BB curl (65,17.5s)
 - Pull-up
 - Bent over single DB row (65)
 - Hammer curl (30)
