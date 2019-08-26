@@ -1,15 +1,5 @@
 # Workouts
 
-## Saturday (8/24) Legs
-- Squat (130)
-- Deadlift (200/205)
-- Leg extension (145)
-- Calf extension (40)
-- Bulgarian split squat (10)
-- Crane deadlift
-- Single leg extension (55)
-- Single calf extension (40)
-
 ## Friday (8/23) Pull (147.5/148.5 lb)
 - Bent over BB row (100/110/110/110) 10/10/8/7
 - BB curl (65) 10/8/8
