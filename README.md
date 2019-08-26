@@ -10,14 +10,14 @@
 - Single leg extension (55)
 - Single calf extension (40)
 
-## Friday (8/23) Pull (
-- Bent over BB row (115,35s)
-- BB curl (65,17.5s)
-- Pull-up
-- Bent over single DB row (65)
-- Hammer curl (30)
-- Pull down (100)
-- Face pull (70)
+## Friday (8/23) Pull (147.5/148.5 lb)
+- Bent over BB row (100/110/110/110) 10/10/8/7
+- BB curl (65) 10/8/8
+- Pull-up 6/7/5
+- Bent over single DB row (65/60/60) 6/7/6
+- DB curl (30/30/25) 8/5/8 (outer forearm pain)
+- Rocking pull down (100) 10/10/10
+- Face pull (50) 12/12/12
 
 ## Thursday (8/22) Push (147/149 lb)
 - Smith bench press (65/85/155/175/175/175) 10/10/10/6/5/4
