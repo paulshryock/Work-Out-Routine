@@ -1,5 +1,42 @@
 # Workouts
 
+## Monday (9/2) Push (Triceps)
+- Skull crusher PR (50)
+- Skull crusher (45)
+- Decline bench press (100)
+- Overhead press (50)
+- Kick back (25)
+- Decline push-up
+- Bent over reverse fly (15)
+
+## Thursday (8/29) Push (Shoulders)
+- Overhead press PR (70)
+- Overhead press (60)
+- Front raise (25)
+- Lateral raise (20)
+- Bent over reverse fly (20)
+- Push down (110)
+- Kick back (20)
+- Smith incline bench press (115)
+- Incline push-up
+
+## Monday (8/26) Push (Chest)
+- Smith bench press PR (180)
+- Smith bench press (175/175/175)
+- Overhead press (50)
+- Push down (100)
+- Weighted dip (30)
+- Fly (30)
+- Lateral raise (15)
+- Kick back (20)
+- Push-up
+
+## Sunday (8/25) Rest
+
+Week 18
+
+## Saturday (8/24) Rest
+
 ## Friday (8/23) Pull (147.5/148.5 lb)
 - Bent over BB row (100/110/110/110) 10/10/8/7
 - BB curl (65) 10/8/8
