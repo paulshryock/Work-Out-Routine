@@ -5,7 +5,7 @@
 - Skull crusher (45)
 - Decline bench press (100)
 - Overhead press (50)
-- Kick back (25)
+- Kick back (20)
 - Decline push-up
 - Bent over reverse fly (15)
 
@@ -16,20 +16,31 @@
 - Lateral raise (20)
 - Bent over reverse fly (20)
 - Push down (110)
-- Kick back (20)
+- Kick back (15)
 - Smith incline bench press (115)
 - Incline push-up
 
-## Monday (8/26) Push (Chest)
-- Smith bench press PR (180)
-- Smith bench press (175/175/175)
-- Overhead press (50)
-- Push down (100)
-- Weighted dip (30)
-- Fly (30)
-- Lateral raise (15)
-- Kick back (20)
-- Push-up
+## Wednesday (8/26) Pull (
+- Bent over BB row (110)
+- BB curl (65)
+- Pull-up
+- Bent over single DB row (60)
+- DB curl (30)
+- Rocking pull down (100)
+- Face pull (50)
+
+## Tuesday (8/26) Rest (148 lb)
+
+## Monday (8/26) Push (Chest) (147.5/148.5)
+- Smith bench press PR (180) 8
+- Smith bench press (175) 6/5
+- Overhead press (50) 8/8/8
+- Push down (100) 12/10/8
+- Weighted dip (30) 6/6/4
+- Fly (30) 5/5/4
+- Lateral raise (15) 12/12/12
+- Kick back (15) 12/12/12
+- Push-up 12/9/6
 
 ## Sunday (8/25) Rest
 
