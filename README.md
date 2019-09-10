@@ -1,35 +1,74 @@
 # Workouts
 
-## Monday (9/2) Push (Triceps)
-- Skull crusher PR (50)
-- Skull crusher (45)
-- Decline bench press (100)
-- Overhead press (50)
-- Kick back (20)
-- Decline push-up
-- Bent over reverse fly (15)
+## Tuesday (9/10) Pull
+- Bent over BB row (95)
+- BB curl (45)
+- Bent over single DB row (50)
+- Hammer curl (20)
 
-## Thursday (8/29) Push (Shoulders)
-- Overhead press PR (70)
-- Overhead press (60)
-- Front raise (25)
-- Lateral raise (20)
-- Bent over reverse fly (20)
-- Push down (110)
-- Kick back (15)
-- Smith incline bench press (115)
-- Incline push-up
+## Monday (9/9) Push (Triceps) (147/146.5 lb)
+- Skull crusher PR (50) 8/8/5
+- Decline bench press (95/115/125) 12/12/12
+- Overhead press (50/50/40) 10/8/8
+- Kick back (20) 10/10/10
+- Decline push-up 12
+- Bent over reverse fly (15) 12/12/12
 
-## Wednesday (8/26) Pull (
-- Bent over BB row (110)
-- BB curl (65)
-- Pull-up
-- Bent over single DB row (60)
-- DB curl (30)
-- Rocking pull down (100)
-- Face pull (50)
+## Sunday (9/8) Legs (148 lb)
+- Squat (60/95/115) 10/10/10
+- Deadlift (95/205/205/185) 10/4/3/5
+- Leg extension (90/115/140) 10/10/6
+- Calf extension (50) 25/25/25
+- Pull-up 12
+- Band pull apart 12
 
-## Tuesday (8/26) Rest (148 lb)
+Week 20
+
+## Saturday (9/7) Rest
+
+## Friday (9/6) Rest
+
+## Thursday (9/5) Rest
+
+## Wednesday (9/4) Pull
+- Bench press (165) 0
+- Bent over BB row (100/105/110) 12/12/9
+- BB curl (60) 10/8/7
+- Bent over single DB row (45) 10/10/10
+- DB curl (25) 10/8/8
+
+## Tuesday (9/3) Rest
+
+## Monday (9/2) Rest
+
+## Sunday (9/1) Rest
+
+Week 19
+
+## Saturday (8/31) Rest
+
+## Friday (8/30) Rest
+
+## Thursday (8/29) Push (Shoulders) (147/148.5 lb)
+- Overhead press (50/60/60) 10/10/6
+- Front raise (20) 10/10/8
+- Lateral raise (20/20/15) 8/8/10
+- Bent over reverse fly (20) 10/10/10
+- Push down (110) 12/11/8
+- Kick back (15/12/12) 10/12/12
+- Smith incline bench press (95/105/110/115) 10/10/7/6
+- Incline push-up 10/9/9
+
+## Wednesday (8/28) Pull (146/148 lb)
+- Bent over BB row (110) 10/10/9
+- BB curl (65) 10/8/6 (forearm pain)
+- Pull-up 7/5/4
+- Bent over single DB row (60/55/55) 8/8/8
+- Preacher curl (25) 8/6/6
+- Rocking pull down (100) 12/10/10
+- Face pull (50) 12/12/12
+
+## Tuesday (8/27) Rest (148 lb)
 
 ## Monday (8/26) Push (Chest) (147.5/148.5)
 - Smith bench press PR (180) 8
