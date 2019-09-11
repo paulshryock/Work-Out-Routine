@@ -1,10 +1,18 @@
 # Workouts
 
+## Wednesday (9/11) Legs
+- Deadlift
+- Bulgarian split squat
+- Leg press
+- Leg extension
+- Leg curl
+- Calf extension
+
 ## Tuesday (9/10) Pull
-- Bent over BB row (95)
-- BB curl (45)
-- Bent over single DB row (50)
-- Hammer curl (20)
+- Bent over BB row (95) 12/12/12
+- BB curl (45) 12/12/9
+- Bent over single DB row (40) 10/10/7
+- Hammer curl (15) 10/10/10
 
 ## Monday (9/9) Push (Triceps) (147/146.5 lb)
 - Skull crusher PR (50) 8/8/5
