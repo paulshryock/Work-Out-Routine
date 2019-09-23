@@ -1,5 +1,50 @@
 # Workouts
 
+## Monday (9/23) Push (
+- Smith bench press (180)
+- Overhead press (50)
+- Skull crusher (50)
+- Push up
+- Front raise (20)
+- Kick back (15)
+- Weighted dip (30)
+- Lateral raise (15)
+- Push down (110)
+- Fly (30)
+- Bent over reverse fly (15)
+
+## Sunday (9/17) Rest
+
+Week 22
+
+## Saturday (9/17) Rest
+
+## Friday (9/17) Rest
+
+## Thursday (9/17) Rest
+
+## Wednesday (9/17) Rest
+
+## Tuesday (9/17) Rest
+
+## Monday (9/16) Push (146.5/147 lb)
+- Skull crusher (50) 9/10/7
+- Dip 12/9/7
+- Kick back (15) 10/12/12
+- Lateral raise (15) 12/12/10
+- Push down (110) 9/6/5
+- Bent over reverse fly (15) 12/12/12
+
+## Sunday (9/15) Rest
+
+Week 21
+
+## Saturday (9/14) Rest
+
+## Friday (9/13) Rest
+
+## Thursday (9/12) Rest
+
 ## Wednesday (9/11) Legs
 - Deadlift
 - Bulgarian split squat
