@@ -1,17 +1,22 @@
 # Workouts
 
-## Monday (9/23) Push (
-- Smith bench press (180)
-- Overhead press (50)
-- Skull crusher (50)
-- Push up
-- Front raise (20)
-- Kick back (15)
-- Weighted dip (30)
-- Lateral raise (15)
-- Push down (110)
-- Fly (30)
-- Bent over reverse fly (15)
+## Tuesday (9/24) Pull (
+- Bent over BB row (120)
+- Weighted pull-up (25) PR
+- BB curl (70)
+- Bent over single DB row (60)
+- Pull down (100)
+- DB curl (25)
+
+## Monday (9/23) Push (147/148 lb)
+- Smith bench press (135/165/175) 8/7/3
+- DB overhead press (30) 8/7/7
+- Flat skull crusher (50) 12
+- Flat skull crusher, lower/raise (50) 7/5
+- Push up 12/10/8
+- Front raise (20) 10/10/10
+- Kick back (15) 12/12/12
+- Bent over reverse fly (15) 12/12/12
 
 ## Sunday (9/17) Rest
 
