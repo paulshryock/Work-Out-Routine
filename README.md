@@ -952,52 +952,67 @@ Week 4
 Week 3
 
 ## Saturday (5/11) Chest/Legs
-- Bench press (95/105/110/115/120) 8/8/6/6/5
-- Squat (95/105/110/115) 8/8/8/6
-- Leg extension (90/95/100) 8/6/6
+- Bench press (95) 8
+- Bench press (105) 8
+- Bench press (110) 6
+- Bench press (115) 6
+- Bench press (120) 5
+- Squat (95) 8
+- Squat (105) 8
+- Squat (110) 8
+- Squat (115) 6
+- Leg extension (90) 8
+- Leg extension (95) 6
+- Leg extension (100) 6
 
 ## Friday (5/10) Pull (139 lbs)
-- Bent over overhand BB row (120) 6/6/6/6
-- BB curl (65) 6/6/4.5
-- Upright close grip BB row (65) 4/4/6
+- Bent over BB row (120) 6/6/6/6
+- BB curl (65) 6/6/4
+- Upright row (65) 4/4/6
 - Bent over single DB row (50) 6/6/8
 - DB curl (30) 6/5/5
-- Pull-up 5/4/5/4 (do earlier next time)
-- Scapular pull-up 4/5/4 (losing my grip?)
-- Pull down (115) 6/5.5/4
+- Pull-up 5/4/5/4
+- Scapular pull-up 4/5/4
+- Pull down (115) 6/5/4
 
 ## Thursday (5/9) Push
 - Push-up 10
-- Bench press (45) 10
 - Bench press (90) 10/10/10/10
-- Overhead BB press (30/40/45/50) 10/10/10/5.5
+- Overhead press (30) 10
+- Overhead press (40) 10
+- Overhead press (45) 10
+- Overhead press (50) 5
 - Incline bench press (90) 6/6/5
-- Overhead DB press (25) 5.5/5/4
+- Overhead DB press (25) 5/5/4
 - Chin-up 10/9/6
 
 ## Wednesday (5/8) Legs
-- Run (15.0/7.0) 1min
-- Squat (0) 5
+- Squat 5
 - Smith squat (125) 8/8/8
 - Deadlift (110) 8/8/8
-- Leg press (170/170/190) 8/8/8
-- Leg extension (90) 7/6.5/7
-- Leg curl (50/70/70) 6/6/6
+- Leg press (170) 8/8
+- Leg press (190) 8
+- Leg extension (90) 7/6/7
+- Leg curl (50) 6
+- Leg curl (70) 6/6
 
 ## Tuesday (5/7) Pull
 - DB curl (12) 10
-- Bent over single DB curl (10) 10
-- Bent over underhand BB row (100/100/125) 8/8/6
-- BB curl (65) 6/6/5.5
-- Pull-up 6/5.5/5.5
+- Bent over single DB row (10) 10
+- Bent over BB row (100) 8/8
+- Bent over BB row (125) 6
+- BB curl (65) 6/6/5
+- Pull-up 6/5/5
 - Bent over single DB row (45) 8/8/8
 - DB curl (25) 8/7/6
-- Pull down (100) 8/7.5/6.5
+- Pull down (100) 8/7/6
 
 ## Monday (5/6) Push
 - DB curl (12) 10
-- Smith bench press (135/145/155) 6/6/5
-- Overhead DB press (25)
+- Smith bench press (135) 6
+- Smith bench press (145) 6
+- Smith bench press (155) 5
+- DB overhead press (25)
 
 ## Sunday (5/5) Rest
 
@@ -1010,25 +1025,31 @@ Week 2
 - Pull-up
 
 ## Friday 5/3 Push
-- Smith bench press (95/135/135/135) 8/8/8/7
-- Smith incline bench press (135/115/115/115) 4/5/5/6
+- Smith bench press (95) 8
+- Smith bench press (135) 8/8/7
+- Smith incline bench press (135) 4
+- Smith incline bench press (115) 5/5/6
 - Fly (25) 6/5/5
 - Seated overhead press (25) 8/6/6
 - Overhead press (20) 7/7/7
-- Lateral raise (20/15/15/) 6weak/6/6
+- Lateral raise (20) 6
+- Lateral raise (15) 6/6
 - Neutral grip pull-up 6
 
 ## Thursday 5/2 Rest
 - Bench press (135) 1 failed
-- Push-up (5/7.5/10) 10/10/10
+- Push-up (5) 10
+- Push-up (7.5) 10
+- Push-up (10) 10
 
 ## Wednesday 5/1 Legs
-- (warmup) Run (incline 10.0/speed 7.0) 2min
-- Smith squat (100/115/115/115) 8/6/8/8
+- Smith squat (100) 8
+- Smith squat (115) 6/8/8
 - Deadlift (100) 8/8/8/10
-- Leg press (130/150/170) 8/8/8
+- Leg press (130) 8
+- Leg press (150) 8
+- Leg press (170) 8
 - Leg extension (90) 6/6/6
-- Forgot to stretch
 
 ## Tuesday 4/30 Pull
 - Bent over BB row (80/80/100) 8/8/8
