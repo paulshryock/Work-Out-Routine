@@ -1,6 +1,14 @@
 # Workouts
 
 ## Monday (10/7) Push
+- Smith bench press PR (185)
+- Smith bench press (135)
+- Overhead press (50)
+- Skull crusher (50)
+- Weighted dip (30)
+- Front raise (20)
+- Kick back (15)
+- Lateral raise (15)
 
 ## Sunday (10/6) Legs
 - Squat (135) 9/8/7
