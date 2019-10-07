@@ -908,7 +908,7 @@ Week 4
 - BB overhead press (60) 8/7/5 (using lower back, stop, lower weights and focus on front delts)
 - Bent over reverse fly (5/5/10/10) 12/12/12/12
 - DB overhead press (25/30/30) 12/7/5
-- Reverse seated dip 12/12/12
+- Bench dip 12/12/12
 - Chin-up close grip 8
 
 ## Wednesday (5/15) Legs (138.5 lb)
@@ -1013,7 +1013,7 @@ Week 2
 - Push-up (5/7.5/10) 10/10/10
 
 ## Wednesday 5/1 Legs
-- Run (incline 10.0/speed 7.0) 2min
+- (warmup) Run (incline 10.0/speed 7.0) 2min
 - Smith squat (100/115/115/115) 8/6/8/8
 - Deadlift (100) 8/8/8/10
 - Leg press (130/150/170) 8/8/8
@@ -1031,9 +1031,9 @@ Week 2
 ## Monday 4/29 Push
 - Smith bench press (105/125/135) 10/10/6
 - Push-up 10/10/12
-- Overhead press (15/15/20) 8/10/8
+- DB overhead press (15/15/20) 8/10/8
 - Seated overhead press (20/25/25) 10/8/7
-- Standing lateral raise (25/15/15) 8/8/7
+- Lateral raise (25/15/15) 8/8/7
 
 ## Sunday 4/28
 - Bench Press (90) 10/10/10
@@ -1042,7 +1042,7 @@ Week 2
 - Bent Over DB Row (45) 10/10/6
 - DB Curl (25) 10/10/10
 - Push-up 10/10/10
-- Reverse seated dip 10/10/10
+- Bench dip 10/10/10
 - Pull-up 5
 - Calf extension 120
 
