@@ -1,12 +1,52 @@
 # Workouts
 
-## Tuesday (9/24) Pull (
-- Bent over BB row (120)
-- Weighted pull-up (25) PR
-- BB curl (70)
-- Bent over single DB row (60)
-- Pull down (100)
-- DB curl (25)
+## Monday (10/7) Push
+
+## Sunday (10/6) Legs
+- Squat (135) 9/8/7
+- Deadlift (195/200/205/210) 6/4/3/2
+
+Week 24
+
+## Saturday (10/5) Rest
+
+## Friday (10/4) Rest
+
+## Thursday (10/3) Rest
+
+## Wednesday (10/2) Rest
+
+## Tuesday (10/1) Rest
+
+## Monday (9/30) Rest
+
+## Sunday (9/29) Pull
+- Bent over BB row (115) 10/7/7
+- BB curl (60) 10/10/7
+- Bent over single DB row (55) 10/8/8
+- DB curl (30) 8/6
+
+Week 23
+
+## Saturday (9/28) Rest
+
+## Friday (9/27) Rest
+
+## Thursday (9/26) Legs (150 lb)
+- Squat (95/115/125) 10/10/10
+- Deadlift (135/185/205/210) 10/8/3/2
+- Calf extension (slow, mind/muscle) 25/25/25
+
+## Wednesday (9/25) Rest
+
+## Tuesday (9/24) Pull (146/148 lb)
+- Bent over BB row (120) 12/8/6
+- Pull-up 6/5/6
+- BB curl (70/60/60) 6/8/6
+- Bent over single DB row (55) 8/8/6
+- Pull down (100/100/85) 10/10/10
+- DB curl (25) 8/5/7
+- Shrug (50) 10/10/10
 
 ## Monday (9/23) Push (147/148 lb)
 - Smith bench press (135/165/175) 8/7/3
