@@ -1,5 +1,7 @@
 # Workouts
 
+## Tuesday (10/8) Rest
+
 ## Monday (10/7) Push (147.5/149 lb)
 - Smith bench press PR (185) 5
 - Smith bench press (135) 12/10/5
