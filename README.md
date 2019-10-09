@@ -899,54 +899,61 @@ Week 5
 
 Week 4
 
-## Saturday (5/18) Legs (bike)
-- Squat (120) 8/8/8 (not low enough) PR
-- Deadlift (125) 8/8/8 PR
-- Leg extension (90/90/100/105) 8/8/8/7
+## Saturday (5/18) Legs
+- Squat (120) 8/8/8
+- Deadlift (125) 8/8/8
+- Leg extension (90) 8/8
+- Leg extension (100) 8
+- Leg extension (105) 7
 - Goblet squat (30) 8/8/8
-- Bench press (130) 3 PR
+- Bench press (130) 3
 
-## Friday (5/17) Pull (139/140 lb) (back/shoulders/arms)
-- Bent over BB row (135) 6/5/4 (not bent over enough, lower weight to 120 and bend more)
+## Friday (5/17) Pull (140 lb)
+- Bent over BB row (135) 6/5/4
 - Pull-up 7/7/6
-- BB curl (65) 6/5.5/3.5/3
-- Close grip upright row (60) 6/8/8
+- BB curl (65) 6/5/3/3
+- Upright row (60) 6/8/8
 - Pull down (115) 8/8/6
-- Preacher curl (50) 8/4/4 (back/shoulders/arms)
+- Preacher curl (50) 8/4/4
 
 ## Thursday (5/16) Push
 - Bench press (115) 8/7/6
 - Incline bench press (75) 8/8/8
-- BB overhead press (60) 8/7/5 (using lower back, stop, lower weights and focus on front delts)
-- Bent over reverse fly (5/5/10/10) 12/12/12/12
-- DB overhead press (25/30/30) 12/7/5
+- Overhead press (60) 8/7/5
+- Bent over reverse fly (5) 12/12
+- Bent over reverse fly (10) 12/12
+- DB overhead press (25) 12
+- DB overhead press (30) 7/5
 - Bench dip 12/12/12
 - Chin-up close grip 8
 
-## Wednesday (5/15) Legs (138.5 lb)
+## Wednesday (5/15) Legs (138 lb)
 - Deadlift (120) 8/8/8
 - Smith squat (130) 8/8/8
-- Leg press (190/190/210) 8/8/8
-- Leg extension (110) 8/8/6.5
+- Leg press (190) 8
+- Leg press (210) 8/8
+- Leg extension (110) 8/8/6
 - Leg curl (70) 8/8/8
 
-## Tuesday (5/14) Pull (139.5 lbs)
-- Bent over underhand BB row (130) 6/6/6
-- BB curl (65) 6/6/5.5 (right shoulder coming up)
-- Upright close grip BB row (65) 4/4/5 (not high enough)
+## Tuesday (5/14) Pull (139 lbs)
+- Bent over row (130) 6/6/6
+- BB curl (65) 6/6/5
+- Upright row (65) 4/4/5
 - Pull-up 6/5/5
-- Preacher curl (40/50/50) 8/6/5
-- Bent over single DB row (55) 8/8/8 (not high enough)
+- Preacher EZ curl (40) 8
+- Preacher EZ curl (50) 6/5
+- Bent over single DB row (55) 8/8/8
 - DB curl (30) 4
 
 ## Monday (5/13) Push (142 lbs)
 - Smith bench press (155) 6/6/5
 - Chin-up 10/6/6
 - Fly (25) 6/6/6
-- BB overhead press (50/60/60) 10/7/5
-- Lateral raise (15) 8/7/5 (not high enough)
-- Seated DB overhead press (25) 8/8/10
-- Bent over reverse fly (10) 8/8/8 (not high enough)
+- Overhead press (50) 10
+- Overhead press (60) 7/5
+- Lateral raise (15) 8/7/5
+- Seated overhead press (25) 8/8/10
+- Bent over reverse fly (10) 8/8/8
 
 ## Sunday (5/12) Rest
 - Bench press (125) 4
