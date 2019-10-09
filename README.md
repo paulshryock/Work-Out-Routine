@@ -1,5 +1,13 @@
 # Workouts
 
+## Wednesday (10/9) Pull
+- Bent over row
+- BB curl
+- Bent over single DB row
+- DB curl
+- Preacher curl
+- Pull-up
+
 ## Tuesday (10/8) Rest
 
 ## Monday (10/7) Push (147.5/149 lb)
