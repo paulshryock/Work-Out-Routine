@@ -1,7 +1,7 @@
 # Personal record
 
 - Bench press (160) 1
-- Smith bench press (185) 5
+- Smith bench press (190) 3
 - Overhead press (70) 4
 - Bent over BB row (140) 8
 - BB curl (70) 9

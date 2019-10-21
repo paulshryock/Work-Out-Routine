@@ -1,15 +1,12 @@
 # Workouts
 
-## Monday (10/21) Push
-- Smith bench press PR (190)
-- Smith bench press (140)
-- Weighted dip (30)
-- Skull crusher (45)
-- Overhead press (50)
-- Kick back (15)
-- Front raise (20)
-- Lateral raise (15)
-- Bent over reverse fly (15)
+## Monday (10/21) Push (150 lb)
+- Smith bench press (190) 3
+- Smith bench press (140) 12/11/5
+- Skull crusher (45) 6
+- Skull crusher (40) 8/5
+- Overhead press (50) 7/6/5
+- Lateral raise (15) 10/10/10
 
 ## Sunday (10/20)
 
