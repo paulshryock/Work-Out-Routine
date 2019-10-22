@@ -1,5 +1,15 @@
 # Workouts
 
+## Tuesday (10/22) Pull (
+- Bent over row (120)
+- Deadlift (170)
+- BB curl (65)
+- Pull-up
+- Bent over single DB row (50)
+- DB curl (25)
+- Pull down (85)
+- Face pull (60)
+
 ## Monday (10/21) Push (150 lb)
 - Smith bench press (190) 3
 - Smith bench press (140) 12/11/5
@@ -12,7 +22,7 @@
 
 Week 25
 
-## Saturday (10/19) (148 lb)
+## Saturday (10/19) Push (148 lb)
 - Bench press (135) 4
 - Bench press (115) 8/6
 - Bench press (105) 6
