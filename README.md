@@ -1,14 +1,18 @@
 # Workouts
 
-## Tuesday (10/22) Pull (
-- Bent over row (120)
-- Deadlift (170)
-- BB curl (65)
-- Pull-up
-- Bent over single DB row (50)
-- DB curl (25)
-- Pull down (85)
-- Face pull (60)
+## Tuesday (10/22) Pull (149 lb)
+- Bent over row (120) 10/10/8
+- Deadlift (170) 8/7/6
+- BB curl (45) 12/10/8
+- Pull-up 6
+- Neutral pull-up 5
+- Chin-up 5
+- Bent over single DB row (50) 8
+- Bent over single DB row (40) 10
+- Bent over single DB row (35) 10
+- EZ preacher curl (45) 5
+- EZ preacher curl (35) 8/7
+- Face pull (60) 12/12 (next time do 50)
 
 ## Monday (10/21) Push (150 lb)
 - Smith bench press (190) 3
