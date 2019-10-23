@@ -1,32 +1,11 @@
 # Workouts
 
-## Wednesday (10/23) Legs
-- Warmup (1 minute per):
-  - Walk/jog (2 min)
-  - Upper body dynamic stretches
-  - Lower body dynamic stretches:
-    - Leg swing (front/back) (30 sec)
-    - Leg swing (side/side) (30 sec)
-  - Foam roll (back/glutes/hamstrings/calves/quads) (2min)
-  - Body weight squat (30 sec)
-  - Goblet squat (30) (30 sec)
-  - DB deadlift (30) (30 sec)
-- Workout:
-  - Smith squat PR (190,72.5s)
-  - Smith squat (145, 45/50s)
-  - Deadlift (175, 45/65s, 30/72.5s)
-  - DB calf extension (25)
-  - Leg press (260)
-  - Leg extension (145)
-  - Leg curl (115)
-- Cool down (1 minute per):
-  - Body weight squat
-  - Goblet squat
-  - DB deadlift (30)
-- Stretch (1 minute per):
-  - Bench stretch
-  - Quad stretch
-  - Foam roll (back/glutes/hamstrings/calves/quads)
+## Wednesday (10/23) Legs (148 lb)
+- Smith squat PR (190) 7
+- Smith squat (145) 10/8/8
+- Deadlift (175) 10/7/5
+- Leg press PR (260) 10
+- Leg press (195) 12/12
 
 ## Tuesday (10/22) Pull (149 lb)
 - Bent over row (120) 10/10/8
