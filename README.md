@@ -1,10 +1,10 @@
 # Workouts
 
 ## Wednesday (10/23) Legs (148 lb)
-- Smith squat PR (190) 7
+- Smith squat (190) 7
 - Smith squat (145) 10/8/8
 - Deadlift (175) 10/7/5
-- Leg press PR (260) 10
+- Leg press (260) 10
 - Leg press (195) 12/12
 
 ## Tuesday (10/22) Pull (149 lb)
