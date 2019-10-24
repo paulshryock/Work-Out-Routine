@@ -1,24 +1,45 @@
 # Workouts
 
 ## Friday (10/25) Pull
-- Back
+- Warmup (10min):
+  - Walk (2min)
+  - Upper body dynamic stretches (2min)
+  - Foam roll back, lats (2min)
+  - Wall slides (30sec)
+  - Band/pole dislocation (30sec)
+  - Rope lat extension (30)
+- Back:
   - Bent over row PR (145, 30/57.5s)
   - Bent over row (105, 30/37.5s)
   - DB single bent over row (50)
   - Pull-up
   - Pull-down (100)
-- Arms
+- Arms:
   - BB Curl PR (75, 30/22.5s)
   - BB Curl (50, 30/10s)
   - Hammer curl (35)
   - EZ preacher curl (35, 15/10s)
+- Cool down (10min):
+  - DB single bent over row (12)
+  - DB curl (12)
+  - Dead hang (45sec)
+  - Lat stretch (45sec)
+  - Trap stretch (1min)
+  - Foam roll back, lats (2min)
 
 ## Thursday (10/24) Push
+- Warmup (10min):
+  - Walk to Fairview and back (2min?)
+  - Upper body dynamic stretches (2min)
+  - Foam roll back, chest (2min)
+  - Wall slides (30sec)
+  - Band/pole dislocation (30sec)
+  - Push-up
 - Chest:
   - Bench press PR (165)
   - Bench press (120)
   - Fly (25)
-  - Push-up
+  - DB pullover (25)
 - Shoulder:
   - Overhead press PR (75)
   - Overhead press (50)
@@ -26,8 +47,17 @@
   - Lateral raise (20)
   - Bent over reverse fly (20)
 - Triceps:
+  - Skull crusher (40)
   - Kick back (20)
   - Bench dip
+- Cool down (10min):
+  - DB bench press (12)
+  - DB overhead press (12)
+  - Dead hang (45sec)
+  - Doorway chest stretch (1min)
+  - Behind-the-head chest stretch (30sec)
+  - Shoulder stretch (1min)
+  - Foam roll back, chest (2min)
 
 ## Wednesday (10/23) Legs (148 lb)
 - Smith squat (190) 7
