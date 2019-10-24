@@ -3,7 +3,7 @@
 - Bench press (160) 1
 - Smith bench press (190) 3
 - Overhead press (70) 4
-- Bent over BB row (140) 8
+- Bent over row (140) 8
 - BB curl (70) 9
 - Squat (135) 9
 - Smith squat (190) 7

@@ -1,5 +1,34 @@
 # Workouts
 
+## Friday (10/25) Pull
+- Back
+  - Bent over row PR (145, 30/57.5s)
+  - Bent over row (105, 30/37.5s)
+  - DB single bent over row (50)
+  - Pull-up
+  - Pull-down (100)
+- Arms
+  - BB Curl PR (75, 30/22.5s)
+  - BB Curl (50, 30/10s)
+  - Hammer curl (35)
+  - EZ preacher curl (35, 15/10s)
+
+## Thursday (10/24) Push
+- Chest:
+  - Bench press PR (165)
+  - Bench press (120)
+  - Fly (25)
+  - Push-up
+- Shoulder:
+  - Overhead press PR (75)
+  - Overhead press (50)
+  - Front raise (20)
+  - Lateral raise (20)
+  - Bent over reverse fly (20)
+- Triceps:
+  - Kick back (20)
+  - Bench dip
+
 ## Wednesday (10/23) Legs (148 lb)
 - Smith squat (190) 7
 - Smith squat (145) 10/8/8
@@ -14,9 +43,9 @@
 - Pull-up 6
 - Neutral pull-up 5
 - Chin-up 5
-- Bent over single DB row (50) 8
-- Bent over single DB row (40) 10
-- Bent over single DB row (35) 10
+- DB single bent over row (50) 8
+- DB single bent over row (40) 10
+- DB single bent over row (35) 10
 - EZ preacher curl (45) 5
 - EZ preacher curl (35) 8/7
 - Face pull (60) 12/12 (next time do 50)
@@ -52,7 +81,7 @@ Week 25
 - Bent over row (135) 7/6/6 (too much for working set)
 - Deadlift (185) 7/6/5
 - BB curl (65) 10/7/4
-- Bent over single DB row (30) 12/12/12
+- DB single bent over row (30) 12/12/12
 - DB curl (30) 3
 
 ## Monday (10/14) Push (148 lb)
@@ -102,7 +131,7 @@ Week 24
 ## Sunday (9/29) Pull
 - Bent over BB row (115) 10/7/7
 - BB curl (60) 10/10/7
-- Bent over single DB row (55) 10/8/8
+- DB single bent over row (55) 10/8/8
 - DB curl (30) 8/6
 
 Week 23
@@ -122,7 +151,7 @@ Week 23
 - Bent over BB row (120) 12/8/6
 - Pull-up 6/5/6
 - BB curl (70/60/60) 6/8/6
-- Bent over single DB row (55) 8/8/6
+- DB single bent over row (55) 8/8/6
 - Pull down (100/100/85) 10/10/10
 - DB curl (25) 8/5/7
 - Shrug (50) 10/10/10
@@ -180,7 +209,7 @@ Week 21
 ## Tuesday (9/10) Pull
 - Bent over BB row (95) 12/12/12
 - BB curl (45) 12/12/9
-- Bent over single DB row (40) 10/10/7
+- DB single bent over row (40) 10/10/7
 - Hammer curl (15) 10/10/10
 
 ## Monday (9/9) Push (Triceps) (147/146.5 lb)
@@ -211,7 +240,7 @@ Week 20
 - Bench press (165) 0
 - Bent over BB row (100/105/110) 12/12/9
 - BB curl (60) 10/8/7
-- Bent over single DB row (45) 10/10/10
+- DB single bent over row (45) 10/10/10
 - DB curl (25) 10/8/8
 
 ## Tuesday (9/3) Rest
@@ -240,7 +269,7 @@ Week 19
 - Bent over BB row (110) 10/10/9
 - BB curl (65) 10/8/6 (forearm pain)
 - Pull-up 7/5/4
-- Bent over single DB row (60/55/55) 8/8/8
+- DB single bent over row (60/55/55) 8/8/8
 - Preacher curl (25) 8/6/6
 - Rocking pull down (100) 12/10/10
 - Face pull (50) 12/12/12
@@ -268,7 +297,7 @@ Week 18
 - Bent over BB row (100/110/110/110) 10/10/8/7
 - BB curl (65) 10/8/8
 - Pull-up 6/7/5
-- Bent over single DB row (65/60/60) 6/7/6
+- DB single bent over row (65/60/60) 6/7/6
 - DB curl (30/30/25) 8/5/8 (outer forearm pain)
 - Rocking pull down (100) 10/10/10
 - Face pull (50) 12/12/12
@@ -293,7 +322,7 @@ Week 18
 ## Tuesday (8/20) Pull
 - Bent over BB row (115) 10/10/8
 - BB curl (65) 10/8/6
-- Bent over single DB row (62.5) 8
+- DB single bent over row (62.5) 8
 
 ## Monday (8/19) Push (145.5/147 lb)
 - Smith bench press (65/85/155/175x3) 10x3/8/6/4
@@ -339,7 +368,7 @@ Week 16
 - Bent over BB row (115) 10/10/7
 - BB curl (65) 8/6/5
 - Weighted pull-up (20-0) 5-3/4-3/3-3
-- Bent over single DB row (50) 12/10/10
+- DB single bent over row (50) 12/10/10
 - Hammer curl (30) 10/7/10
 - Pull down (lean-sit) (100) 12-10/8-2/9-4
 - Face pull (70) 12/12/12
@@ -364,7 +393,7 @@ Week 16
 
 ## Sunday (8/4) Pull
 - Bent over BB row (115) 10/8/8
-- Bent over single DB row (50) 10/9/8
+- DB single bent over row (50) 10/9/8
 - BB curl (65) 10/7/7
 - DB curl 21's (25) 7/7/0
 - DB curl (25) 7/7
@@ -403,7 +432,7 @@ Week 15
 - Bent over BB row (110) 12/10/10
 - Weighted pull-up (20) 7/6/6
 - BB curl (70) 8/6/4
-- Bent over single DB row (55) 10/10/10
+- DB single bent over row (55) 10/10/10
 - Pull-down (lean back) (85) 12/12/12
 - DB curl (20) 12/12/10
 - Face pull (70) 12/12/12
@@ -420,7 +449,7 @@ Week 15
 - Bent over BB row (110) 10/10/9
 - Deadlift (185) 8/7/7
 - BB curl (70) 11/9/5
-- Bent over single DB row (50) 12/12/8
+- DB single bent over row (50) 12/12/8
 - DB curl (20) 12/12/12
 - Australian pull-up 12/15/20
 
@@ -452,7 +481,7 @@ Week 14
 - Bent over BB row (110) 10/10/7
 - Weighted pull-up (20) 6/5/5
 - BB curl (70) 9/6/4
-- Bent over single DB row (55) 10/8/8
+- DB single bent over row (55) 10/8/8
 - Pull-down (lean back) (85) 12/10/10
 - DB curl (20) 21s, 2 short/8/8
 - Face pull (70) 12/12/12
@@ -476,7 +505,7 @@ Week 14
 - Bent over BB row (110) 12/10/8 (keep neck straight, head up)
 - Weighted pull-up (20) 6/5/5
 - BB curl (70/70/70/50) 7/5/5/7
-- Bent over single DB row (50) 10/10/10
+- DB single bent over row (50) 10/10/10
 - Pull-down (lean back x3, regular) (70) 12/12/12/12
 - DB curl (30) 9/8/6
 - Face pull (70/60/60) 10/12/12
@@ -504,7 +533,7 @@ Week 14
 - Bent over BB row (100) 12/12/8
 - BB cheat curl (ecc) (60) 8/8/5
 - Weighted pull-up (20/20/0) 5/4/6
-- Bent over single DB row (60/50/50) 6/8/8
+- DB single bent over row (60/50/50) 6/8/8
 - DB curl (30) 12/7/7
 - Pull down (deadlift, lean back) (55) 12/12/12
 - EZ bar curl (55) 12/8/8
@@ -531,7 +560,7 @@ Week 12
 - Bent over OH BB row (100) 8/10/10
 - Deadlift (180) 5/5/3
 - BB curl (65) 12/9/9
-- Bent over single DB row (30) 12/12/12
+- DB single bent over row (30) 12/12/12
 - DB curl (30) 8/10/8
 - Preacher curl (20) 12/12
 
@@ -558,7 +587,7 @@ Week 12
 - Bent over OH BB row (120) 10/10/8 (not high enough, lower to 100)
 - BB curl (70) 9/6/5
 - Pull-up 8/7/6
-- Bent over single DB row (50) 10/10/10
+- DB single bent over row (50) 10/10/10
 - Hammer curl (30) 9/7/7
 - Pull down (wide) (85) 12/12/10
 - Preacher curl (25) 12/12/10
@@ -586,7 +615,7 @@ Week 11
 - Bent over UH BB row (125/125/135) 8/10/8
 - BB curl (65) 12/8/5
 - Weighted chin-up (10/10/0) 8/4/5
-- Bent over single DB row (70) 7/6/6
+- DB single bent over row (70) 7/6/6
 - Hammer curl (30) 8/6/5
 - Pull down (97.5) 8/10/9
 - Preacher curl (25) 12/9/7
@@ -616,7 +645,7 @@ Week 11
 - Bent over UH BB row (120) 10/9/7
 - BB curl (60/65/70) 12/9/8
 - Weighted chin-up (10/10/20) 5/6/3
-- Bent over single DB row (60/65/70) 12/9/6
+- DB single bent over row (60/65/70) 12/9/6
 - Incline DB curl (20/20/stand 25) 12/9/7
 - Pull-up 5/5/4
 - Preacher curl (30/20/25) 4/12/7
@@ -635,7 +664,7 @@ Week 11
 ## Sunday (6/30) Pull (146 lb)
 - Bent over BB UH row (105/115/115) 12/8/8
 - Hammer curl (30) 8/8/6
-- Bent over single DB row (55/55/60) 10/10/8
+- DB single bent over row (55/55/60) 10/10/8
 - Spider DB curl (25/25/20/20) 3/6/9/9
 - Pull-up 7/6/5
 - Pull down (wide, alternate sides) (105) 10/10/10
@@ -665,7 +694,7 @@ Week 10
 - Neutral Pullup 10/8/7
 - Bent over BB UH row (120) 7/8/7 (not high enough)
 - EZ bar curl (60) 12/8/8
-- Bent over single DB row (65/60/55) 7/7/7 (not high enough)
+- DB single bent over row (65/60/55) 7/7/7 (not high enough)
 - Hammer curl (30) 6/6/6
 - Pull down (wide, alternate sides) (100) 12/10/10 (not low enough)
 - Face pull (70/60/50) 10/10/12 (hold longer)
@@ -684,7 +713,7 @@ Week 10
 - Pullup 12/10/8
 - Bent over BB OH row (120) 8/8/7
 - Barbell curl (55) 8/8/8
-- Bent over single DB row (45) 12/10/12
+- DB single bent over row (45) 12/10/12
 - Hammer curl (25) 8/8/7
 - UH band pull apart high/wide 12/12/8
 
@@ -715,7 +744,7 @@ Warm-up: pistol squat, crane deadlift
 ## Tuesday (6/18) Pull (142/143.5)
 - Bent over BB UH row (110) 10/10/9
 - Spider DB curl (25) 8/8/8
-- Bent over single DB row (65) 8/7/7
+- DB single bent over row (65) 8/7/7
 - EZ bar curl (50) 8/8/7
 - Australian pull-up 25/15/12
 - DB shrug (60) 10/8/6
@@ -746,7 +775,7 @@ Week 8
 ## Friday (6/14) Pull (145.5/143 lb)
 - Bent over BB UH row (1min) (100) 12/12/12
 - Spider DB curl (biceps) (1min) (20s) 8/8/8
-- Bent over single DB row (1min) (60) 8/8/8
+- DB single bent over row (1min) (60) 8/8/8
 - EZ bar curl (biceps) (1min) (50) 12/6/6
 - Pull-up (shoulders, arms, back) 6/5/5
 - DB shrug (60) 8/8/8
@@ -772,7 +801,7 @@ Week 8
 ## Tuesday (6/11) Pull (141/143 lb)
 - Bent over BB OH row (130) 8/8/8 (lower back pain, lower the weight to 100)
 - Incline bench DB curl (20) 8/8/8 (inner elbow pain)
-- Bent over single DB row (50) 9/9/9
+- DB single bent over row (50) 9/9/9
 - EZ bar curl (50) 8/7/6
 - Pull-up 5/5
 - DB shrug (40/50/60) 12/12/8
@@ -793,7 +822,7 @@ Week 8
 ## Sunday (6/9) Pull
 - Bent over BB OH row (2min) (130) 8/8/8
 - DB curl (45sec) (45) 8/8/8
-- Bent over single DB row (45sec) (45) 12/10/8
+- DB single bent over row (45sec) (45) 12/10/8
 - EZ bar curl (45sec) (50) 12/11/10
 - EZ bar shrug (50/65/80) 12/12/12
 - Preacher single DB curl (45sec) (30) 8/7/4
