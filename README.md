@@ -1,6 +1,12 @@
 # Workouts
 
-## Friday (10/25) Pull
+## Sunday (10/27) Legs
+- Squat
+- Deadlift
+- Leg extension
+- Calf extension
+
+## Saturday (10/26) Pull
 - Warmup (10min):
   - Walk (2min)
   - Upper body dynamic stretches (2min)
@@ -27,7 +33,7 @@
   - Trap stretch (1min)
   - Foam roll back, lats (2min)
 
-## Thursday (10/24) Push
+## Friday (10/25) Push
 - Warmup (10min):
   - Walk to Fairview and back (2min?)
   - Upper body dynamic stretches (2min)
