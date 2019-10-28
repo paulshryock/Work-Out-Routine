@@ -1,71 +1,68 @@
 # Workouts
 
-Week 26
-
-## Sunday (10/27) Legs
-- Squat
-- Deadlift
-- Leg extension
-- Calf extension
-
-## Saturday (10/26) Pull
+## Monday (10/28) Push
 - Warmup (10min):
-  - Walk (2min)
-  - Upper body dynamic stretches (2min)
-  - Foam roll back, lats (2min)
+  - Walk (3min)
+  - Upper body dynamic stretches (1min)
   - Wall slides (30sec)
-  - Band/pole dislocation (30sec)
-  - Rope lat extension (30)
-- Back:
-  - Bent over row PR (145, 30/57.5s)
-  - Bent over row (105, 30/37.5s)
-  - DB single bent over row (50)
-  - Pull-up
-  - Pull-down (100)
-- Arms:
-  - BB Curl PR (75, 30/22.5s)
-  - BB Curl (50, 30/10s)
-  - Hammer curl (35)
-  - EZ preacher curl (35, 15/10s)
-- Cool down (10min):
-  - DB single bent over row (12)
-  - DB curl (12)
-  - Dead hang (45sec)
-  - Lat stretch (45sec)
-  - Trap stretch (1min)
-  - Foam roll back, lats (2min)
-
-## Friday (10/25) Push
-- Warmup (10min):
-  - Walk to Fairview and back (2min?)
-  - Upper body dynamic stretches (2min)
   - Foam roll back, chest (2min)
-  - Wall slides (30sec)
   - Band/pole dislocation (30sec)
-  - Push-up
-- Chest:
-  - Bench press PR (165)
-  - Bench press (120)
+  - Push-up (30sec)
+  - Seated overhead press (12)
+
+- Compound:
+  - Smith bench press PR (195, 45/75s)
+  - Smith bench press (142.5, 45/48.75s)
+  - Smith bench press (140, 45/47.5s)
+  - Overhead press PR (80, 30/25s)
+  - Overhead press (55, 30/12.5s)
+- Chest Superset:
+  - Dip
   - Fly (25)
   - DB pullover (25)
-- Shoulder:
-  - Overhead press PR (75)
-  - Overhead press (50)
-  - Front raise (20)
-  - Lateral raise (20)
-  - Bent over reverse fly (20)
-- Triceps:
-  - Skull crusher (40)
-  - Kick back (20)
+- Shoulders Superset:
+  - Front raise (15)
+  - Lateral raise (15)
+  - Bent over reverse fly (15)
+- Triceps Superset:
+  - Skull crusher (40, 15/12.5s)
+  - Kick back (15)
   - Bench dip
+
 - Cool down (10min):
-  - DB bench press (12)
-  - DB overhead press (12)
-  - Dead hang (45sec)
   - Doorway chest stretch (1min)
   - Behind-the-head chest stretch (30sec)
   - Shoulder stretch (1min)
+  - Dead hang (1min)
   - Foam roll back, chest (2min)
+
+## Sunday (10/27) Pull (148 lb)
+- Bent over row PR (145) 1
+- Bent over row (105) 12/12/10
+- DB bent over row (40) 8/7/7
+- DB single bent over row (40) 12/11
+- Deadlift (175) 7/6/7
+- Pull-down (100)
+- BB Curl PR (75) 4
+- BB Curl (50) 9/8/7
+- Cheat curls (75) 4/3
+- Hammer curl (15) 10/11
+
+Week 26
+
+## Saturday (10/26) Push (150 lb)
+- Bench press (120) 8/4/6
+- Fly (25) 10/10/9
+- DB pullover (15) 12
+- DB pullover (20) 12
+- DB pullover (25) 12
+- Overhead press PR (75) 1
+- Overhead press (50) 10/6/8
+- Front raise (20) 10/10/10
+- Lateral raise (15) 8/9/8
+- Bent over reverse fly (15) 12/12/12
+- Kick back (20) 12/12/12
+- Bench dip 12/12/12
 
 ## Wednesday (10/23) Legs (148 lb)
 - Smith squat (190) 7
