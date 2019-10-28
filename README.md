@@ -1,40 +1,18 @@
 # Workouts
 
-## Monday (10/28) Push
-- Warmup (10min):
-  - Walk (3min)
-  - Upper body dynamic stretches (1min)
-  - Wall slides (30sec)
-  - Foam roll back, chest (2min)
-  - Band/pole dislocation (30sec)
-  - Push-up (30sec)
-  - Seated overhead press (12)
-
-- Compound:
-  - Smith bench press PR (195, 45/75s)
-  - Smith bench press (142.5, 45/48.75s)
-  - Smith bench press (140, 45/47.5s)
-  - Overhead press PR (80, 30/25s)
-  - Overhead press (55, 30/12.5s)
-- Chest Superset:
-  - Dip
-  - Fly (25)
-  - DB pullover (25)
-- Shoulders Superset:
-  - Front raise (15)
-  - Lateral raise (15)
-  - Bent over reverse fly (15)
-- Triceps Superset:
-  - Skull crusher (40, 15/12.5s)
-  - Kick back (15)
-  - Bench dip
-
-- Cool down (10min):
-  - Doorway chest stretch (1min)
-  - Behind-the-head chest stretch (30sec)
-  - Shoulder stretch (1min)
-  - Dead hang (1min)
-  - Foam roll back, chest (2min)
+## Monday (10/28) Push (149 lb)
+- Smith bench press (140) 12/9/6
+- Overhead press PR (80) 5
+- Overhead press (55) 10/8/6
+- Dip 6/9/7
+- Fly (25) 5
+- Fly (20) 10/9
+- DB pullover (25) 12/12/12
+- Front raise (15) 10/10/10
+- Lateral raise (15) 10/10/8
+- Bent over reverse fly (15) 12/12/10
+- Kick back (10) 12/12/12
+- Bench dip 12/12/12
 
 ## Sunday (10/27) Pull (148 lb)
 - Bent over row PR (145) 1
