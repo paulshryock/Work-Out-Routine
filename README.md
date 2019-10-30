@@ -1,5 +1,33 @@
 # Workouts
 
+## Wednesday (10/30) Pull (
+Warmup
+- Walk
+- Dynamic upper body stretches
+- Pole dislocation
+- Push-up
+- Foam roll back, lats, glutes, arms
+
+Workout
+- Bent over row PR (150)
+- Bent over row (105)
+- Pull-up (cheat at end, as many as possible)
+- BB curl PR (80)
+- BB curl (cheat at end, as many as possible) (55)
+- Deadlift (175)
+- DB bent over row (40)
+- Pull-down (100)
+- Hammer curl (cheat at end, as many as possible) (30)
+- DB single bent over row (65)
+
+Stretch
+- Neck forward stretch
+- Bent over lat stretch
+- Grab pole lat stretch
+- Trap stretch
+- Dead hang
+- Foam roll back, lats, glutes, arms
+
 ## Monday (10/28) Push (149 lb)
 - Smith bench press (140) 12/9/6
 - Overhead press PR (80) 5
@@ -21,9 +49,9 @@
 - DB single bent over row (40) 12/11
 - Deadlift (175) 7/6/7
 - Pull-down (100)
-- BB Curl PR (75) 4
-- BB Curl (50) 9/8/7
-- Cheat curls (75) 4/3
+- BB curl PR (75) 4
+- BB curl (50) 9/8/7
+- BB cheat curl (75) 4/3
 - Hammer curl (15) 10/11
 
 Week 26
