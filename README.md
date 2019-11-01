@@ -1,32 +1,27 @@
 # Workouts
 
-## Wednesday (10/30) Pull (
-Warmup
-- Walk
-- Dynamic upper body stretches
-- Pole dislocation
-- Push-up
-- Foam roll back, lats, glutes, arms
-
-Workout
-- Bent over row PR (150)
-- Bent over row (105)
-- Pull-up (cheat at end, as many as possible)
-- BB curl PR (80)
-- BB curl (cheat at end, as many as possible) (55)
+## Wednesday (10/23) Legs (148 lb)
+- Smith squat PR (195)
+- Smith squat (145)
+- Deadlift PR (235)
 - Deadlift (175)
-- DB bent over row (40)
-- Pull-down (100)
-- Hammer curl (cheat at end, as many as possible) (30)
-- DB single bent over row (65)
+- Leg press PR (265)
+- Leg press (195)
+- Leg extension (140)
+- Leg curl (115)
 
-Stretch
-- Neck forward stretch
-- Bent over lat stretch
-- Grab pole lat stretch
-- Trap stretch
-- Dead hang
-- Foam roll back, lats, glutes, arms
+## Wednesday (10/30) Pull (148 lb)
+- Bent over row PR (150) 5
+- Bent over row (105) 12/12/9
+- Pull-up 4/5
+- BB curl PR (80) 3
+- BB curl (55) 9/7/7
+- Deadlift (175) 10/7/6
+- DB bent over row (40) 12
+- Pull-down (100)
+- Hammer curl (30) 6
+- Hammer curl (25) 6/7
+- DB single bent over row (40) 12
 
 ## Monday (10/28) Push (149 lb)
 - Smith bench press (140) 12/9/6
@@ -816,7 +811,7 @@ Week 8
 - Bulgarian split squat (30) 8/8/8
 - Leg press (150) 12/12/12
 - Leg extension (50) 12/12/12
-- Leg curl (hamstrings) (40) 12/12/12
+- Leg curl (40) 12/12/12
 - Face pull (30) 12/12/12
 
 ## Tuesday (6/11) Pull (141/143 lb)

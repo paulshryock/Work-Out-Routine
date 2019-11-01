@@ -7,7 +7,7 @@
 - BB curl (70) 9
 - Squat (135) 9
 - Smith squat (190) 7
-- Deadlift (210) 2
+- Deadlift (230) 1
 - Leg press (260) 10
 - Weighted dip (30) 5
 - Weighted chin-up (25) 6
