@@ -1,36 +1,33 @@
 # Workouts
 
-## Sunday (11/4) Push
-Warmup
-- Walk (2min)
-- Jog (2min)
-- Upper body dynamic stretch
-- Wall slide
-- Foam roll back/chest
-- Pole/band dislocation
+## Tuesday (11/5) Pull
+- Bent over row PR (145, 45/50s)
+- Bent over row (105, 45/30s)
+- Deadlift (175, 45/80s)
+- BB shrug (75, 45/15s)
+- BB curl PR (75, 45/15s)
+- BB curl (50, 45/2.5s)
+- Pull up
+- DB single bent over row (45)
+- EZ preacher curl (35)
+- Pull down (115)
 
-Workout
-- Power/heavy
-  - Smith bench press PR (195, 45/75s)
-  - Smith bench press (140, 45/47.5s)
-  - Overhead press PR (90, 30/30s)
-  - Overhead press (60, 30/15s)
-  - Skull crusher PR (55, 15/20s)
-  - Skull crusher (35, 15/10s)
-- Superset 1
-  - Dip
-  - Leg raise
-  - Crunch
-- Superset 2
-  - Front raise (15)
-  - Pullover (25)
-  - Kick back (15)
-  - Bent over reverse fly (15)
-
-Cool down
-- Dead hang
-- Lat stretch
-- Stretch chest/shoulders/triceps
+## Monday (11/4) Push (150 lbs)
+- Smith bench press PR (195) 3
+- Smith bench press (140) 18/10/6
+- Overhead press PR (90) 1
+- Overhead press (60) 6
+- Overhead press (55) 6
+- Overhead press (50) 7
+- Skull crusher PR (55) 4
+- Skull crusher (35) 12/9/8
+- Dip 9/9
+- Leg raise 20/20
+- Crunch 30/30
+- Front raise (15) 12/12
+- Pullover (25) 12/12
+- Kick back (15) 12/12/
+- Bent over reverse fly (15) 12/12
 
 Week 27
 
