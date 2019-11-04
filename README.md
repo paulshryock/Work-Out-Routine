@@ -1,14 +1,64 @@
 # Workouts
 
-## Wednesday (10/23) Legs (148 lb)
-- Smith squat PR (195)
-- Smith squat (145)
-- Deadlift PR (235)
-- Deadlift (175)
-- Leg press PR (265)
-- Leg press (195)
-- Leg extension (140)
-- Leg curl (115)
+## Sunday (11/4) Push
+Warmup
+- Walk (2min)
+- Jog (2min)
+- Upper body dynamic stretch
+- Wall slide
+- Foam roll back/chest
+- Pole/band dislocation
+
+Workout
+- Power/heavy
+  - Smith bench press PR (195, 45/75s)
+  - Smith bench press (140, 45/47.5s)
+  - Overhead press PR (90, 30/30s)
+  - Overhead press (60, 30/15s)
+  - Skull crusher PR (55, 15/20s)
+  - Skull crusher (35, 15/10s)
+- Superset 1
+  - Dip
+  - Leg raise
+  - Crunch
+- Superset 2
+  - Front raise (15)
+  - Pullover (25)
+  - Kick back (15)
+  - Bent over reverse fly (15)
+
+Cool down
+- Dead hang
+- Lat stretch
+- Stretch chest/shoulders/triceps
+
+Week 27
+
+## Saturday (11/1) Push
+- Bench press (120) 8/7/5
+- Overhead press PR (85) 1
+- Overhead press (60) 7/6/4
+- Overhead press (55) 7
+- Kick back (15) 12/12/12
+- Incline bench press (95) 5/3
+- Fly (20) 12/12/10
+- Bench dip 12/12/12
+- Front raise (15) 12/12/11
+- Lateral raise (15) 9/8/7
+- Bent over reverse fly (15) 12/12/12
+
+## Friday (10/31) Legs (148 lb)
+- Deadlift PR (235) 2
+- Deadlift (185) 8/8/6
+- Smith squat PR (195) 3
+- Smith squat (145) 10/8/6
+- Leg press PR (265) 6
+- Leg press (195) 12/12/12
+- Leg extension PR? (140) 6
+- Leg extension (105) 6
+- Leg extension (80) 6
+- Leg curl PR? (115) 6
+- Leg curl (85) 11
 
 ## Wednesday (10/30) Pull (148 lb)
 - Bent over row PR (150) 5
@@ -30,7 +80,7 @@
 - Dip 6/9/7
 - Fly (25) 5
 - Fly (20) 10/9
-- DB pullover (25) 12/12/12
+- Pullover (25) 12/12/12
 - Front raise (15) 10/10/10
 - Lateral raise (15) 10/10/8
 - Bent over reverse fly (15) 12/12/10
@@ -533,7 +583,7 @@ Week 14
 - Tricep kick-back (10) 12/12/12 (try 12.5, 15)
 - Incline push-up 12/12/12
 - Front raise (15) 12/10/10
-- Tricep pull-over (10) 12/12/12
+- Pullover (10) 12/12/12
 - Fly (25) 12/12/8
 
 ## Wednedsay (7/17) Legs (144/145.5 lb)
