@@ -1,25 +1,39 @@
 # Workouts
 
-## Tuesday (11/5) Pull
-- Bent over row PR (145, 45/50s)
-- Bent over row (105, 45/30s)
-- Deadlift (175, 45/80s)
-- BB shrug (75, 45/15s)
-- BB curl PR (75, 45/15s)
-- BB curl (50, 45/2.5s)
-- Pull up
-- DB single bent over row (45)
-- EZ preacher curl (35)
-- Pull down (115)
+## Wednesday (11/6) Legs
+- Smith squat PR (200, 45/77.5s)
+- Smith squat (145, 45/50s)
+- Deadlift PR (240, 45/97.5s)
+- Deadlift (175, 45/65s)
+- Leg press PR (270)
+- Leg press (195)
+- Leg curl PR (120)
+- Leg curl (85)
+- Leg extension PR (145)
+- Leg extension (105)
+
+## Tuesday (11/5) Pull (150 lb)
+- Bent over row (145) 6
+- Bent over row (105) 12/12/9
+- Deadlift sumo grip (175) 8/7/6
+- BB shrug (75) 12/12/12
+- BB curl (75) 8/5
+- EZ curl (50) 9/9
+- Pull down (115) 10/8
+- Pull down (100) 8
+- Bench 21
+  - Seated curl (15/10) 7/7
+  - Incline seated curl (15/10) 7/7
+  - Spider curl (15/10) 7/7
 
 ## Monday (11/4) Push (150 lbs)
-- Smith bench press PR (195) 3
+- Smith bench press (195) 3
 - Smith bench press (140) 18/10/6
-- Overhead press PR (90) 1
+- Overhead press (90) 1
 - Overhead press (60) 6
 - Overhead press (55) 6
 - Overhead press (50) 7
-- Skull crusher PR (55) 4
+- Skull crusher (55) 4
 - Skull crusher (35) 12/9/8
 - Dip 9/9
 - Leg raise 20/20
@@ -33,7 +47,7 @@ Week 27
 
 ## Saturday (11/1) Push
 - Bench press (120) 8/7/5
-- Overhead press PR (85) 1
+- Overhead press (85) 1
 - Overhead press (60) 7/6/4
 - Overhead press (55) 7
 - Kick back (15) 12/12/12
@@ -45,23 +59,23 @@ Week 27
 - Bent over reverse fly (15) 12/12/12
 
 ## Friday (10/31) Legs (148 lb)
-- Deadlift PR (235) 2
+- Deadlift (235) 2
 - Deadlift (185) 8/8/6
-- Smith squat PR (195) 3
+- Smith squat (195) 3
 - Smith squat (145) 10/8/6
-- Leg press PR (265) 6
+- Leg press (265) 6
 - Leg press (195) 12/12/12
-- Leg extension PR? (140) 6
+- Leg extension (140) 6
 - Leg extension (105) 6
 - Leg extension (80) 6
-- Leg curl PR? (115) 6
+- Leg curl (115) 6
 - Leg curl (85) 11
 
 ## Wednesday (10/30) Pull (148 lb)
-- Bent over row PR (150) 5
+- Bent over row (150) 5
 - Bent over row (105) 12/12/9
 - Pull-up 4/5
-- BB curl PR (80) 3
+- BB curl (80) 3
 - BB curl (55) 9/7/7
 - Deadlift (175) 10/7/6
 - DB bent over row (40) 12

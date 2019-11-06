@@ -8,19 +8,24 @@ Chest
 Shoulders
 - Overhead press (90) 1
 
+Traps
+- BB shrug (75) 12
+
 Triceps
 - Skull crusher (55) 4
 
 Back
-- Bent over row (140) 8
+- Bent over row (145) 6
 - Weighted chin-up (25) 6
 - Weighted pull-up (20) 7
 
 Biceps
-- BB curl (70) 9
+- BB curl (75) 8
 
 Legs
 - Squat (135) 9
 - Smith squat (195) 3
 - Deadlift (235) 2
 - Leg press (265) 6
+- Leg curl (115) 6
+- Leg extension (140) 6
