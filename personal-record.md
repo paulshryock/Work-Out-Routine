@@ -8,11 +8,11 @@ Chest
 Shoulders
 - Overhead press (90) 1
 
-Traps
-- BB shrug (75) 12
-
 Triceps
 - Skull crusher (55) 4
+
+Traps
+- BB shrug (120) 12
 
 Back
 - Bent over row (145) 6

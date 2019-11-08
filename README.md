@@ -1,15 +1,17 @@
 # Workouts
 
-## Friday (11/8) Push (
-- Smith bench press (140)
-- Overhead press (50)
-- Skull crusher (35)
-- Dip
-- Front raise (15)
-- Kick back (15)
-- Pullover (25)
-- Lateral raise (15)
-- Bent over reverse fly (15)
+## Friday (11/8) Push (151 lb)
+- Smith bench press (140) 12/12/12
+- Overhead press (50) 10/8/6
+- Skull crusher (35) 12/12/
+- Dip 8/6/5
+- Front raise (15) 10/12/12
+- Kick back (15) 12/12/12
+- Pullover (25) 12/12/12
+- Lateral raise (15) 12/12/12
+- Bent over reverse fly (15) 12/12/12
+- BB shrug (100) 16
+- BB shrug (120) 12/12
 
 ## Wednesday (11/6) Legs (150 lb)
 - Smith squat PR (200) 3
