@@ -1,5 +1,18 @@
 # Workouts
 
+## Monday (11/11) Push (
+- Smith bench press PR (200, 45/77.5s)
+- Smith bench press (145, 45/50s)
+- Overhead press PR (95, 30/32.5s)
+- Overhead press (50, 30/10s) {10/8/6}
+- Skull crusher PR (60, 15/22.5s)
+- Skull crusher (40, 15/12.5s)
+- Front raise (uneven 20/15)
+- Bent over reverse fly (uneven 20/15)
+- Face pull (70)
+
+Week 28
+
 ## Friday (11/8) Push (151 lb)
 - Smith bench press (140) 12/12/12
 - Overhead press (50) 10/8/6
