@@ -1,15 +1,29 @@
 # Workouts
 
-## Monday (11/11) Push (
-- Smith bench press PR (200, 45/77.5s)
-- Smith bench press (145, 45/50s)
-- Overhead press PR (95, 30/32.5s)
-- Overhead press (50, 30/10s) {10/8/6}
-- Skull crusher PR (60, 15/22.5s)
-- Skull crusher (40, 15/12.5s)
-- Front raise (uneven 20/15)
-- Bent over reverse fly (uneven 20/15)
-- Face pull (70)
+## Tuesday (11/12) Pull (
+- Bent over row PR (150, 30/60s)
+- Bent over row (105, 30/37.5s)
+- BB curl PR (80, 30/25s)
+- BB curl (55, 30/12.5s)
+- Pull-up
+- DB single bent over row (55)
+- DB curl (25)
+- Pull down (115)
+- Face pull (60)
+- BB shrug PR (160, 30/65s)
+
+## Monday (11/11) Push (152 lb)
+- Overhead press (95) 2
+- Overhead press (55) 12/12/8
+- Smith bench press (200) 1
+- Smith bench press (145) 11/8/7
+- Skull crusher (60) 4
+- Skull crusher (40) 12/10/10
+- Front raise (15) 12/12/12
+- Bent over reverse fly (15) 12/12/12
+- Face pull (70) 12/12
+- Face pull (60) 12
+- BB shrug (150) 12/12/12
 
 Week 28
 

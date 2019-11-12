@@ -2,17 +2,17 @@
 
 Chest
 - Bench press (160) 1
-- Smith bench press (195) 3
+- Smith bench press (200) 1
 - Weighted dip (30) 5
 
 Shoulders
-- Overhead press (90) 1
+- Overhead press (95) 2
 
 Triceps
-- Skull crusher (55) 4
+- Skull crusher (60) 4
 
 Traps
-- BB shrug (120) 12
+- BB shrug (150) 12
 
 Back
 - Bent over row (145) 6
