@@ -24,8 +24,8 @@ Biceps
 
 Legs
 - Squat (135) 9
-- Smith squat (200) 3
-- Deadlift (240) 1
-- Leg press (280) 9
+- Smith squat (200) 4
+- Deadlift (245) 1
+- Leg press (285) 5
 - Leg curl (115) 6
 - Leg extension (140) 6

@@ -1,16 +1,24 @@
 # Workouts
 
-## Wednesday (11/13) Legs ()
-- Smith squat PR (205, 45/77.5s)
-- Smith squat (150, 45/52.5s)
-- Deadlift PR (245, 45/100s)
-- Deadlift (180, 45/67.5s)
-- Leg press PR (285)
-- Leg press (210)
-- Leg curl PR (120)
-- Leg curl (85)
-- Leg extension PR (145)
-- Leg extension (105)
+## Thursday (11/14) Push
+- Bench press
+- Overhead press
+- Kick back
+- Incline bench press
+- Fly
+- Bench dip
+- Front raise
+- Lateral raise
+- Bent over reverse fly
+
+## Wednesday (11/13) Legs (150 lbs)
+- Smith squat (200) 4
+- Smith squat (150) 12/8/8
+- Deadlift (245) 1
+- Deadlift (180) 8/8/8
+- Leg press (285) 5
+- Leg press (210) 12/12/12
+- Leg curl (85) 12/9/8
 
 ## Tuesday (11/12) Pull (152 lb)
 - Bent over row (150) 6
