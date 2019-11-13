@@ -1,16 +1,31 @@
 # Workouts
 
-## Tuesday (11/12) Pull (
-- Bent over row PR (150, 30/60s)
-- Bent over row (105, 30/37.5s)
-- BB curl PR (80, 30/25s)
-- BB curl (55, 30/12.5s)
-- Pull-up
-- DB single bent over row (55)
-- DB curl (25)
-- Pull down (115)
-- Face pull (60)
-- BB shrug PR (160, 30/65s)
+## Wednesday (11/13) Legs ()
+- Smith squat PR (205, 45/77.5s)
+- Smith squat (150, 45/52.5s)
+- Deadlift PR (245, 45/100s)
+- Deadlift (180, 45/67.5s)
+- Leg press PR (285)
+- Leg press (210)
+- Leg curl PR (120)
+- Leg curl (85)
+- Leg extension PR (145)
+- Leg extension (105)
+
+## Tuesday (11/12) Pull (152 lb)
+- Bent over row (150) 6
+- Bent over row (105) 12/12/12
+- BB curl (80) 4
+- BB curl (55) 12/12/7
+- BB shrug (160) 12/12/10 (check ROM in mirror)
+- Pull-up 10neck/4
+- Inverted row 10/12
+- Overhand EZ curl (45) 7/6/7 (40 next time, solid form)
+- DB single bent over row (55) 7
+- DB single bent over row (40) 12/12 (35 next time, solid form)
+- DB curl (25) 8
+- DB curl (20) 8
+- Hammer curl (25) 6
 
 ## Monday (11/11) Push (152 lb)
 - Overhead press (95) 2
@@ -41,11 +56,11 @@ Week 28
 - BB shrug (120) 12/12
 
 ## Wednesday (11/6) Legs (150 lb)
-- Smith squat PR (200) 3
+- Smith squat (200) 3
 - Smith squat (145) 10/9/7
-- Deadlift PR (240) 1
+- Deadlift (240) 1
 - Deadlift (175) 8/5 (lower weight, correct form)
-- Leg press PR (280) 9
+- Leg press (280) 9
 - Leg press (195) 12/13/12
 
 ## Tuesday (11/5) Pull (150 lb)
