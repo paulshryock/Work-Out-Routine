@@ -1,15 +1,16 @@
 # Workouts
 
-## Thursday (11/14) Push
-- Bench press
-- Overhead press
-- Kick back
-- Incline bench press
-- Fly
-- Bench dip
-- Front raise
-- Lateral raise
-- Bent over reverse fly
+## Thursday (11/14) Push (
+- Bench press (120, 45/37.5s)
+- Overhead press PR (100, 45/27.5s)
+- Overhead press (70, 45/12.5s)
+- DB skull crusher (25)
+- Incline bench press (95, 45/25s)
+- Kick back (15) {high reps}
+- Lateral raise (15) {high reps}
+- Fly (15) {high reps}
+- Bent over reverse fly (15) {high reps}
+- Bench dip {high reps}
 
 ## Wednesday (11/13) Legs (150 lbs)
 - Smith squat (200) 4
