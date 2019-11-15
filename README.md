@@ -21,17 +21,15 @@ Low weight, high reps, focus on form:
 - Pull down (85)
 - BB shrug (135, 45/45s)
 
-## Friday (11/15) Legs ()
-- Smith squat PR (205, 45/80s)
-- Smith squat (150, 45/52.5s)
-- Deadlift PR (250, 45/102.5s)
-- Deadlift (180, 45/67.5s)
-- Leg press PR (290)
-- Leg press (210)
-- Leg extension PR (145)
-- Leg extension (105)
-- Leg curl PR (120)
-- Leg curl (85)
+## Friday (11/15) Legs (151 lb)
+- Smith squat (205) 3
+- Smith squat (150) 12/12/8
+- Deadlift (250) 1
+- Deadlift (180) 11/8/7
+- Leg press (290) 5
+- Leg press (210) 12/14/12
+- Leg extension (145) 8
+- Leg extension (105) 8/9/9
 
 ## Thursday (11/14) Push (149 lbs)
 - Bench press (120) 9/5
