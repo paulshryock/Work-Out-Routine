@@ -1,16 +1,51 @@
 # Workouts
 
-## Thursday (11/14) Push (
-- Bench press (120, 45/37.5s)
-- Overhead press PR (100, 45/27.5s)
-- Overhead press (70, 45/12.5s)
-- DB skull crusher (25)
-- Incline bench press (95, 45/25s)
-- Kick back (15) {high reps}
-- Lateral raise (15) {high reps}
-- Fly (15) {high reps}
-- Bent over reverse fly (15) {high reps}
-- Bench dip {high reps}
+## Saturday (11/16) Pull ()
+
+- Bent over row PR (155, 45/55s)
+- Bent over row (110, 45/32.5s)
+
+- Deadlift PR (255, 45/105s)
+- Deadlift (180, 45/67.5s)
+
+- BB curl PR (85, 45/20s)
+- BB curl (60, 45/7.5s)
+
+- Weighted pull-up PR (25)
+- Pull-up
+
+Low weight, high reps, focus on form:
+
+- DB single bent over row (35)
+- Overhand EZ curl (40, 15/12.5s)
+- Pull down (85)
+- BB shrug (135, 45/45s)
+
+## Friday (11/15) Legs ()
+- Smith squat PR (205, 45/80s)
+- Smith squat (150, 45/52.5s)
+- Deadlift PR (250, 45/102.5s)
+- Deadlift (180, 45/67.5s)
+- Leg press PR (290)
+- Leg press (210)
+- Leg extension PR (145)
+- Leg extension (105)
+- Leg curl PR (120)
+- Leg curl (85)
+
+## Thursday (11/14) Push (149 lbs)
+- Bench press (120) 9/5
+- Bench press (115) 5
+- Incline seated DB overhead press (30) 10/12/10
+- DB skull crusher (25) 6
+- DB skull crusher (20) 7/7
+- Incline bench press (95) 5
+- Incline bench press (75) 9/8
+- Kick back (15) 14/14/14
+- Lateral raise (15) 12/11/8
+- Fly (15) 12/16/16
+- Bent over reverse fly (15) 12/12/16
+- Bench dip 16/12/16
 
 ## Wednesday (11/13) Legs (150 lbs)
 - Smith squat (200) 4
