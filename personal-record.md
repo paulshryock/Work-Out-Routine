@@ -15,17 +15,17 @@ Traps
 - BB shrug (160) 12
 
 Back
-- Bent over row (150) 6
+- Bent over row (155) 3
 - Weighted chin-up (25) 6
 - Weighted pull-up (20) 7
 
 Biceps
-- BB curl (80) 4
+- BB curl (85) 3
 
 Legs
 - Squat (135) 9
 - Smith squat (205) 3
-- Deadlift (250) 1
+- Deadlift (255) 1
 - Leg press (290) 5
 - Leg curl (115) 6
 - Leg extension (145) 8

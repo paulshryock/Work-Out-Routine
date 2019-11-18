@@ -1,34 +1,39 @@
 # Workouts
 
-## Saturday (11/16) Pull ()
+## Monday (11/18) Push ()
+- Smith bench press PR (205)
+- Smith bench press (150)
+- Overhead press PR (100)
+- Overhead press (70)
+- Skull crusher PR (65)
+- Skull crusher (45)
+- Smith incline bench press (110)
+- Lateral raise (15)
+- Kick back (20)
+- Bent over reverse fly (20)
+- Dip (30)
 
-- Bent over row PR (155, 45/55s)
-- Bent over row (110, 45/32.5s)
+Week 29
 
-- Deadlift PR (255, 45/105s)
-- Deadlift (180, 45/67.5s)
-
-- BB curl PR (85, 45/20s)
-- BB curl (60, 45/7.5s)
-
-- Weighted pull-up PR (25)
-- Pull-up
-
-Low weight, high reps, focus on form:
-
-- DB single bent over row (35)
-- Overhand EZ curl (40, 15/12.5s)
-- Pull down (85)
-- BB shrug (135, 45/45s)
+## Saturday (11/16) Pull (151 lb)
+- Bent over row (155) 3
+- Bent over row (105) 12/12/10
+- Deadlift (255) 1
+- Deadlift (180) 10/9/7
+- BB curl (85) 3
+- BB curl (60) 10/8/6
+- Neutral pull-up 7/10/8
+- DB single bent over row (35) 16/14/12
+- Overhand EZ curl (40) 6
 
 ## Friday (11/15) Legs (151 lb)
-- Smith squat (205) 3
+- Smith squat PR (205) 3
 - Smith squat (150) 12/12/8
-- Deadlift (250) 1
+- Deadlift PR (250) 1
 - Deadlift (180) 11/8/7
-- Leg press (290) 5
+- Leg press PR (290) 5
 - Leg press (210) 12/14/12
-- Leg extension (145) 8
+- Leg extension PR (145) 8
 - Leg extension (105) 8/9/9
 
 ## Thursday (11/14) Push (149 lbs)
