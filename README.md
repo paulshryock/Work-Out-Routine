@@ -1,17 +1,25 @@
 # Workouts
 
-## Monday (11/18) Push ()
-- Smith bench press PR (205)
-- Smith bench press (150)
-- Overhead press PR (100)
-- Overhead press (70)
-- Skull crusher PR (65)
-- Skull crusher (45)
-- Smith incline bench press (110)
-- Lateral raise (15)
-- Kick back (20)
-- Bent over reverse fly (20)
-- Dip (30)
+## Tuesday (11/19) Pull (151 lb)
+- Bent over row (115) 12/12/9
+- Pull-up 8/6/6
+- BB curl (60) 7/9/4
+- BB shrug (150) 12/12/12
+- Single DB bent over row (35) 16/16/16
+- Omni-grip pull down (85) 12/12/12
+- EZ curl (60) 12/9/9
+
+## Monday (11/18) Push (154 lb)
+- Smith bench press PR (205) 1
+- Smith bench press (155) 10/10/6
+- Overhead press (80) 2
+- Overhead press (60) 8/6/6
+- Skull crusher (45) 12/9/8
+- Smith incline bench press (95/115) 10/7
+- Lower incline (95/115) 7/6
+- Lateral raise (15) 16/12
+- Kick back (20) 16/16
+- Bent over reverse fly (20) 12/8
 
 Week 29
 

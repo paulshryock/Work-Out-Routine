@@ -2,7 +2,7 @@
 
 Chest
 - Bench press (160) 1
-- Smith bench press (200) 1
+- Smith bench press (205) 1
 - Weighted dip (30) 5
 
 Shoulders
