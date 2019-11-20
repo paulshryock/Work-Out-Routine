@@ -1,16 +1,14 @@
 # Workouts
 
-## Wednesday (11/20) Legs
-- Smith squat PR (210)
-- Smith squat (150)
-- Deadlift PR (260)
-- Deadlift (190)
-- Leg press PR (295)
-- Leg press (215)
-- Leg curl PR (120)
-- Leg curl (85)
-- Leg extension PR (150)
-- Leg extension (105)
+## Wednesday (11/20) Legs (151 lb)
+- Smith squat (210) 3
+- Smith squat (150) 12/12/12
+- Deadlift (260) 0
+- Deadlift (190) 8/8/6
+- Calf extension 20
+- Leg curl (120) 4
+- Leg curl (85) 12/12/8
+- Single leg curl (40) 8
 
 ## Tuesday (11/19) Pull (151 lb)
 - Bent over row (115) 12/12/9
