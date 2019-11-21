@@ -1,5 +1,25 @@
 # Workouts
 
+## Thursday (11/21) Push (
+Warm-up:
+- Push-up
+- One hand push-up
+- Handstand push-up
+
+Heavy, compound:
+- Bench press PR (165)
+- Bench press (120)
+- Seated DB overhead press (30)
+- Incline bench press (75)
+- Decline bench press (75)
+
+Slow, controlled superset:
+- Front raise (10)
+- DB skull crusher (10)
+- Lateral raise (10)
+- Kick back (10)
+- Bent over reverse fly (10)
+
 ## Wednesday (11/20) Legs (151 lb)
 - Smith squat (210) 3
 - Smith squat (150) 12/12/12
