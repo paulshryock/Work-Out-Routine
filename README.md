@@ -1,5 +1,14 @@
 # Workouts
 
+## Friday (11/22) Pull
+- Bent over row (115) {12/12/9}
+- Pull-up {8/6/6}
+- BB curl (60) {7/9/4}
+- BB shrug (160)
+- Single DB bent over row (40)
+- Omni-grip pull down (85) {12/12/12}
+- EZ curl (60) {12/9/9}
+
 ## Thursday (11/21) Push (151 lb)
 - Bench press PR (165) 0
 - Bench press (120) 7/7/5
