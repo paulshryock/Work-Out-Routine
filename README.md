@@ -2,26 +2,39 @@
 
 Start with weak side
 
-## Monday (11/25) Push ()
-- Smith bench press (205, 45/80s)
-- Smith bench press (150, 45/52.5s)
-- Overhead press (95, 30/32.5s)
-- Overhead press (70, 30/20s)
-- Skull crusher (60, 15/22.5s)
-- Skull crusher (45, 15/15s)
+## Tuesday (11/26) Pull
+- Bent over row PR (155, 45/55s) {3}
+- Bent over row (115, 45/35s) {12/12/10}
+- Weighted chin-up PR (30)
+- BB curl PR (85, 45/20s) {3}
+- BB curl (60, 45/7.5s) {12/8/7}
+- BB shrug PR (160, 45/57.5s) {12}
+- BB shrug (120, 45/37.5s)
+Superset
+  - DB single bent over row (45)
+  - Overhand EZ curl (45, 15/15s) 12
+  - Face pull (60)
+  - Preacher curl (25)
 
-- Weighted dip (30)
-- Lateral raise (15)
-- Pullover (30)
-
-- DB bench press ()
-- Bent over reverse fly (15)
-- Push down PR (115)
+## Monday (11/25) Push (152 lb)
+- Smith bench press (205) 2
+- Smith bench press (150) 12/9/7
+- Overhead press (95) 1
+- Overhead press (70) 6/5/5
+- Skull crusher (60) 4
+- Skull crusher (45) 10/7/6
+- Weighted dip (30) 3
+- Dip 4/6/6
+- Lateral raise (15) 12/12/12
+- Pullover (30) 10/12/12
+- DB bench press (25) 12/12/12
+- Bent over reverse fly (15) 12/12/12
+- Face pull (60) 12
 
 ## Sunday (11/24) Pull (150 lbs)
 - Bent over row (115) 12/12/10
 - BB curl (60) 12/8/7
-- Single DB bent over row (40) 10/12/12
+- DB single bent over row (40) 10/12/12
 - Overhand EZ curl (45) 12
 
 Week 30
