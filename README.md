@@ -1,5 +1,39 @@
 # Workouts
 
+Start with weak side
+
+## Monday (11/25) Push ()
+- Smith bench press (205, 45/80s)
+- Smith bench press (150, 45/52.5s)
+- Overhead press (95, 30/32.5s)
+- Overhead press (70, 30/20s)
+- Skull crusher (60, 15/22.5s)
+- Skull crusher (45, 15/15s)
+
+- Weighted dip (30)
+- Lateral raise (15)
+- Pullover (30)
+
+- DB bench press ()
+- Bent over reverse fly (15)
+- Push down PR (115)
+
+## Sunday (11/24) Pull (150 lbs)
+- Bent over row (115) 12/12/10
+- BB curl (60) 12/8/7
+- Single DB bent over row (40) 10/12/12
+- Overhand EZ curl (45) 12
+
+Week 30
+
+## Saturday (11/23) Legs (153 lb)
+- Deadlift (260/190) 0/8/8/8
+- Squat (135/145/155/135) 5/6/5/5/5
+- Leg press (100/140/180) 12/10/10
+- Bulgarian split squat (12.5) 8/8
+- Calf extension 12/12
+- Leg extension (150/100) 6/10/9
+
 ## Thursday (11/21) Push (151 lb)
 - Bench press PR (165) 0
 - Bench press (120) 7/7/5

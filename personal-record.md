@@ -10,6 +10,7 @@ Shoulders
 
 Triceps
 - Skull crusher (60) 4
+- Push down (110)
 
 Traps
 - BB shrug (160) 12
