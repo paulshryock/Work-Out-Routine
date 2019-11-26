@@ -1,8 +1,30 @@
 # Workouts
 
-Start with weak side
+## Wednesday (11/27) Legs
 
-## Tuesday (11/26) Pull
+### Gym
+- Smith squat PR (215, 45/85s)
+- Smith squat (155, 45/55s)
+- Deadlift PR (255, 45/105s) {1}
+- Deadlift (190, 45/72.5s) {8/8/8}
+- Leg press PR (295)
+- Leg press (215)
+- Leg curl PR (120) {4}
+- Leg curl (90)
+- Leg extension PR (150) {6}
+- Leg extension (110)
+
+### Home
+- Squat (135, 45/45s)
+- Deadlift PR (255, 45/105s) {1}
+- Deadlift (190, 45/72.5s) {8/8/8}
+- Reverse leg curl PR (120)
+- Reverse leg curl (90)
+- Leg extension PR (150) {6}
+- Leg extension (110)
+- DB single calf extension (40)
+
+## Tuesday (11/26) Pull ()
 - Bent over row PR (155, 45/55s) {3}
 - Bent over row (115, 45/35s) {12/12/10}
 - Weighted chin-up PR (30)
@@ -10,7 +32,7 @@ Start with weak side
 - BB curl (60, 45/7.5s) {12/8/7}
 - BB shrug PR (160, 45/57.5s) {12}
 - BB shrug (120, 45/37.5s)
-Superset
+Superset, start with weak side
   - DB single bent over row (45)
   - Overhand EZ curl (45, 15/15s) 12
   - Face pull (60)
@@ -40,12 +62,17 @@ Superset
 Week 30
 
 ## Saturday (11/23) Legs (153 lb)
-- Deadlift (260/190) 0/8/8/8
-- Squat (135/145/155/135) 5/6/5/5/5
-- Leg press (100/140/180) 12/10/10
+- Deadlift (190) 8/8/8
+- Squat (135) 5/5
+- Squat (145) 6
+- Squat (155) 5
+- Leg press (100) 12
+- Leg press (140) 10
+- Leg press (180) 10
 - Bulgarian split squat (12.5) 8/8
 - Calf extension 12/12
-- Leg extension (150/100) 6/10/9
+- Leg extension (150) 6
+- Leg extension (100) 10/9
 
 ## Thursday (11/21) Push (151 lb)
 - Bench press PR (165) 0
