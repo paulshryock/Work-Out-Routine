@@ -1,42 +1,77 @@
 # Workouts
 
-## Wednesday (11/27) Legs
+## Friday (12/6) Push ()
+- Smith bench press PR (210, 45/82.5s)
+- Smith bench press (150, 45/52.5s)
+- Overhead press PR (95, 30/32.5s) {2}
+- Overhead press (70, 30/20s)
+- Skull crusher PR (60, 15/22.5s) {4}
+- Skull crusher (45, 15/15s)
 
-### Gym
-- Smith squat PR (215, 45/85s)
-- Smith squat (155, 45/55s)
-- Deadlift PR (255, 45/105s) {1}
-- Deadlift (190, 45/72.5s) {8/8/8}
-- Leg press PR (295)
-- Leg press (215)
-- Leg curl PR (120) {4}
-- Leg curl (90)
-- Leg extension PR (150) {6}
-- Leg extension (110)
+- Smith incline bench press (115)
+- Lateral raise (15)
+- Rocking push down (100)
 
-### Home
-- Squat (135, 45/45s)
-- Deadlift PR (255, 45/105s) {1}
-- Deadlift (190, 45/72.5s) {8/8/8}
-- Reverse leg curl PR (120)
-- Reverse leg curl (90)
-- Leg extension PR (150) {6}
-- Leg extension (110)
-- DB single calf extension (40)
+- Incline cable cross over (30)
+- Front raise (15)
+- Bent over reverse fly (15)
+- Kick back (15)
 
-## Tuesday (11/26) Pull ()
-- Bent over row PR (155, 45/55s) {3}
-- Bent over row (115, 45/35s) {12/12/10}
-- Weighted chin-up PR (30)
-- BB curl PR (85, 45/20s) {3}
-- BB curl (60, 45/7.5s) {12/8/7}
-- BB shrug PR (160, 45/57.5s) {12}
-- BB shrug (120, 45/37.5s)
+## Sunday (12/1) Legs (150 lb)
+- Squat (135) 5/6/5
+- Deadlift (190) 10/10/7
+- Leg press (90/180/270) 12/12/10
+- Calf extension (70) 12/12
+- Leg curl PR (120) 10
+- Leg curl (90) 10/10
+- Leg extension PR (150) 8
+- Leg extension (110) 12/8
+
+Week 31
+
+## Saturday (11/30) Pull (152 lb)
+- Bent over row (110) 12/12/9
+- Neutral pull-up 6/6/5
+- BB curl (60) 10/9/7/5
+- Single DB bent over row (45) 12/12/10
+- Omni-grip pull down (70) 12/12/12
+- Pull down (110/100) 7/8
+- Overhand EZ curl (40) 12/9/8
+- Face pull (50) 12/12
+
+## Friday (11/29) Push (155 lb)
+- Bench press (120) 10/7/5
+- Overhead press (70) 7/4/4
+- Skull crusher (40) 8/7/6
+- Dip 10/9/6
+- Lateral raise (15) 12/12/12
+- Rocking push down (100) 8/8/7
+- Incline cable cross over (30/40/30) 12/10/9
+- Bent over reverse fly (15) 12/12/12
+- Kick back (15) 12/12/12
+- Rear delt fly (55) 8/8/8
+
+## Thursday (11/28) Legs (152 lb)
+- Squat (135) 5/5/5/8 (almost bailed, don't squat without a power rack, fuck!)
+- Deadlift (230) 3
+- Deadlift (190) 8/8/6
+- Reverse leg curl (45) 12/12/12
+- Leg extension (140) 12/10/5
+
+## Tuesday (11/26) Pull (152 lb)
+- Bent over row PR (155) 5
+- Bent over row (115) 12/12/10
+- Weighted chin-up PR (30) 3
+- Chin-up 5/5/5
+- BB curl PR (85) 3
+- BB curl (60) 12/10/8
+- BB shrug (160) 12
+- BB shrug (135) 12/12/12
 Superset, start with weak side
-  - DB single bent over row (45)
-  - Overhand EZ curl (45, 15/15s) 12
-  - Face pull (60)
-  - Preacher curl (25)
+  - DB single bent over row (45) 10/8/10
+  - Overhand EZ curl (45) 8/6/6
+- Face pull (60) 12
+- Face pull (50) 12
 
 ## Monday (11/25) Push (152 lb)
 - Smith bench press (205) 2
