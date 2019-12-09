@@ -1,30 +1,55 @@
 # Workouts
 
-## Friday (12/6) Push ()
-- Smith bench press PR (210, 45/82.5s)
-- Smith bench press (150, 45/52.5s)
+## Monday (12/9) Push (
+- Smith bench press PR (210, 82.5s) {1}
+- Smith bench press (155, 45/55s) {12/9/5}
 - Overhead press PR (95, 30/32.5s) {2}
-- Overhead press (70, 30/20s)
+- Overhead press (70, 30/20s) {6/5/3}
 - Skull crusher PR (60, 15/22.5s) {4}
-- Skull crusher (45, 15/15s)
+- Skull crusher (45, 15/15s) {10/9/7}
 
-- Smith incline bench press (115)
-- Lateral raise (15)
-- Rocking push down (100)
+Superset
+  - Smith incline bench press (115) {8/7/5}
+  - Lateral raise (15) {12/8/8}
+  - Incline cable cross over (30) {6/8/8}
+  
+Superset
+  - Dip
+  - Bent over reverse fly (15) {12/12/12}
+  - Rocking push down (100) {8/8/7}
 
-- Incline cable cross over (30)
-- Front raise (15)
-- Bent over reverse fly (15)
-- Kick back (15)
+Week 32
+
+## Saturday (12/7) Pull (152 lb)
+- Bent over row (65/95/110) 12/12/12/9/7
+- Deadlift (225/190) 3/7/6
+- Pull-up (10/10/0) 8/6/5
+- BB curl (60) 8/8/5
+- Single DB bent over row (45) 10/9/10
+- Omni-grip pull down (70) 12/12/12
+- Pull down (80) 8
+- Overhand EZ curl (40) 8/7/6
+- DB curl (30) 8/5
+
+## Friday (12/6) Push (150 lb)
+- Smith bench press (210) 1
+- Smith bench press (150) 12/9/5
+- Overhead press (95) 1
+- Overhead press (70) 6/5/3
+- Overhead press (50) 3
+- Skull crusher (45) 10/9/7
+- Smith incline bench press (115) 8/7/5
+- Lateral raise (15) 12/8/8
+- Incline cable cross over (40/30) 6/8/8
 
 ## Sunday (12/1) Legs (150 lb)
 - Squat (135) 5/6/5
 - Deadlift (190) 10/10/7
 - Leg press (90/180/270) 12/12/10
 - Calf extension (70) 12/12
-- Leg curl PR (120) 10
+- Leg curl (120) 10
 - Leg curl (90) 10/10
-- Leg extension PR (150) 8
+- Leg extension (150) 8
 - Leg extension (110) 12/8
 
 Week 31

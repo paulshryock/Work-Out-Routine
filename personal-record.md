@@ -2,7 +2,7 @@
 
 Chest
 - Bench press (160) 1
-- Smith bench press (205) 2
+- Smith bench press (210) 1
 - Weighted dip (30) 5
 
 Shoulders
@@ -28,5 +28,5 @@ Legs
 - Smith squat (210) 3
 - Deadlift (255) 1
 - Leg press (290) 5
-- Leg curl (120) 4
-- Leg extension (150) 6
+- Leg curl (120) 10
+- Leg extension (150) 8
