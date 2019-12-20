@@ -1,9 +1,18 @@
 # Workouts
 
 ## Friday (12/20) Pull
+- Bent over row PR (160, 45/57.5s)
+- Bent over row (115, 45/35s)
+- Weighted chin-up PR (30) {3}
+- Chin up
+- BB curl PR (90, 45/22.5s) {1}
+- BB curl (65, 45/10s)
+- Single DB bent over row (45) {9/10/10}
+- Pull down (100)
+- Overhand EZ curl (45)
 
 ## Thursday (12/19) Push
-(I need more carbs before)
+(I'm exhausted, workout feels weak)
 - Bench press (135/135/135/145) 4/4/4/5
 - Overhead press (70/70/50) 5/4/8
 - Pull over (40) 10/10/10
@@ -19,14 +28,14 @@
 
 ## Wednesday (12/18) Legs
 - Squat (135/135/155/175/185) 5/5/5/5/4 (clean up form)
-- Deadlift PR (260/185) 1/5/5/5
-- Calf extension (90) 12/12
+- Deadlift (260/185) 1/5/5/5
+- Seated calf extension (90) 12/12
 
 ## Tuesday (12/17) Pull (148 lb)
 - Bent over row (95) 9/9/9
 - Deadlift (225) 2
 - Pull-up 7/7/5/4
-- BB curl PR (90/60) 1/9/6/5
+- BB curl (90/60) 1/9/6/5
 - Pull down (120/130) 10/5
 - Cable wrist curl (30) 12
 - Overhand EZ curl (40) 12/10
@@ -46,7 +55,7 @@
 - Squat (135/135/155/175/185) 5/5/5/5/3
 - Deadlift (185/185/205/225/235) 5/5/5/3/1
 - Leg press (180/270/320/360) 12/12/6/5
-- Calf extension (50/70/90) 12/12/12
+- Seated calf extension (50/70/90) 12/12/12
 - Leg extension (150/170/190/100) 8/6/5/6
 - Lying leg curl (70/100/100) 12/9/5
 
@@ -137,11 +146,11 @@ Week 31
 - Leg extension (140) 12/10/5
 
 ## Tuesday (11/26) Pull (152 lb)
-- Bent over row PR (155) 5
+- Bent over row (155) 5
 - Bent over row (115) 12/12/10
-- Weighted chin-up PR (30) 3
+- Weighted chin-up (30) 3
 - Chin-up 5/5/5
-- BB curl PR (85) 3
+- BB curl (85) 3
 - BB curl (60) 12/10/8
 - BB shrug (160) 12
 - BB shrug (135) 12/12/12
@@ -188,7 +197,7 @@ Week 30
 - Leg extension (100) 10/9
 
 ## Thursday (11/21) Push (151 lb)
-- Bench press PR (165) 0
+- Bench press (165) 0
 - Bench press (120) 7/7/5
 - Seated DB overhead press (30) 6
 - Seated DB overhead press (27.5) 6/10
@@ -220,7 +229,7 @@ Week 30
 - EZ curl (60) 12/9/9
 
 ## Monday (11/18) Push (154 lb)
-- Smith bench press PR (205) 1
+- Smith bench press (205) 1
 - Smith bench press (155) 10/10/6
 - Overhead press (80) 2
 - Overhead press (60) 8/6/6
@@ -245,13 +254,13 @@ Week 29
 - Overhand EZ curl (40) 6
 
 ## Friday (11/15) Legs (151 lb)
-- Smith squat PR (205) 3
+- Smith squat (205) 3
 - Smith squat (150) 12/12/8
-- Deadlift PR (250) 1
+- Deadlift (250) 1
 - Deadlift (180) 11/8/7
-- Leg press PR (290) 5
+- Leg press (290) 5
 - Leg press (210) 12/14/12
-- Leg extension PR (145) 8
+- Leg extension (145) 8
 - Leg extension (105) 8/9/9
 
 ## Thursday (11/14) Push (149 lbs)
@@ -402,7 +411,7 @@ Week 27
 
 ## Monday (10/28) Push (149 lb)
 - Smith bench press (140) 12/9/6
-- Overhead press PR (80) 5
+- Overhead press (80) 5
 - Overhead press (55) 10/8/6
 - Dip 6/9/7
 - Fly (25) 5
@@ -415,13 +424,13 @@ Week 27
 - Bench dip 12/12/12
 
 ## Sunday (10/27) Pull (148 lb)
-- Bent over row PR (145) 1
+- Bent over row (145) 1
 - Bent over row (105) 12/12/10
 - DB bent over row (40) 8/7/7
 - DB single bent over row (40) 12/11
 - Deadlift (175) 7/6/7
 - Pull-down (100)
-- BB curl PR (75) 4
+- BB curl (75) 4
 - BB curl (50) 9/8/7
 - BB cheat curl (75) 4/3
 - Hammer curl (15) 10/11
@@ -434,7 +443,7 @@ Week 26
 - DB pullover (15) 12
 - DB pullover (20) 12
 - DB pullover (25) 12
-- Overhead press PR (75) 1
+- Overhead press (75) 1
 - Overhead press (50) 10/6/8
 - Front raise (20) 10/10/10
 - Lateral raise (15) 8/9/8
@@ -487,7 +496,7 @@ Week 25
 
 ## Friday (10/18) Legs (146 lb)
 - Squat (145) 7/7/7
-- Deadlift (230) PR 1
+- Deadlift (230) 1
 - Deadlift (185) 10/7/4
 
 ## Thursday (10/17) Pull (147 lb)
@@ -512,7 +521,7 @@ Week 25
 - DB curl (30) 3
 
 ## Monday (10/7) Push (149 lb)
-- Smith bench press PR (185) 5
+- Smith bench press (185) 5
 - Smith bench press (135) 12/10/5
 - Overhead press (50) 7/7/5
 - Skull crusher (50) 4
@@ -606,7 +615,7 @@ Week 21
 - Hammer curl (15) 10/10/10
 
 ## Monday (9/9) Push (Triceps) (147 lb)
-- Skull crusher PR (50) 8/8/5
+- Skull crusher (50) 8/8/5
 - Decline bench press (95/115/125) 12/12/12
 - Overhead press (50/50/40) 10/8/8
 - Kick back (20) 10/10/10
@@ -670,7 +679,7 @@ Week 19
 ## Tuesday (8/27) Rest (148 lb)
 
 ## Monday (8/26) Push (Chest) (148 lb)
-- Smith bench press PR (180) 8
+- Smith bench press (180) 8
 - Smith bench press (175) 6/5
 - Overhead press (50) 8/8/8
 - Push down (100) 12/10/8
@@ -1160,7 +1169,7 @@ Week 8
 
 ## Saturday (6/15) Legs
 - Squat (120/120/105) 8/8/8
-- Deadlift (155/135/135/135) 3/8/8/8 PR
+- Deadlift (155/135/135/135) 3/8/8/8
 - Leg extension (90) 12/10/10
 - Single leg DB calf extension (15) 12/12/12
 - Bench press (145) 1
