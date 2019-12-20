@@ -2,7 +2,7 @@
 
 Chest
 - Bench press (160) 1
-- Smith bench press (205) 1
+- Smith bench press (210) 1
 - Weighted dip (30) 5
 
 Shoulders
@@ -10,9 +10,7 @@ Shoulders
 
 Triceps
 - Skull crusher (60) 4
-
-Traps
-- BB shrug (160) 12
+- Push down (110)
 
 Back
 - Bent over row (155) 3
@@ -22,10 +20,13 @@ Back
 Biceps
 - BB curl (85) 3
 
+Traps
+- BB shrug (160) 12
+
 Legs
-- Squat (135) 9
+- Squat (155) 5
 - Smith squat (210) 3
 - Deadlift (255) 1
 - Leg press (290) 5
-- Leg curl (120) 4
-- Leg extension (145) 8
+- Leg curl (120) 10
+- Leg extension (150) 8
