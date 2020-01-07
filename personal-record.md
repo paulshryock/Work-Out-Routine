@@ -1,7 +1,7 @@
 # Personal record
 
 Chest
-- Bench press (160) 1
+- Bench press (165) 1
 - Smith bench press (210) 1
 - Weighted dip (30) 5
 - Pull over (40)
@@ -25,10 +25,10 @@ Traps
 - BB shrug (160) 12
 
 Legs
-- Squat (185) 4
+- Squat (200) 2
 - Smith squat (210) 3
-- Deadlift (260) 1
-- Leg press (360) 5
+- Deadlift (275) 1
+- Leg press (450) 3
 - Leg curl (120) 10
-- Leg extension (150) 8
-- Seated calf extension (90) 12
+- Leg extension (170) 7
+- Seated calf extension (160) 6
