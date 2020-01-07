@@ -1,6 +1,15 @@
 # Workouts
 
-## Tuesday (1/7) Pull ()
+## Tuesday (1/7) Pull (
+- Bent over row (105)
+- Deadlift (135)
+- BB curl (55)
+- Pull-up
+- Close grip EZ curl (45)
+- Single DB bent over row (40)
+- Hammer curl (25)
+- Pull down (100)
+- Preacher curl (25)
 
 ## Monday (1/6) Push (153 lb)
 - Smith bench press (135/135/135/155) 12/12/12/5
@@ -30,7 +39,7 @@ Superset:
 
 ## Thursday (1/2) Push (153 lb)
 - Smith bench press (95/135/185/185/135) 12/12/5/4/10
-- Shoulder press (90/80/70/70/50) 2/3/7/5/11
+- Overhead press (90/80/70/70/50) 2/3/7/5/11
 - Skull crusher (40/40/50) 12/12/8
 - Pull over (45) 12/12/12
 - Dip 7/7
