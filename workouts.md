@@ -1,15 +1,24 @@
 # Workouts
 
-## Tuesday (1/7) Pull (
-- Bent over row (105)
-- Deadlift (135)
-- BB curl (55)
-- Pull-up
-- Close grip EZ curl (45)
-- Single DB bent over row (40)
-- Hammer curl (25)
-- Pull down (100)
-- Preacher curl (25)
+## Wednesday (1/8) Legs ()
+- Squat (135/145/155/155/155/145/135)
+- Deadlift (135x5)
+- Leg press (180/270/320/320/320/270/180)
+- Seated calf extension (90/110/140/160/90)
+Superset:
+  - Leg curl (90x5)
+  - Leg extension (125x5)
+
+## Tuesday (1/7) Pull (152 lb)
+- Bent over row (115) 12/12/8
+- Deadlift (135) 12/12/12
+- BB curl (55) 12/12/8
+- Pull-up 5/5/4
+- Close grip EZ curl (45) 12/8/9
+- Single DB bent over row (40) 12/12/12
+- Hammer curl (25) 9/6/7 (20 next time)
+- Pull down (100) 10/10/8
+- Preacher curl (20) 9/8/7
 
 ## Monday (1/6) Push (153 lb)
 - Smith bench press (135/135/135/155) 12/12/12/5
