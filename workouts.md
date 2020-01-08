@@ -1,8 +1,38 @@
 # Workouts
 
+## Saturday (1/11) Legs (practice) ()
+- Squat (135/145/155/155/155/145/135)
+- Deadlift (5 steps) (135x5)
+- Leg press (180/270/320/320/320/270/180)
+- Seated calf extension (90/110/140/160/90)
+Superset:
+  - Leg curl (90x5)
+  - Leg extension (125x5)
+
+## Friday (1/10) Pull (practice) ()
+- Bent over row (115) {12/12/8}
+- BB curl (55) {12/12/8}
+- Pull-up {5/5/4}
+- Close grip EZ curl (45) {12/8/9}
+- Single DB bent over row {(40) 12/12/12} (45)
+- Hammer curl (20)
+- Pull down (100) {10/10/8}
+- Preacher curl (20) {9/8/7}
+
+## Thursday (1/9) Push (practice) ()
+- Smith bench press (don't impinge) (135)
+- Overhead press (bounce) (50)
+- Skull crusher (flat, stretch) (35)
+- Pull over (40)
+- Dip
+Superset:
+  - Kick back (15)
+  - Lateral raise (15)
+  - Bent over reverse fly (15)
+
 ## Wednesday (1/8) Legs ()
 - Squat (135/145/155/155/155/145/135)
-- Deadlift (135x5)
+- Deadlift (5 steps) (135x5)
 - Leg press (180/270/320/320/320/270/180)
 - Seated calf extension (90/110/140/160/90)
 Superset:
