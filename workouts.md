@@ -19,25 +19,19 @@ Superset:
 - Pull down (100) {10/10/8}
 - Preacher curl (20) {9/8/7}
 
-## Thursday (1/9) Push (practice) ()
-- Smith bench press (don't impinge) (135)
-- Overhead press (bounce) (50)
-- Skull crusher (flat, stretch) (35)
-- Pull over (40)
-- Dip
+## Thursday (1/9) Push (practice) (156 lb)
+- Bench press (95/115/115/135/135/155) 12/12/10/5/5/5
+- Overhead press (50) 12/12/12/10/10
+- Skull crusher (40) 12/12/10
 Superset:
-  - Kick back (15)
-  - Lateral raise (15)
-  - Bent over reverse fly (15)
+  - Dip 9/8/5
+  - Neutral pull-up 3/3/3
+- Pull over (40) 12/12
 
-## Wednesday (1/8) Legs ()
-- Squat (135/145/155/155/155/145/135)
-- Deadlift (5 steps) (135x5)
-- Leg press (180/270/320/320/320/270/180)
-- Seated calf extension (90/110/140/160/90)
-Superset:
-  - Leg curl (90x5)
-  - Leg extension (125x5)
+## Wednesday (1/8) Legs (155 lb)
+- Squat (135/145/155/155/185/205/205/135) 5/5/5/5/5/2/2/12
+- Leg press (180/270/320/270/180) 12/12/8/8/12
+- Seated calf extension (90/90/110/110) 12/12/8/8
 
 ## Tuesday (1/7) Pull (152 lb)
 - Bent over row (115) 12/12/8

@@ -4,7 +4,7 @@ Chest
 - Bench press (165) 1
 - Smith bench press (210) 1
 - Weighted dip (30) 5
-- Pull over (40)
+- Pull over (45) 12
 
 Shoulders
 - Overhead press (95) 2
@@ -25,7 +25,7 @@ Traps
 - BB shrug (160) 12
 
 Legs
-- Squat (200) 2
+- Squat (205) 2
 - Smith squat (210) 3
 - Deadlift (275) 1
 - Leg press (450) 3
