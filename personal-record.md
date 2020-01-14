@@ -25,7 +25,7 @@ Traps
 - BB shrug (160) 12
 
 Legs
-- Squat (205) 2
+- Squat (210) 2
 - Smith squat (210) 3
 - Deadlift (275) 1
 - Leg press (450) 3
