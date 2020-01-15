@@ -1,12 +1,19 @@
 # Workouts
 
-## Tuesday (1/14) Pull
-- Deadlift PR? (135/185/225/275/225/185/135)
-- BB curl PR? (55/65/75/85/95)
-- Bent over row (95/105/115/125/135)
-- DB curl (20/25/30/35)
-- Pull up
-- Dead hang
+## Wednesday (1/15) Legs (
+- Smith squat PR (135/155/175/185/215/225/)
+- Leg press PR? (180/270/360/450{3}/)
+- Leg extension PR? (90/130/170{7}/)
+- Leg curl PR? (60/80/100/120/140/)
+- Leg press calf extension PR? (90/140/180/)
+
+## Tuesday (1/14) Pull (155 lb)
+- Deadlift (135/185/225/275/225/185/135) 12/10/5/1/3/5/12
+- BB curl (55/65/75/65/55) 12/10/4/6/7
+- Bent over row (95/115/125/135) 12/7/7/7
+- DB curl (20/25/25) 12/6/6
+- Pull up 5/4/3
+- Pull down (100) 8/6/5
 
 ## Monday (1/13) Push (157 lb)
 - Bench press (95/105/115/125/135/145/135/95) 12/12/9/7/5/3/5/12

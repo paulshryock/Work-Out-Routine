@@ -14,6 +14,7 @@ Triceps
 - Push down (110)
 
 Back
+- Deadlift (275) 1
 - Bent over row (155) 5
 - Weighted chin-up (30) 3
 - Weighted pull-up (25) 2
@@ -24,11 +25,16 @@ Biceps
 Traps
 - BB shrug (160) 12
 
-Legs
+Quads
 - Squat (210) 2
 - Smith squat (210) 3
-- Deadlift (275) 1
 - Leg press (450) 3
-- Leg curl (120) 10
 - Leg extension (170) 7
+
+Hamstrings
+- Leg curl (120) 10
+
+Calves
+- Standing calf extension
 - Seated calf extension (160) 6
+- Leg press calf extension
