@@ -1,11 +1,47 @@
 # Workouts
 
-## Wednesday (1/15) Legs (
-- Smith squat PR (135/155/175/185/215/225/)
-- Leg press PR? (180/270/360/450{3}/)
-- Leg extension PR? (90/130/170{7}/)
-- Leg curl PR? (60/80/100/120/140/)
-- Leg press calf extension PR? (90/140/180/)
+## Sunday (1/19) Active Rest ()
+- Meditate
+- Cardio
+- Forearms
+- Abs
+- Calves (if not sore)
+- Meditate
+
+## Saturday (1/18) Legs ()
+- Squat {PR 210/2} (135/155/185/215/185/155/135)
+- Standing calf extension {PR 110/12} (/)
+- Incline leg press {PR 450/3} (180/270/360/450/360/270/180)
+- Leg press calf extension {PR 225/12} (180/200/230/)
+- Leg curl {PR 120/10} (80/100/120/)
+- Seated calf extension {PR 160/6} (90/140/180/)
+- Leg extension {PR 170/7} (130/150/170/)
+
+## Friday (1/17) Pull ()
+Bring dip belt
+- Deadlift {PR 275/1} (135/185/225/275/225/185/135)
+- BB curl {PR 90/1} (55/65/75/85/90/)
+- Bent over row {PR 155/5} (95/115/135)
+- Overhand EZ curl (45/)
+- BB shrug {PR 160/12} (160/)
+- Preacher curl (25/)
+- Weighted pull-up {PR 25/2} (10+0/25+0/)
+
+## Thursday (1/16) Push ()
+Bring dip belt
+- Bench press {PR 165/1} (95/115/135/155/165/)
+- Overhead press {PR 95/2} (55/65/75/85/95/)
+- Skull crusher {PR 60/4} (40/50/60/)
+- Weighted dip {PR 30/5} (10+0/25+0/35+0/)
+- Push down (90/100/110/)
+- Pull over (45)
+
+## Wednesday (1/15) Legs (154 lb)
+- Leg press (180/270/360/300/270) 12/10/1/6/10
+- Smith squat (135/155/185/225/185/155/135) 10/9/5/3/5/10/10
+- Standing half calf extension (70/70/110/110) 12/12/12/12
+- Leg press calf extension PR (90/140/180/225/180/140) 12/12/16/12/12/16
+- Leg curl (60/80/100) 12/10/10
 
 ## Tuesday (1/14) Pull (155 lb)
 - Deadlift (135/185/225/275/225/185/135) 12/10/5/1/3/5/12
@@ -19,7 +55,7 @@
 - Bench press (95/105/115/125/135/145/135/95) 12/12/9/7/5/3/5/12
 - Overhead press (45/55/65/75/65/55) 12/12/10/5/8/12
 
-## Saturday (1/11) Legs (practice) (154/)
+## Saturday (1/11) Legs (practice) (154 lb)
 - Squat (135/145/155/185/210/135) 10/10/8/5/2/10
 - Leg press (180/270/340/180) 12/12/10/12
 - Seated calf extension (90/140) 12/12
