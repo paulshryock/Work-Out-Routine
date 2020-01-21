@@ -2,9 +2,9 @@
 
 ## Tuesday (1/21) Pull ()
 - Deadlift (135/185/225/280/225/185/135)
-- BB curl (55/65/75/85/55)
-- Bent over row (95/105/115/115/115)
-- BB shrug (115/135/155/185)
+- BB curl (55/65/75/85)
+- BB row (95/115/115/135)
+- BB shrug (135/155/185)
 - Pull-up
 - EZ preacher curl (40/50/60)
 - Pull down (100)
