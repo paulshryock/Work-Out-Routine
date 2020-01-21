@@ -1,46 +1,67 @@
 # Workouts
 
-## Sunday (1/19) Active Rest ()
-- Meditate
-- Cardio
-- Forearms
-- Abs
-- Calves (if not sore)
-- Meditate
+## Tuesday (1/21) Pull ()
+- Deadlift (135/185/225/280/225/185/135)
+- BB curl (55/65/75/85/55)
+- Bent over row (95/105/115/115/115)
+- BB shrug (115/135/155/185)
+- Pull-up
+- EZ preacher curl (40/50/60)
+- Pull down (100)
+- DB curl (20)
+- DB row (40)
 
-## Saturday (1/18) Legs ()
-- Squat {PR 210/2} (135/155/185/215/185/155/135)
-- Standing calf extension {PR 110/12} (/)
-- Incline leg press {PR 450/3} (180/270/360/450/360/270/180)
-- Leg press calf extension {PR 225/12} (180/200/230/)
-- Leg curl {PR 120/10} (80/100/120/)
-- Seated calf extension {PR 160/6} (90/140/180/)
-- Leg extension {PR 170/7} (130/150/170/)
+## Monday (1/20) Push (154 lb)
+- Bench press (95/105/115/135/135/135/95) 12/12/10/5/5/5/12
+- Overhead press (55/65/75/85/55) 12/6/5/4/12
+- Skull crusher (40) 12/12/12
+- Weighted pull-up (10/25/25/25) 5/3/3/3
+- Pull over (40) 12/12/12
+- Lateral raise (15) 12/12/12
+- Weighted dip (25/25/35/10/0) 7/6/4/2/3
+Superset:
+  - Bent over reverse fly (15) 12/12/12
+  - Front raise (15) 12/12/12
 
-## Friday (1/17) Pull ()
-Bring dip belt
-- Deadlift {PR 275/1} (135/185/225/275/225/185/135)
-- BB curl {PR 90/1} (55/65/75/85/90/)
-- Bent over row {PR 155/5} (95/115/135)
-- Overhand EZ curl (45/)
-- BB shrug {PR 160/12} (160/)
-- Preacher curl (25/)
-- Weighted pull-up {PR 25/2} (10+0/25+0/)
+## Sunday (1/19) Active Rest
+- Bench press (135) 5/5/5
+- Deadlift (135) 5/5/5/5
+  (Dbl OH/Sup L/Sup R/Hook?)
+- V-Squat calf extension (90/180) 12/12
+- Seated calf extension (140/140/160) 6/6/5
+- Leg press calf extension (90/180) 16/12
+Superset:
+  - Weighted dip (10/25/35/0) 5/5/5/5
+  - Weighted pull-up (10/25/35/0) 5/4/2/5
 
-## Thursday (1/16) Push ()
-Bring dip belt
-- Bench press {PR 165/1} (95/115/135/155/165/)
-- Overhead press {PR 95/2} (55/65/75/85/95/)
-- Skull crusher {PR 60/4} (40/50/60/)
-- Weighted dip {PR 30/5} (10+0/25+0/35+0/)
-- Push down (90/100/110/)
-- Pull over (45)
+## Saturday (1/18) Legs
+- Squat (135/180/180/180/135) 5/5/5/5/5
+- Standing calf extension (50/90/150/210) 12/12/12/12
+- Incline leg press (180/270/360/500) 12/12/5/3
+- Leg press calf extension (180/200/230/)
+- Leg curl (80/100/120/)
+- Seated calf extension (90/140/180/)
+- Leg extension (130/150/170/)
+
+## Friday (1/17) Pull
+- Deadlift (135/185/225/225/185/185/135) 5/5/3/3/5/5/10
+- BB curl (55/65/75/80/65) 12/10/5/4/5
+- Bent over row (95/115/135/135) 5/5/5/5
+- Pull-up 5/5/5
+
+## Thursday (1/16) Push
+- Bench press (95/115/135/135/135/155/95) 12/12/5/5/5/2/12
+- Overhead press (55/65/75/80/85/65) 5/5/5/5/5/9
+- Skull crusher (40/50/60) 12/12/5
+Superset
+  - Dip 10/5
+  - Neutral chin up 3
 
 ## Wednesday (1/15) Legs (154 lb)
 - Leg press (180/270/360/300/270) 12/10/1/6/10
 - Smith squat (135/155/185/225/185/155/135) 10/9/5/3/5/10/10
 - Standing half calf extension (70/70/110/110) 12/12/12/12
-- Leg press calf extension PR (90/140/180/225/180/140) 12/12/16/12/12/16
+- Leg press calf extension (90/140/180/225/180/140) 12/12/16/12/12/16
 - Leg curl (60/80/100) 12/10/10
 
 ## Tuesday (1/14) Pull (155 lb)
@@ -55,12 +76,12 @@ Bring dip belt
 - Bench press (95/105/115/125/135/145/135/95) 12/12/9/7/5/3/5/12
 - Overhead press (45/55/65/75/65/55) 12/12/10/5/8/12
 
-## Saturday (1/11) Legs (practice) (154 lb)
+## Saturday (1/11) Legs (154 lb)
 - Squat (135/145/155/185/210/135) 10/10/8/5/2/10
 - Leg press (180/270/340/180) 12/12/10/12
 - Seated calf extension (90/140) 12/12
 
-## Friday (1/10) Pull (practice) (156 lb)
+## Friday (1/10) Pull (156 lb)
 - Bent over row (115) 12/12/12
 - Dead lift (185/185/225/135) 5/5/3/12
 - BB curl (55/60/65) 12/12/7
@@ -71,7 +92,7 @@ Bring dip belt
 - Pull down (100) 12/10/9
 - Preacher curl (20) 12/9/7
 
-## Thursday (1/9) Push (practice) (156 lb)
+## Thursday (1/9) Push (156 lb)
 - Bench press (95/115/115/135/135/155) 12/12/10/5/5/5
 - Overhead press (50) 12/12/12/10/10
 - Skull crusher (40) 12/12/10
@@ -149,7 +170,7 @@ Triset:
   - Kick back (15) 12/12
 - Dip 12/10
 
-## Sunday (12/29) Legs/Rest
+## Sunday (12/29) Active rest/legs
 - Deadlift (135/185/230) 12/10/1
 - Lunge (55) 8
 - Calf extension (40) 12/10
