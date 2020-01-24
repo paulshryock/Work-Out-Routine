@@ -1,15 +1,30 @@
 # Workouts
 
-## Tuesday (1/21) Pull ()
-- Deadlift (135/185/225/280/225/185/135)
-- BB curl (55/65/75/85)
-- BB row (95/115/115/135)
-- BB shrug (135/155/185)
-- Pull-up
-- EZ preacher curl (40/50/60)
-- Pull down (100)
-- DB curl (20)
-- DB row (40)
+## Friday (1/24) Pull ()
+- Deadlift (135/185/225/275/225/185)
+- BB curl (65/75/85)
+- BB row (95/135/155/)
+- EZ curl (50)
+- Weighted pull-up (10/25/35/0)
+- Hammer curl (30)
+
+## Thursday (1/23) Push (154 lb)
+- Bench press (95/135/145/155/165/170) 10/5/5/5/3/2
+- Overhead press (65/75/85/95/100) 10/5/5/4/1
+- Skull crusher (45/60/60) 10/10/10
+
+## Wednesday (1/22) Legs
+- Squat (135/155/185/215/225/185/155) 10/5/5/2/1/5/5
+- Leg press (180/270/360/450/520) 12/10/5/3/0
+- Seated calf extension (140x3/90) 10/6/6/12
+
+## Tuesday (1/21) Pull
+- Deadlift (135/185/205/230/205/185) 10/5/5/5/5/5
+- BB curl (55/65/75/85cheat) 12/12/5/2
+- Bent over row (95/105/115/135) 12/12/10/5
+- BB shrug (135/155/155) 12/10/8
+- DB curl (20) 12/12/12
+- DB row (50) 12
 
 ## Monday (1/20) Push (154 lb)
 - Bench press (95/105/115/135/135/135/95) 12/12/10/5/5/5/12
