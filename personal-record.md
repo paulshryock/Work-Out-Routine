@@ -1,34 +1,34 @@
 # Personal record
 
 Chest
-- Bench press (170) 2
+- Bench press (175) 1
 - Smith bench press (210) 1
-- Weighted dip (35) 5
+- Weighted dip (35) 6
 - Pull over (45) 12
 
 Shoulders
 - Overhead press (100) 1
 
 Triceps
-- Skull crusher (60) 10
+- Skull crusher (70) 5
 - Push down (110)
 
 Back
-- Deadlift (275) 1
+- Deadlift (285) 1
 - Bent over row (155) 5
 - Weighted chin-up (30) 3
 - Weighted pull-up (35) 2
 
 Biceps
 - BB curl (90) 1
-- Overhand EZ curl (45)
+- OH EZ curl (45)
 - Preacher curl (25)
 
 Traps
 - BB shrug (160) 12
 
 Quads
-- Squat (225) 1
+- Squat (230) 1
 - Smith squat (225) 3
 - Incline leg press (500) 3
 - Seated leg press (360) 1
