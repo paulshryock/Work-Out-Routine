@@ -39,5 +39,5 @@ Hamstrings
 
 Calves
 - Standing calf extension (210) 12
-- Seated calf extension (160) 6
+- Seated calf extension (180) 4
 - Leg press calf extension (225) 12
