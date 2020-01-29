@@ -1,5 +1,32 @@
 # Workouts
 
+## Friday (1/31) Pull ()
+- Deadlift (135/185/225/225/225/290)
+- BB curl (65/75/85/90)
+- BB row (95/115/135/155)
+- EZ curl superset (60)
+  - UH
+  - OH
+Superset:
+  - Weighted pull-up (10/25/35/0)
+  - Weighted dip (10/25/35/0)
+- Preacher curl (25)
+- DB row (60)
+- Hammer curl (30)
+
+## Thursday (1/30) Push ()
+- Bench press (115/135/145/155/180/135)
+- Overhead press (65/75/85/95/100/65)
+- Skull crusher (50/60/60/70)
+- Pull over (50)
+Superset:
+  - Weighted dip (10/25/35/0)
+  - Weighted pull-up (10/25/35/0)
+Triset:
+  - Reverse fly (15)
+  - Kick back (15)
+  - Lateral raise (15)
+
 ## Wednesday (1/29) Legs ()
 - Squat (135/155/185/205/235/155)
 - Leg press (180/270/360/450/510/180)

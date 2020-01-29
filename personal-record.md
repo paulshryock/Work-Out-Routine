@@ -21,7 +21,9 @@ Back
 
 Biceps
 - BB curl (90) 1
-- OH EZ curl (45)
+- EZ curl superset (50)
+  - UH 12
+  - OH 5
 - Preacher curl (25)
 
 Traps
