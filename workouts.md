@@ -1,11 +1,12 @@
 # Workouts
 
 ## Wednesday (1/29) Legs ()
-- Smith squat (135/155/185/225/235/135)
-- Leg press (280/300/320/340/360)
-- Leg press calf extension (200/225/250)
-- Leg curl (100/110/120)
-- Leg extension (140/150/160)
+- Squat (135/155/185/205/235/155)
+- Leg press (180/270/360/450/510/180)
+- Seated calf extension (100/120/140/160/190/100)
+- Leg curl (100/110/120/130)
+- Leg extension (120/140/160/180)
+- Leg press calf extension (180/)
 
 ## Tuesday (1/28) Pull (153 lb)
 - Deadlift (135/185/185/225/225/285) 12/5/5/5/5/1
