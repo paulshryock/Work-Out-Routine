@@ -30,7 +30,7 @@ Traps
 - BB shrug (160) 12
 
 Quads
-- Squat (230) 1
+- Squat (235) 1
 - Smith squat (225) 3
 - Incline leg press (500) 3
 - Seated leg press (360) 1
@@ -41,5 +41,5 @@ Hamstrings
 
 Calves
 - Standing calf extension (210) 12
-- Seated calf extension (180) 4
+- Seated calf extension (190) 3
 - Leg press calf extension (225) 12
