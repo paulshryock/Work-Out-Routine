@@ -1,7 +1,7 @@
 # Personal record
 
 Chest
-- Bench press (175) 1
+- Bench press (180) 1
 - Smith bench press (210) 1
 - Weighted dip (35) 6
 - Pull over (45) 12
@@ -15,12 +15,12 @@ Triceps
 
 Back
 - Deadlift (285) 1
-- Bent over row (155) 5
+- BB row (155) 5
 - Weighted chin-up (30) 3
-- Weighted pull-up (35) 2
+- Weighted pull-up (35) 3
 
 Biceps
-- BB curl (90) 1
+- BB curl (90) 3
 - EZ curl superset (50)
   - UH 12
   - OH 5
@@ -40,6 +40,6 @@ Hamstrings
 - Leg curl (120) 10
 
 Calves
-- Standing calf extension (210) 12
+- Standing calf extension (275) 10
 - Seated calf extension (190) 3
 - Leg press calf extension (225) 12

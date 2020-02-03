@@ -1,31 +1,39 @@
 # Workouts
 
-## Friday (1/31) Pull ()
-- Deadlift PR (135/185/225/225/225/290)
-- BB curl PR? (65/75/85/90)
-- BB row PR? (95/115/135/155)
-- EZ curl superset (60)
-  - UH
-  - OH
-Superset:
-  - Weighted pull-up (10/25/35/0)
-  - Weighted dip (10/25/35/0)
-- Preacher curl (25)
-- DB row (60)
-- Hammer curl (30)
+## Monday (2/3) Push ()
+- Smith bench press (155/185/185/185/215)
+- Overhead press (70/80/80/80/90)
+- Skull crusher (50/60/60/60/70)
+- Front raise (20)
+- Kick back (15)
+- Lateral raise (20)
+- Dip
+- Reverse fly (20)
 
-## Thursday (1/30) Push ()
-- Bench press PR (115/135/145/155/180/135)
-- Overhead press PR? (65/75/85/95/100/65)
-- Skull crusher PR? (50/60/60/70)
-- Pull over PR (50)
+## Saturday (2/1) Push
+- Bench press (95/135/150/165/180/135) 12/5/5/2/0/5
+- Low bar squat (135/155/185/135) 5/5/5/10
+- Weighted pull-up (10/25/0) 10/7/6
+- Calf extension (150/210/250/275) 12/12/10/10
+
+## Friday (1/31) Pull
+- Deadlift (135/185/225/225/225) 10/5/5/5/3
+- BB curl (65/75/85/90) 10/5/5/3
+- BB row (95/115/135/155) 10/10/5/5
+- Weighted pull-up (10/25/35/0) 10/5/3/6
+
+## Thursday (1/30) Push (157 lb)
+- Bench press (115/135/155/180) 10/5/5/1 (spotter might have helped, try again)
+- Overhead press (65/75/85/95/65) 10/5/5/3/10
+- Skull crusher (60/60/60/70) 12/11/12/5
 Superset:
-  - Weighted dip (10/25/35/0)
-  - Weighted pull-up (10/25/35/0)
+  - Weighted dip (10/25/35) 10/5/5
+  - Weighted pull-up (10/25/35) 3/3/3
+- Pull over PR (50) 12/12/12
 Triset:
-  - Reverse fly (15)
-  - Kick back (15)
-  - Lateral raise (15)
+  - Lateral raise (15) 12/12/12
+  - Reverse fly (15) 12/12/12
+  - Front raise (15) 12/12/12
 
 ## Wednesday (1/29) Legs (157 lb)
 - Squat (135/155/185/205/235/155) 10/5/5/4/1/5 (235 was very slow, try again)
