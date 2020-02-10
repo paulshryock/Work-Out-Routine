@@ -1,14 +1,60 @@
 # Workouts
 
-## Monday (2/3) Push ()
-- Smith bench press (155/185/185/185/215)
-- Overhead press (70/80/80/80/90)
-- Skull crusher (50/60/60/60/70)
-- Front raise (20)
-- Kick back (15)
+## Monday (2/10) Push ()
+- Smith bench press (135/155/185/210/185/155)
+- Overhead press (65/75/85/95)
+- Skull crusher (60/70/70)
+- Pull over (55)
 - Lateral raise (20)
+- Kick back (20)
 - Dip
 - Reverse fly (20)
+
+## Sunday (2/9) Legs (155 lb)
+- Squat (135/155/185/205/240/225/155) 5/5/3/3/0/1/5
+- Leg press (180/270/360/450/500/360) 12/12/5/3/1/5
+
+## Saturday (2/8) Push
+- Bench press (135/155/165/180/165/145) 5/5/3/0/2/5
+- Deadlift (135/185/205/185/135) 10/5/5/5/10
+Superset:
+  - Weighted dip (10/25/40/0) 12/10/7/5
+  - Weighted pull-up (10/25/40) 3/3/1
+
+## Friday (2/7) Pull (155 lb)
+- Deadlift (135/185/225/295/225/185) 10/5/5/0/4/5
+- BB curl (75/85/95) 5/5/3
+Superset:
+  - BB row (125/135/) 10/5/5
+  - BB shrug (125/135/) 12/12/12
+- Weighted pull-up (10/25/35/0) 5/5/3/5
+- OH EZ curl (50) 10/10/10
+
+## Thursday (2/6) Legs (153 lb)
+- Squat (135/155/185/235/185) 7/5/5/1/3
+- Calf extension (90/140/160/180) 12/9/5/4
+- Leg press (180/270/360/430/505) 10/10/8/5/0
+- Leg curl (90/100/110/110) 12/10/6/5
+- Leg extension (120/140/160) 12/10/8
+
+## Tuesday (2/4) Pull (153 lb)
+- Deadlift (135/185/225/290/225/185) 10/5/5/1/5/5
+- BB curl (65/75/85) 10/5/4
+- Pull-up 10/6/7
+- OH EZ curl (55) 6/5/5
+- BB row (115/125/135/155) 12/9/9/5
+- Preacher curl (25) 12/12/8
+- DB row (55) 9
+
+## Monday (2/3) Push (154 lb)
+- Smith bench press (155/185/185/185/195/135) 10/5/5/3/2/12
+- Overhead press (65/75/85/85) 10/5/5/5
+- Skull crusher (55/65/65) 12/6/6
+- Front raise (20) 12/12/12
+- Kick back (15) 12/12/12
+- Lateral raise (20) 9/9/9
+- Dip 12/12/8
+- Reverse fly (20) 12/12/12
 
 ## Saturday (2/1) Push
 - Bench press (95/135/150/165/180/135) 12/5/5/2/0/5
@@ -29,7 +75,7 @@
 Superset:
   - Weighted dip (10/25/35) 10/5/5
   - Weighted pull-up (10/25/35) 3/3/3
-- Pull over PR (50) 12/12/12
+- Pull over (50) 12/12/12
 Triset:
   - Lateral raise (15) 12/12/12
   - Reverse fly (15) 12/12/12
@@ -38,7 +84,7 @@ Triset:
 ## Wednesday (1/29) Legs (157 lb)
 - Squat (135/155/185/205/235/155) 10/5/5/4/1/5 (235 was very slow, try again)
 - Leg press (180/270/360/450/510) 16/10/5/4/0
-- Seated calf extension (100/120/140/160/190) 12/12/8/6/3
+- Calf extension (100/120/140/160/190) 12/12/8/6/3
 
 ## Tuesday (1/28) Pull (153 lb)
 - Deadlift (135/185/185/225/225/285) 12/5/5/5/5/1

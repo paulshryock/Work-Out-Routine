@@ -3,8 +3,8 @@
 Chest
 - Bench press (180) 1
 - Smith bench press (210) 1
-- Weighted dip (35) 6
-- Pull over (45) 12
+- Weighted dip (40) 7
+- Pull over (50) 12
 
 Shoulders
 - Overhead press (100) 1
@@ -14,10 +14,10 @@ Triceps
 - Push down (110)
 
 Back
-- Deadlift (285) 1
+- Deadlift (290) 1
 - BB row (155) 5
 - Weighted chin-up (30) 3
-- Weighted pull-up (35) 3
+- Weighted pull-up (40) 1
 
 Biceps
 - BB curl (90) 3
