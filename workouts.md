@@ -1,18 +1,24 @@
 # Workouts
 
-## Monday (2/10) Push ()
-- Smith bench press (135/155/185/210/185/155)
-- Overhead press (65/75/85/95)
-- Skull crusher (60/70/70)
-- Pull over (55)
-- Lateral raise (20)
-- Kick back (20)
-- Dip
-- Reverse fly (20)
+## Tuesday (2/11) Legs ()
+- Smith squat (155/185/185/185/225)
+- Leg press (180/270/270/270/320)
+- Leg curl (100/110/120)
+- Leg extension (150/160/170)
+- Leg press calf extension (200/225/250)
+
+## Monday (2/10) Push (152 lb)
+- Bench press (135/145/155/165) 8/5/4/2
+- Overhead press (65/75/85/85) 10/7/4/4
+- Skull crusher (60) 11/9/7
+- Pull over (45) 12/12/12
+- Dip 10/10/8
 
 ## Sunday (2/9) Legs (155 lb)
 - Squat (135/155/185/205/240/225/155) 5/5/3/3/0/1/5
 - Leg press (180/270/360/450/500/360) 12/12/5/3/1/5
+
+Week 41
 
 ## Saturday (2/8) Push
 - Bench press (135/155/165/180/165/145) 5/5/3/0/2/5
@@ -55,6 +61,8 @@ Superset:
 - Lateral raise (20) 9/9/9
 - Dip 12/12/8
 - Reverse fly (20) 12/12/12
+
+Week 40
 
 ## Saturday (2/1) Push
 - Bench press (95/135/150/165/180/135) 12/5/5/2/0/5
@@ -105,6 +113,8 @@ Triset:
 - Seated calf extension (100/120/140/160/180/100) 12/10/8/4/4/11
 - Leg curl (90/100/120/80) 10/10/5/8
 - Leg extension (100/120/140/160/100) 12/12/10/6/10
+
+Week 39
 
 ## Saturday (1/25) Push (154 lb)
 - Bench press (95/115/135/155/175/155/135) 12/10/5/4/1/3/9
@@ -163,6 +173,8 @@ Superset:
   - Weighted dip (10/25/35/0) 5/5/5/5
   - Weighted pull-up (10/25/35/0) 5/4/2/5
 
+Week 38
+
 ## Saturday (1/18) Legs
 - Squat (135/180/180/180/135) 5/5/5/5/5
 - Standing calf extension (50/90/150/210) 12/12/12/12
@@ -204,6 +216,8 @@ Superset
 ## Monday (1/13) Push (157 lb)
 - Bench press (95/105/115/125/135/145/135/95) 12/12/9/7/5/3/5/12
 - Overhead press (45/55/65/75/65/55) 12/12/10/5/8/12
+
+Week 37
 
 ## Saturday (1/11) Legs (154 lb)
 - Squat (135/145/155/185/210/135) 10/10/8/5/2/10
@@ -263,6 +277,8 @@ Superset:
 - Leg extension (90/130/170) 12/12/7
 - Leg curl (80/90/100) 12/10/8
 
+Week 36
+
 ## Saturday (1/4) Pull (152 lb)
 - Deadlift (135/185/225/275/225/185/135) 8/5/5/1/5/5/12
 - BB row (95/115/135) 12/8/5
@@ -306,6 +322,8 @@ Triset:
 - Squat (55) 10
 - Leg extension (90) 12/12/12
 - Leg curl (70) 10/7
+
+Week 35
 
 ## Saturday (12/28) Push
 - Bench press (95/115/135/155/165/155/135) 6/6/6/3/1/2/5
@@ -354,6 +372,8 @@ Superset:
 - EZ curl (40) 7/5
 - Preacher curl (20) 7/5/7
 
+Week 34
+
 ## Saturday (12/21) Push (155 lbs)
 - Bench press (115/135/145/155/135) 6/5/2/6
 - Overhead press (75/65/65) 5/5/5
@@ -368,7 +388,6 @@ Triset:
   - Reverse fly (15) 12/12
 
 ## Thursday (12/19) Push
-(I'm exhausted, workout feels weak)
 - Bench press (135/135/135/145) 4/4/4/5
 - Overhead press (70/70/50) 5/4/8
 - Pull over (40) 10/10/10
@@ -414,6 +433,8 @@ Triset:
 - Seated calf extension (50/70/90) 12/12/12
 - Leg extension (150/170/190/100) 8/6/5/6
 - Lying leg curl (70/100/100) 12/9/5
+
+Week 33
 
 ## Saturday (12/14) Pull (151 lb)
 - BB row (95) 12/12/10
