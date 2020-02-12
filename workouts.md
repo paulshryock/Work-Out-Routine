@@ -1,11 +1,15 @@
 # Workouts
 
-## Tuesday (2/11) Legs ()
-- Smith squat (155/185/185/185/225)
-- Leg press (180/270/270/270/320)
-- Leg curl (100/110/120)
-- Leg extension (150/160/170)
-- Leg press calf extension (200/225/250)
+## Wednesday (2/12) Pull ()
+- Dead lift (135/185/205/225/295/225/185)
+- BB curl (75/85/95)
+- BB row (135)
+- Pull-up
+- EZ curl superset (55)
+  - UH
+  - OH
+- DB row
+- Preacher curl
 
 ## Monday (2/10) Push (152 lb)
 - Bench press (135/145/155/165) 8/5/4/2
@@ -31,8 +35,8 @@ Superset:
 - Deadlift (135/185/225/295/225/185) 10/5/5/0/4/5
 - BB curl (75/85/95) 5/5/3
 Superset:
-  - BB row (125/135/) 10/5/5
-  - BB shrug (125/135/) 12/12/12
+  - BB row (125/135/135) 10/5/5
+  - BB shrug (125/135/135) 12/12/12
 - Weighted pull-up (10/25/35/0) 5/5/3/5
 - OH EZ curl (50) 10/10/10
 
