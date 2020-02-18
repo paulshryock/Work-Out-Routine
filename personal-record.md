@@ -30,7 +30,7 @@ Traps
 - BB shrug (160) 12
 
 Quads
-- Squat (235) 1
+- Squat (240) 1
 - Smith squat (225) 3
 - Incline leg press (500) 3
 - Seated leg press (360) 1

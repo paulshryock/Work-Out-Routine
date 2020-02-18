@@ -1,15 +1,62 @@
 # Workouts
 
-## Wednesday (2/12) Pull ()
-- Dead lift (135/185/205/225/295/225/185)
-- BB curl (75/85/95)
-- BB row (135)
+## Tuesday (2/18) Pull 5x5 ()
+- Deadlift (225)
+Superset:
+  - BB row (135)
+  - BB shrug (135)
 - Pull-up
-- EZ curl superset (55)
-  - UH
-  - OH
-- DB row
-- Preacher curl
+- BB curl (70)
+- DB row (55) form check
+- Hammer curl (30)
+- Hyper
+
+## Monday (2/17) Push (156 lb)
+- Bench press (145) 5/5/5/5/5
+- Overhead press (75) 5/5/5/5/5
+- Skull crusher (60) 12/10/8
+- Dip (25) 8/5/10
+- Pull-up (25) 3
+Superset:
+  - Kick back (15/20/20) 12/12/12
+  - Front raise (20) 12/12/12
+- Pull over (50) 12/12/12
+
+## Sunday (2/16) Legs (156/)
+- Squat (185) 5/5/5/5/5
+- Leg press (360) 5/5/5/5/5
+- Calf extension (140x5/90) 10/10/7/7/7/7
+
+## Saturday (2/15) Pull
+- Deadlift (135/185/225/255/295/275/225/185) 10/3/3/2/0/1/5/10
+- BB curl (65/75/85/65) 10/7/4/7
+- BB row (135/135/155) 8/7/4
+Superset (10/25/35/40)
+  -  Pull-up 7/5/4/3
+  -  Dip 10/5
+EZ curl superset (50)
+  - UH 10/10/6
+  - OH 10/4/3
+
+## Friday (2/14) Push
+- Bench press (135/145/145/145/135) 5/5/5/5/5
+- Overhead press (65/75/85) 10/8/5
+- Weighted dip (10/25/30) 10/10/6
+
+## Thursday (2/13) Legs (154 lb)
+- Squat (135/160/185/210/240/210/185/135) 5/5/5/3/1/2/5/10
+- Calf extension (140/140/140/90) 10/9/7/10
+- Leg press (180/270/360/450) 10/10/10/5
+- Leg curl (100) 10/10/7
+
+## Wednesday (2/12) Pull (151 lb)
+- Deadlift (135/185/205/225/245/225/185) 10/5/5/5/3/5/5
+- BB curl (75/85/95) 10/5/3
+- BB row (135) 10/7/5
+- Pull-up 7/7/5
+- DB curl (25/30/30) 10/10/5
+- DB row (55) 10/10/10
+- Preacher curl (25) 10/8/8
 
 ## Monday (2/10) Push (152 lb)
 - Bench press (135/145/155/165) 8/5/4/2
