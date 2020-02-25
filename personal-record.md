@@ -31,7 +31,7 @@ Traps
 
 Quads
 - Squat (240) 1
-- Smith squat (225) 3
+- Smith squat (250) 2
 - Incline leg press (500) 3
 - Seated leg press (360) 1
 - Leg extension (170) 7

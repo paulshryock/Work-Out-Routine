@@ -1,15 +1,44 @@
 # Workouts
 
-## Tuesday (2/18) Pull 5x5 ()
-- Deadlift (225)
-Superset:
-  - BB row (135)
-  - BB shrug (135)
+## Tuesday (2/25) Pull ()
+- Deadlift (135/185/225/295/255/225/225/225/225)
+Superset: (155)
+  - BB row
+  - BB shrug
+- BB curl (60/70/80/90)
 - Pull-up
-- BB curl (70)
-- DB row (55) form check
-- Hammer curl (30)
-- Hyper
+- EZ curl superset (55)
+  - OH
+  - UH
+- DB row (60)
+- Preacher curl (25)
+
+## Monday (2/24) Legs (152 lb)
+- Smith squat (135/155/185/205/225/250/205/205/205) 10/5/5/5/3/2/5/5/5
+- Leg press (280/300/300/300/300) 10/6/5/5/5
+- Leg curl (100) 10/10/10
+- Leg extension (140) 10/10/10
+
+## Friday (2/21) Pull (151 lb)
+- Deadlift (135/185/225/225/225/225/225/255) 10/5/5/5/5/5/5/2
+Superset: (145)
+  - BB row 5/5/5/5
+  - BB shrug 12/12/12/10
+- Weighted pull-up (10/25/35/25/10/0) 5/5/4/5/5/6
+- BB curl (70) 10
+
+## Wednesday (2/19) Legs (152 lb)
+- Squat (135/165/185/225/245/235/185/185/155) 10/5/3/1/0/0/5/4/5
+- Leg press (180/270/360/360/360/360) 12/10/5/5/5/5
+- Calf extension (140) 10/10/7/8
+
+## Tuesday (2/18) Pull (152 lb)
+- Deadlift (135/185/225/225/225/225/225) 10/5/5/5/5/5/5
+Superset:
+  - BB row (135) 5/5/5/5/5
+  - BB shrug (135) 12/12/12/12/12
+- Pull-up 6/6/5
+- BB curl (70) 10/5/6
 
 ## Monday (2/17) Push (156 lb)
 - Bench press (145) 5/5/5/5/5
