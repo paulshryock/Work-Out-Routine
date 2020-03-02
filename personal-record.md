@@ -4,7 +4,7 @@ Chest
 - Bench press (180) 1
 - Smith bench press (210) 1
 - Weighted dip (40) 7
-- Pull over (50) 12
+- Pull over (55) 7
 
 Shoulders
 - Overhead press (100) 1
@@ -25,6 +25,7 @@ Biceps
   - UH 12
   - OH 5
 - Preacher curl (25)
+- Hammer curl (30)
 
 Traps
 - BB shrug (160) 12

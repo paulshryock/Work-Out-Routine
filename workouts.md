@@ -1,10 +1,10 @@
 # Workouts
 
 ## Monday (3/2) Legs ()
-- Smith squat (210)
+- Smith squat (210/255)
 - Lunge
 - Leg press (275)
-- Calf extension
+- Calf extension (200/)
 - Leg curl (100)
 - Leg extension (140)
 
