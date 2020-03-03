@@ -1,12 +1,29 @@
 # Workouts
 
-## Monday (3/2) Legs ()
-- Smith squat (210/255)
-- Lunge
-- Leg press (275)
-- Calf extension (200/)
-- Leg curl (100)
-- Leg extension (140)
+## Wednesday (3/4) Push ()
+- Bench press (150/180) {5}
+- Smith bench press (185/210) {5}
+- Overhead press (80) {5}
+- Skull crusher (60) {9/8/7}
+- Dip
+Superset:
+  - Lateral raise (20)
+  - Reverse fly (20)
+- Kick back (20)
+
+## Tuesday (3/3) Pull (154 lb)
+- Deadlift PR (135/185/225/300/225/225/225/225) 10/5/5/1/5/5/5/5
+- BB row (165) 5/5/5
+- Pull-up 5/5/5/5
+- EZ curl (65/75/75) 10/5/5
+- DB row (60) 9/9/10
+
+## Monday (3/2) Legs (154 lb)
+- Smith squat (210) 5/5/5/5/5
+- Leg press (275) 8/6/8
+- Calf extension (100/150/200) 12/12/12
+- Leg curl (100) 12/12/10
+- Leg extension (140) 10/10/8
 
 ## Saturday (2/29) Push (152 lb)
 - Bench press (145) 5/5/5/5/5

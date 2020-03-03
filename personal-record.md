@@ -14,8 +14,8 @@ Triceps
 - Push down (110)
 
 Back
-- Deadlift (295) 1
-- BB row (155) 5
+- Deadlift (300) 1
+- BB row (165) 5
 - Weighted chin-up (30) 3
 - Weighted pull-up (40) 1
 
