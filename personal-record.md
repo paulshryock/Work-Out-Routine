@@ -7,11 +7,11 @@ Chest
 - Pull over (55) 7
 
 Shoulders
-- Overhead press (100) 1
+- Overhead press (100) 2
 
 Triceps
 - Skull crusher (70) 5
-- Push down (110)
+- Push down (110) 10
 
 Back
 - Deadlift (300) 1
@@ -24,15 +24,16 @@ Biceps
 - EZ curl superset (50)
   - UH 12
   - OH 5
-- Preacher curl (25)
-- Hammer curl (30)
+- Preacher curl (25) 12
+- Hammer curl (30) 12
 
 Traps
 - BB shrug (160) 12
 
 Quads
-- Squat (240) 1
+- Squat (245) 1
 - Smith squat (250) 2
+- Lunge (30) 10
 - Incline leg press (500) 3
 - Seated leg press (360) 1
 - Leg extension (170) 7
