@@ -4,7 +4,7 @@ Chest
 - Bench press (180) 1
 - Smith bench press (210) 1
 - Weighted dip (40) 7
-- Pull over (55) 7
+- Pull over (55) 10
 
 Shoulders
 - Overhead press (100) 2
@@ -20,11 +20,11 @@ Back
 - Weighted pull-up (40) 1
 
 Biceps
-- BB curl (90) 3
+- BB curl (90) 4
 - EZ curl superset (50)
   - UH 12
   - OH 5
-- Preacher curl (25) 12
+- Preacher curl (30) 12
 - Hammer curl (30) 12
 
 Traps
@@ -33,7 +33,7 @@ Traps
 Quads
 - Squat (245) 1
 - Smith squat (250) 2
-- Lunge (30) 10
+- Lunge (50) 12
 - Incline leg press (500) 3
 - Seated leg press (360) 1
 - Leg extension (170) 7
