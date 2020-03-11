@@ -2,7 +2,7 @@
 
 Chest
 - Bench press (180) 1
-- Smith bench press (210) 1
+- Smith bench press (210) 2
 - Weighted dip (40) 7
 - Pull over (55) 10
 

@@ -1,17 +1,23 @@
 # Workouts
 
-## Tuesday (3/10) Pull ()
-- Deadlift (135/185/235/300/235/235/235/235)
+## Wednesday (3/11) Push (154 lb)
+- Smith bench press (185x5/210) 5/5/5/5/5/2
+- Overhead press (80) 5/5/5/5/5
+- Skull crusher (60) 11/9/7
+- Dip 10/10/10
+- Pull over (55) 9/9/9
+- Lateral raise (20) 12/11/9
+
+## Tuesday (3/10) Pull (153 lb)
+- Deadlift (135/155/185/235/300/235/235/235/235) 5/5/5/5/1/5/5/5/5
 Superset (165):
-  - BB row
-  - BB shrug
-- BB curl (65/75/85/95)
-- Pull-up
+  - BB row 5/5/5
+  - BB shrug 12/8
+- BB curl (65/75/85/85) 10/6/3/3
+- Pull-up 5/6/6
 - EZ curl superset (55)
-  - OH
-  - UH
-- DB row (60)
-- Preacher curl (30)
+  - OH 6/5
+  - UH 5/3
 
 ## Monday (3/9) Legs (153 lb)
 - Lunge (50) 12/10
