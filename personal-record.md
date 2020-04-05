@@ -14,10 +14,10 @@ Triceps
 - Push down (110) 10
 
 Back
-- Deadlift (300) 1
+- Deadlift (305) 1
 - BB row (165) 5
 - Weighted chin-up (30) 3
-- Weighted pull-up (40) 1
+- Weighted pull-up (45) 3
 
 Biceps
 - BB curl (90) 4
@@ -31,9 +31,10 @@ Traps
 - BB shrug (160) 12
 
 Quads
-- Squat (245) 1
+- Back Squat (245) 1
+- Front Squat (115) 3
 - Smith squat (250) 2
-- Lunge (50) 12
+- Lunge (75) 7
 - Incline leg press (500) 3
 - Seated leg press (360) 1
 - Leg extension (170) 7

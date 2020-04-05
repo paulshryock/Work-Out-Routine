@@ -1,5 +1,86 @@
 # Workouts
 
+## Sunday (4/5) Push ()
+- Bench press (145/180/145/145/145/145)
+- Overhead press (80)
+- Pull over (55)
+- Front raise (15)
+- Incline DB tricep extension (15)
+- Reverse fly (15)
+- Kick back (15)
+
+## Saturday (4/4) Pull (154 lb)
+- Deadlift (230) 5/5/5/5/6
+- BB row (170) 5/5/5/5/5
+- BB curl (80) 9/4/3
+- Preacher curl (30) 7/7/7
+
+## Wednesday (4/1) Push (154 lb)
+- Bench press (145/180/145x4) 5/1/5/5/5/5
+- Overhead press (80) 5/5/5/5/5
+- Kick back (15) 12/12/12
+- Lateral raise (15) 12/10/9
+- Pull over (55) 10/10/10
+
+## Tuesday (3/31) Pull
+- Deadlift (230) 5/5/5/5/5
+- BB row (165) 5/5/5/5/5
+- BB curl (80) 5/5/5
+- DB row (50) 12/12/12
+- DB curl (30) 8/8/5
+
+## Monday (3/30) Legs
+- Front squat (95/95/115/105/105) 5/5/3/5/5
+- Lunge (65/65/75) 10/10/7
+- Calf extension 100
+
+## Sunday (3/29) Push
+- Bench press (145/180/145/145/145/145) 5/0/5/5/4/5
+- Overhead press (80) 5/5/5/5/5
+- Kick back (15) 10/10/10
+- Floor fly (15) 12/12/12
+- Lateral raise (15) 10/9/8
+
+## Wednesday (3/25) Pull (155)
+- Deadlift (135/185/230x5) 5/5/5/5/5/5/5
+- BB row (165) 5/5/5
+- BB curl (75) 10/8/5
+
+## Sunday (3/22) Legs
+- Front squat (45/45/95/95/95) 12/12/3/10/10
+- Lunge (45/55/55) 10/10/10
+- Calf extension 100
+
+## Saturday (3/21) Push (155 lb)
+- Bench press (145) 5/5/5/5/5
+- Overhead press (80) 5/5/5/5/5
+- Kick back (15) 12/12/12
+- Fly (15) 12/12/12
+- Pull over (50) 12/12/12
+- Calf extension 100
+
+## Thursday (3/19) Pull
+- Deadlift (135/155) 10/10
+- BB row (135/155) 10/10
+- BB shrug (135/155) 12/12
+- Front raise (15) 12/12
+- DB curl (15) 12/12
+
+## Wednesday (3/18) Push/Pull
+- Bench press (145) 5/5/5/5/5
+- Dead lift (135/185/230x5) 5/5/5/5/5/5/5
+
+## Friday (3/13) Pull (156 lb)
+- Deadlift (135/185/235/305/235/235/235/235) 5/5/5/1/5/5/5/5
+- BB row (165) 5/5/5
+- Pull-up 8/8/5
+- BB curl (70) 8/7/5
+
+## Thursday (3/12) Legs (156 lb)
+- Squat (135/190/245/190/190/190/190) 5/5/1/5/5/5/5
+- Leg press (360) 10/12/10
+- Calf extension (140) 12/9/8
+
 ## Wednesday (3/11) Push (154 lb)
 - Smith bench press (185x5/210) 5/5/5/5/5/2
 - Overhead press (80) 5/5/5/5/5
@@ -39,7 +120,7 @@ Superset (165):
 ## Friday (3/6) Pull (157 lb)
 - Deadlift (135/185/235x5) 5/5/5/5/5/5/5
 - BB row (165) 5/5/5
-- Weighted pull-up PR (25/35/45) 5/5/3
+- Weighted pull-up (25/35/45) 5/5/3
 - BB curl (70/90/70) 10/4/7
 
 ## Thursday (3/5) Legs (157 lb)
