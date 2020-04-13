@@ -1,13 +1,34 @@
 # Workouts
 
-## Sunday (4/5) Push ()
-- Bench press (145/180/145/145/145/145)
-- Overhead press (80)
-- Pull over (55)
-- Front raise (15)
-- Incline DB tricep extension (15)
-- Reverse fly (15)
-- Kick back (15)
+## Monday (4/6) Legs (155 lb)
+- Front squat (115) {5}
+- Lunge (65) {12}
+- Calf extension (45/90/140) {12}
+
+## Sunday (4/12) Push (156 lb)
+- Bench press (145/185/145/145/145/145) 5/1/5/5/5/5
+- Overhead press (85) 5/5/5/4/5
+- Pull over (55) 12/12/12
+- Front raise (17.5) 12/12/12
+
+## Wednesday (4/8) Pull
+- Deadlift (230) 6/6/6/6/6
+- BB row (170) 5/5/6/5/5
+- BB curl (80) 6/6/6
+- Preacher curl (30) 8/8/8
+
+## Monday (4/6) Legs (155 lb)
+- Front squat (95/105/115/115/115) 5/5/5/5/5
+- Lunge (65/75/85) 10/7/5
+
+## Sunday (4/5) Push (155 lb)
+- Bench press (145/180/145/145/145/145) 5/1/5/5/5/5
+- Overhead press (80) 5/5/5/5/5
+- Pull over (55) 11/11/11 (Always check the collars!)
+- Front raise (15) 12/12/12
+- Standing DB tricep extension (15) 12/12/12
+- Reverse fly (15) 12/12/12
+- Kick back (15) 12/12/12
 
 ## Saturday (4/4) Pull (154 lb)
 - Deadlift (230) 5/5/5/5/6

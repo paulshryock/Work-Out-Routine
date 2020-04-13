@@ -1,10 +1,10 @@
 # Personal record
 
 Chest
-- Bench press (180) 1
+- Bench press (185) 1
 - Smith bench press (210) 2
 - Weighted dip (40) 7
-- Pull over (55) 10
+- Pull over (55) 12
 
 Shoulders
 - Overhead press (100) 2
