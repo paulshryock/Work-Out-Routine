@@ -1,9 +1,161 @@
 # Workouts
 
-## Monday (4/6) Legs (155 lb)
-- Front squat (115) {5}
-- Lunge (65) {12}
-- Calf extension (45/90/140) {12}
+## Tuesday (5/26) Hyper Push ()
+- Bench press (135)
+- Overhead press (70)
+- Skull crusher (60)
+- Pull over (60)
+Superset (17.5):
+- Front raise
+- Kick back
+Superset (17.5):
+- Lateral raise
+- Reverse fly
+
+## Monday (5/25) Power Legs (157 lb)
+- Squat (225/185) 1/5x5
+- Lunge (120) 5x3
+- Front squat (160/165/170) 4/3/1
+- Seated calf extension (45/90/140) 12/24/30
+- Glute bridge (135/155/185) 12x3
+
+## Sunday (5/24) Hyper pull
+- Deadlift (185) 12x5
+- Power clean (95) 5x3
+- BB curl (60) 12/10/10
+- BB row (135) 9/10/8
+- BB shrug (135) 8/7
+- EZ curl (60/60/50) 10/6/9
+- DB row (62.5/52.5/42.5) 10/10/12
+
+## Friday (5/22) Power push
+- Bench press (95/135/150x5) 5/3/5/5/5/5/4
+- Overhead press (110/80x5) 1/5x5
+- Skull crusher (60) 12x3
+- Incline close grip bench press (45/55/65/75) 12x4
+- Pull over (62.5) 7
+
+## Thursday (5/21) Hyper legs
+- Squat (135/205/155x3) 3/2/12/12/10
+- Lunge (95) 5x3
+- Front squat (160/105x3) 1/12x3
+- Hip thrust (135) 12/6
+
+## Wednesday (5/20) Power Pull
+- Deadlift (230) 10x5
+- BB curl (100/80/80) 3/7/6
+- BB row (135) 5x3
+
+## Tuesday (5/19) Hyper Push
+- Bench press (95/190/135) 12/1/3/12/7/5
+- Overhead press (110/75) 1/8/6/6
+- Skull crusher (60) 12/12/8
+- DB bench press (32.5) 12x3
+
+## Monday (5/18) Power Legs
+- Squat (185) 5x5
+- Lunge (115/120/125) 5x3
+- Front squat (155) 3x3
+- Hip thrust (45/95/135) 12x3
+
+## Sunday (5/17) Hyper pull
+- Deadlift (185) 10/10/10
+- Power clean (95) 5/5/5
+- BB row (135) 10/10/10
+- BB curl (100/75) 1/5/5/5
+- DB Row (57.5) 10/10/10
+- Preacher curl (25) 12/12/12
+
+## Friday (5/15) Power Push (154 lb)
+- Bench press (190/150x5) 5/0/5/5/5/5
+- Overhead press (85/110/85x4) 5/1/5/5/5/4
+- Skull crusher (50/60/65) 12/12/9
+- Pull over (57.5) 12/12/11
+- Lateral raise (20) 10/10/9
+
+## Thursday (5/14) Hyper Legs (153 lb)
+- Squat (95/135x3) 12/12/12/12
+- Lunge (110) 5/5/5
+- Glute bridge (45/60/75) 12/12/12
+- Calf extension (90/50/0) 24/12each/24
+
+## Wednesday (5/13) Power Pull
+Morning:
+- Power clean (65/95/95) 10/5/5
+- BB curl (65) 10
+- EZ curl (50) 10 UH/10 OH
+- Hammer curl (20) 10
+- DB row (45) 12
+
+Evening:
+- Deadlift (230) 10/10/10/7/7
+- BB curl (65/50) 10/10
+- Hammer curl (20) 10
+
+## Tuesday (5/12) Hyper Push (153 lb)
+- Bench press (95/115/125) 12/12/9
+- Overhead press (65) 10/7/6
+- Skull crusher (45/50/50) 12/12/12
+
+## Monday (5/11) Power Legs (154 lb)
+- Front squat (135x5) 5x5
+- Lunge (100/105/110) 5x3
+- Calf extension 100
+
+## Saturday (5/9) Legs
+- Front squat (95/115/125/130/135) 5/5/5/5/5
+- Lunge (95/100/105) 8/7/7
+- Glute bridge (45/45/60) 12/12/12
+
+## Monday (5/4) Pull
+- Deadlift (135/185/230x5) 10/5/8/8/6/6/6
+
+## Saturday (5/2) Pull
+- Power clean (85/95/115x3/95) 5/5/3/3/3/5
+
+## Thursday (4/30) Push (155 lb)
+- Bench press (150) 5/5/5/5/5
+- Overhead press (85) 5/5/5/4/4
+- Pull over (57.5) 12/12/12
+
+## Wednesday (4/29) Legs
+- Front squat (125) 5/5/5/5/5
+- Lunge (80) 10/10/6
+
+## Sunday (4/25) Push
+- Bench press (160/190/150/150/150/150) 5/0/5/5/5/4
+- Overhead press (90/90/80/80/80) 5/4/5/5
+- Pull over
+- Front raise (17.5) 10
+- Lateral raise
+- Reverse fly
+- Kick back
+
+## Thursday (4/23) Legs
+- Front squat (120) 5/5/5/5/5
+- Lunge (70) 10/10/10
+- Calf extension (45/90) 24/20
+
+## Sunday (4/19) Push/Pull (153 lb)
+- Bench press (190/150) 1/5x5
+- Deadlift (230) 7/7/7
+- BB curl (100/75/75) 3/7/5
+
+## Thursday (4/16) Push (156 lb)
+- Bench press (190/145x5) 0/5/5/5/5/5
+- Overhead press (90) 5/5/5/5/3
+- Incline press (95) 10/10/10
+- Decline press (95) 10/10/10
+
+## Wednesday (4/15) Pull (155 lb)
+- Deadlift (230) 7/7/7/7/7
+- BB row (170) 6/6/6
+- BB curl (80) 7/7/4
+
+## Monday (4/13) Legs (155 lb)
+- Front squat (115) 5/5/5/5/5
+- Lunge (65) 10/10/10
+- Calf extension (45) 12/24/24
 
 ## Sunday (4/12) Push (156 lb)
 - Bench press (145/185/145/145/145/145) 5/1/5/5/5/5
